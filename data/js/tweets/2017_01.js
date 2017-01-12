@@ -1,6 +1,1252 @@
 Grailbird.data.tweets_2017_01 = 
 [
 	{
+		"created_at": "Thu Jan 12 19:12:43 +0000 2017",
+		"id": 819623159540420600,
+		"id_str": "819623159540420611",
+		"text": "RT @andrewmead73: Twitter chat today at 2 PM CST. You're invited. We will use #hsdlearnschat Share and bring a friends. #hsdlearns https://…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "hsdlearnschat",
+					"indices": [
+						78,
+						92
+					]
+				},
+				{
+					"text": "hsdlearns",
+					"indices": [
+						120,
+						130
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "andrewmead73",
+					"name": "Andrew Mead",
+					"id": 248957048,
+					"id_str": "248957048",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5634392,
+			"id_str": "5634392",
+			"name": "Darren Kuropatwa",
+			"screen_name": "dkuropatwa",
+			"location": "Winnipeg, Manitoba, Canada",
+			"description": "Director of Learning at Hanover School Division \nAlways in beta ∞β \n(Tweets represent my own views.)",
+			"url": "http://t.co/FJEo2rqZf5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/FJEo2rqZf5",
+							"expanded_url": "http://adifference.blogspot.com",
+							"display_url": "adifference.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6864,
+			"friends_count": 2519,
+			"listed_count": 474,
+			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
+			"favourites_count": 373,
+			"utc_offset": -21600,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 24463,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/623182/ADifferenceBG.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/623182/ADifferenceBG.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "67CD67",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jan 12 19:12:13 +0000 2017",
+			"id": 819623031706452000,
+			"id_str": "819623031706451968",
+			"text": "Twitter chat today at 2 PM CST. You're invited. We will use #hsdlearnschat Share and bring a friends. #hsdlearns https://t.co/ri3l3ffv9C",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "hsdlearnschat",
+						"indices": [
+							60,
+							74
+						]
+					},
+					{
+						"text": "hsdlearns",
+						"indices": [
+							102,
+							112
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 819621963110838300,
+						"id_str": "819621963110838272",
+						"indices": [
+							113,
+							136
+						],
+						"media_url": "http://pbs.twimg.com/media/C1_h1TlUcAAYidH.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C1_h1TlUcAAYidH.jpg",
+						"url": "https://t.co/ri3l3ffv9C",
+						"display_url": "pic.twitter.com/ri3l3ffv9C",
+						"expanded_url": "https://twitter.com/andrewmead73/status/819623031706451968/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1018,
+								"h": 480,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1018,
+								"h": 480,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 321,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 819621963110838300,
+						"id_str": "819621963110838272",
+						"indices": [
+							113,
+							136
+						],
+						"media_url": "http://pbs.twimg.com/media/C1_h1TlUcAAYidH.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C1_h1TlUcAAYidH.jpg",
+						"url": "https://t.co/ri3l3ffv9C",
+						"display_url": "pic.twitter.com/ri3l3ffv9C",
+						"expanded_url": "https://twitter.com/andrewmead73/status/819623031706451968/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1018,
+								"h": 480,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1018,
+								"h": 480,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 321,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 248957048,
+				"id_str": "248957048",
+				"name": "Andrew Mead",
+				"screen_name": "andrewmead73",
+				"location": "Oakbank, Manitoba",
+				"description": "Principal, teacher, former athlete, Proud poppa x2, #Deanie award winner x2. I take pictures while I work. Opinions are my own. M. E. Ad.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2383,
+				"friends_count": 2267,
+				"listed_count": 156,
+				"created_at": "Tue Feb 08 02:08:00 +0000 2011",
+				"favourites_count": 2681,
+				"utc_offset": -21600,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 13940,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/814308930608250880/5pO3lTEY_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/814308930608250880/5pO3lTEY_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/248957048/1445727368",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "0811cf61cd9ea52f",
+				"url": "https://api.twitter.com/1.1/geo/id/0811cf61cd9ea52f.json",
+				"place_type": "city",
+				"name": "Winnipeg",
+				"full_name": "Winnipeg, Manitoba",
+				"country_code": "CA",
+				"country": "Canada",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-97.350366,
+								49.713679
+							],
+							[
+								-96.954987,
+								49.713679
+							],
+							[
+								-96.954987,
+								49.993932
+							],
+							[
+								-97.350366,
+								49.993932
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Jan 12 19:11:56 +0000 2017",
+		"id": 819622962705956900,
+		"id_str": "819622962705956864",
+		"text": "@jaccalder @jacbalen Thanks ladies!! It was @andrewmead73's idea. We worked out the prompts in a few min via DM. 😉",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jaccalder",
+					"name": "Jaclyn Calder",
+					"id": 20873330,
+					"id_str": "20873330",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "jacbalen",
+					"name": "Julie Balen",
+					"id": 31440678,
+					"id_str": "31440678",
+					"indices": [
+						11,
+						20
+					]
+				},
+				{
+					"screen_name": "andrewmead73",
+					"name": "Andrew Mead",
+					"id": 248957048,
+					"id_str": "248957048",
+					"indices": [
+						44,
+						57
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 819621666082918400,
+		"in_reply_to_status_id_str": "819621666082918401",
+		"in_reply_to_user_id": 20873330,
+		"in_reply_to_user_id_str": "20873330",
+		"in_reply_to_screen_name": "jaccalder",
+		"user": {
+			"id": 5634392,
+			"id_str": "5634392",
+			"name": "Darren Kuropatwa",
+			"screen_name": "dkuropatwa",
+			"location": "Winnipeg, Manitoba, Canada",
+			"description": "Director of Learning at Hanover School Division \nAlways in beta ∞β \n(Tweets represent my own views.)",
+			"url": "http://t.co/FJEo2rqZf5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/FJEo2rqZf5",
+							"expanded_url": "http://adifference.blogspot.com",
+							"display_url": "adifference.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6864,
+			"friends_count": 2519,
+			"listed_count": 474,
+			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
+			"favourites_count": 373,
+			"utc_offset": -21600,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 24463,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/623182/ADifferenceBG.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/623182/ADifferenceBG.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "67CD67",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Jan 12 19:02:52 +0000 2017",
+		"id": 819620680400506900,
+		"id_str": "819620680400506880",
+		"text": "You're invited!! Snow day chat! Facilitated by @andrewmead73 #HSDlearns #HSDlearns https://t.co/ABYkYxAGYR",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HSDlearns",
+					"indices": [
+						61,
+						71
+					]
+				},
+				{
+					"text": "HSDlearns",
+					"indices": [
+						72,
+						82
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "andrewmead73",
+					"name": "Andrew Mead",
+					"id": 248957048,
+					"id_str": "248957048",
+					"indices": [
+						47,
+						60
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ABYkYxAGYR",
+					"expanded_url": "https://twitter.com/andrewmead73/status/819620282537308160",
+					"display_url": "twitter.com/andrewmead73/s…",
+					"indices": [
+						83,
+						106
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5634392,
+			"id_str": "5634392",
+			"name": "Darren Kuropatwa",
+			"screen_name": "dkuropatwa",
+			"location": "Winnipeg, Manitoba, Canada",
+			"description": "Director of Learning at Hanover School Division \nAlways in beta ∞β \n(Tweets represent my own views.)",
+			"url": "http://t.co/FJEo2rqZf5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/FJEo2rqZf5",
+							"expanded_url": "http://adifference.blogspot.com",
+							"display_url": "adifference.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6864,
+			"friends_count": 2519,
+			"listed_count": 474,
+			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
+			"favourites_count": 373,
+			"utc_offset": -21600,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 24463,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/623182/ADifferenceBG.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/623182/ADifferenceBG.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "67CD67",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 819620282537308200,
+		"quoted_status_id_str": "819620282537308160",
+		"quoted_status": {
+			"created_at": "Thu Jan 12 19:01:17 +0000 2017",
+			"id": 819620282537308200,
+			"id_str": "819620282537308160",
+			"text": "Impromptu Snow Day Twitter chat at 2PM CST about 'Reflection'. We will use the tag #hsdlearnschat Open to anyone.… https://t.co/bfWYm2dRfI",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "hsdlearnschat",
+						"indices": [
+							83,
+							97
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/bfWYm2dRfI",
+						"expanded_url": "https://twitter.com/i/web/status/819620282537308160",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							115,
+							138
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 248957048,
+				"id_str": "248957048",
+				"name": "Andrew Mead",
+				"screen_name": "andrewmead73",
+				"location": "Oakbank, Manitoba",
+				"description": "Principal, teacher, former athlete, Proud poppa x2, #Deanie award winner x2. I take pictures while I work. Opinions are my own. M. E. Ad.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2383,
+				"friends_count": 2267,
+				"listed_count": 156,
+				"created_at": "Tue Feb 08 02:08:00 +0000 2011",
+				"favourites_count": 2681,
+				"utc_offset": -21600,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 13940,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/814308930608250880/5pO3lTEY_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/814308930608250880/5pO3lTEY_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/248957048/1445727368",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "0811cf61cd9ea52f",
+				"url": "https://api.twitter.com/1.1/geo/id/0811cf61cd9ea52f.json",
+				"place_type": "city",
+				"name": "Winnipeg",
+				"full_name": "Winnipeg, Manitoba",
+				"country_code": "CA",
+				"country": "Canada",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-97.350366,
+								49.713679
+							],
+							[
+								-96.954987,
+								49.713679
+							],
+							[
+								-96.954987,
+								49.993932
+							],
+							[
+								-97.350366,
+								49.993932
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Jan 12 19:01:26 +0000 2017",
+		"id": 819620318310441000,
+		"id_str": "819620318310440962",
+		"text": "RT @alaindebotton: What separates hope from despair is a different way of telling a story from the same facts.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "alaindebotton",
+					"name": "Alain de Botton",
+					"id": 19966557,
+					"id_str": "19966557",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5634392,
+			"id_str": "5634392",
+			"name": "Darren Kuropatwa",
+			"screen_name": "dkuropatwa",
+			"location": "Winnipeg, Manitoba, Canada",
+			"description": "Director of Learning at Hanover School Division \nAlways in beta ∞β \n(Tweets represent my own views.)",
+			"url": "http://t.co/FJEo2rqZf5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/FJEo2rqZf5",
+							"expanded_url": "http://adifference.blogspot.com",
+							"display_url": "adifference.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6864,
+			"friends_count": 2519,
+			"listed_count": 474,
+			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
+			"favourites_count": 373,
+			"utc_offset": -21600,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 24463,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/623182/ADifferenceBG.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/623182/ADifferenceBG.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "67CD67",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jan 12 14:42:35 +0000 2017",
+			"id": 819555177451679700,
+			"id_str": "819555177451679744",
+			"text": "What separates hope from despair is a different way of telling a story from the same facts.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 19966557,
+				"id_str": "19966557",
+				"name": "Alain de Botton",
+				"screen_name": "alaindebotton",
+				"location": "London",
+				"description": "Books; articles: https://t.co/AOdtXKVYWQ; films; https://t.co/dk8MZPUCS9",
+				"url": "https://t.co/NKcIMMdBOG",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/NKcIMMdBOG",
+								"expanded_url": "http://www.alaindebotton.com",
+								"display_url": "alaindebotton.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/AOdtXKVYWQ",
+								"expanded_url": "http://www.thebookoflife.org",
+								"display_url": "thebookoflife.org",
+								"indices": [
+									17,
+									40
+								]
+							},
+							{
+								"url": "https://t.co/dk8MZPUCS9",
+								"expanded_url": "http://www.youtube.com/theschooloflifetv",
+								"display_url": "youtube.com/theschooloflif…",
+								"indices": [
+									49,
+									72
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 635816,
+				"friends_count": 1204,
+				"listed_count": 9594,
+				"created_at": "Tue Feb 03 12:03:59 +0000 2009",
+				"favourites_count": 3260,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 3052,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/880564062/24ab788934c7759bac08650a038d84ad.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/880564062/24ab788934c7759bac08650a038d84ad.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/644583190435352576/3pRBrBdu_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/644583190435352576/3pRBrBdu_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19966557/1429302800",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 176,
+			"favorite_count": 376,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 176,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Jan 12 18:42:12 +0000 2017",
+		"id": 819615477785882600,
+		"id_str": "819615477785882624",
+		"text": "We'll be using #HSDlearnschat for the impromptu #HSDlearns twitter chat beginning at 2pm CST. If you read this, you're personally invited. 😉",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HSDlearnschat",
+					"indices": [
+						15,
+						29
+					]
+				},
+				{
+					"text": "HSDlearns",
+					"indices": [
+						48,
+						58
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5634392,
+			"id_str": "5634392",
+			"name": "Darren Kuropatwa",
+			"screen_name": "dkuropatwa",
+			"location": "Winnipeg, Manitoba, Canada",
+			"description": "Director of Learning at Hanover School Division \nAlways in beta ∞β \n(Tweets represent my own views.)",
+			"url": "http://t.co/FJEo2rqZf5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/FJEo2rqZf5",
+							"expanded_url": "http://adifference.blogspot.com",
+							"display_url": "adifference.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6864,
+			"friends_count": 2519,
+			"listed_count": 474,
+			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
+			"favourites_count": 373,
+			"utc_offset": -21600,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 24463,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/623182/ADifferenceBG.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/623182/ADifferenceBG.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "67CD67",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Jan 12 18:28:26 +0000 2017",
+		"id": 819612015887052800,
+		"id_str": "819612015887052800",
+		"text": "@Braddo @andrewmead73 So great to have you join along buddy!!!",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Braddo",
+					"name": "Brad Ovenell-Carter",
+					"id": 15268864,
+					"id_str": "15268864",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "andrewmead73",
+					"name": "Andrew Mead",
+					"id": 248957048,
+					"id_str": "248957048",
+					"indices": [
+						8,
+						21
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 819610695901671400,
+		"in_reply_to_status_id_str": "819610695901671425",
+		"in_reply_to_user_id": 15268864,
+		"in_reply_to_user_id_str": "15268864",
+		"in_reply_to_screen_name": "Braddo",
+		"user": {
+			"id": 5634392,
+			"id_str": "5634392",
+			"name": "Darren Kuropatwa",
+			"screen_name": "dkuropatwa",
+			"location": "Winnipeg, Manitoba, Canada",
+			"description": "Director of Learning at Hanover School Division \nAlways in beta ∞β \n(Tweets represent my own views.)",
+			"url": "http://t.co/FJEo2rqZf5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/FJEo2rqZf5",
+							"expanded_url": "http://adifference.blogspot.com",
+							"display_url": "adifference.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6864,
+			"friends_count": 2519,
+			"listed_count": 474,
+			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
+			"favourites_count": 373,
+			"utc_offset": -21600,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 24463,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/623182/ADifferenceBG.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/623182/ADifferenceBG.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "67CD67",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Jan 12 18:27:34 +0000 2017",
+		"id": 819611796776611800,
+		"id_str": "819611796776611841",
+		"text": "@sewilkie @BalancEdTech @RoyBPS That's GREAT company! Wish I were there. 🙂",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sewilkie",
+					"name": "sara wilkie",
+					"id": 244625496,
+					"id_str": "244625496",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "BalancEdTech",
+					"name": "BalancEdTech",
+					"id": 44669023,
+					"id_str": "44669023",
+					"indices": [
+						10,
+						23
+					]
+				},
+				{
+					"screen_name": "RoyBPS",
+					"name": "Roy McCloud",
+					"id": 344711657,
+					"id_str": "344711657",
+					"indices": [
+						24,
+						31
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 819611566110818300,
+		"in_reply_to_status_id_str": "819611566110818305",
+		"in_reply_to_user_id": 244625496,
+		"in_reply_to_user_id_str": "244625496",
+		"in_reply_to_screen_name": "sewilkie",
+		"user": {
+			"id": 5634392,
+			"id_str": "5634392",
+			"name": "Darren Kuropatwa",
+			"screen_name": "dkuropatwa",
+			"location": "Winnipeg, Manitoba, Canada",
+			"description": "Director of Learning at Hanover School Division \nAlways in beta ∞β \n(Tweets represent my own views.)",
+			"url": "http://t.co/FJEo2rqZf5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/FJEo2rqZf5",
+							"expanded_url": "http://adifference.blogspot.com",
+							"display_url": "adifference.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6864,
+			"friends_count": 2519,
+			"listed_count": 474,
+			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
+			"favourites_count": 373,
+			"utc_offset": -21600,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 24463,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/623182/ADifferenceBG.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/623182/ADifferenceBG.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "67CD67",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Jan 12 18:10:21 +0000 2017",
 		"id": 819607464358346800,
 		"id_str": "819607464358346754",
