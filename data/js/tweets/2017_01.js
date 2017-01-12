@@ -1,6 +1,229 @@
 Grailbird.data.tweets_2017_01 = 
 [
 	{
+		"created_at": "Thu Jan 12 13:05:50 +0000 2017",
+		"id": 819530829290475500,
+		"id_str": "819530829290475521",
+		"text": "RT @mbteachers: Get your teacher geek on @byteconference! Hundreds of colleagues, dozens of sessions. And fun? Don't get us started. https:…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mbteachers",
+					"name": "MB Teachers' Society",
+					"id": 281594138,
+					"id_str": "281594138",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "byteconference",
+					"name": "byte committee",
+					"id": 384564495,
+					"id_str": "384564495",
+					"indices": [
+						41,
+						56
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5634392,
+			"id_str": "5634392",
+			"name": "Darren Kuropatwa",
+			"screen_name": "dkuropatwa",
+			"location": "Winnipeg, Manitoba, Canada",
+			"description": "Director of Learning at Hanover School Division \nAlways in beta ∞β \n(Tweets represent my own views.)",
+			"url": "http://t.co/FJEo2rqZf5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/FJEo2rqZf5",
+							"expanded_url": "http://adifference.blogspot.com",
+							"display_url": "adifference.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6862,
+			"friends_count": 2517,
+			"listed_count": 474,
+			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
+			"favourites_count": 373,
+			"utc_offset": -21600,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 24455,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/623182/ADifferenceBG.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/623182/ADifferenceBG.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "67CD67",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jan 11 20:34:20 +0000 2017",
+			"id": 819281310413897700,
+			"id_str": "819281310413897732",
+			"text": "Get your teacher geek on @byteconference! Hundreds of colleagues, dozens of sessions. And fun? Don't get us started… https://t.co/breDTt2Xjg",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "byteconference",
+						"name": "byte committee",
+						"id": 384564495,
+						"id_str": "384564495",
+						"indices": [
+							25,
+							40
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/breDTt2Xjg",
+						"expanded_url": "https://twitter.com/i/web/status/819281310413897732",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 281594138,
+				"id_str": "281594138",
+				"name": "MB Teachers' Society",
+				"screen_name": "mbteachers",
+				"location": "Manitoba",
+				"description": "The Manitoba Teachers' Society is the collective bargaining/professional organization for Manitoba's public school teachers. Links, RTs are not endorsements.",
+				"url": "https://t.co/LGFxkWCSxa",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/LGFxkWCSxa",
+								"expanded_url": "http://www.mbteach.org",
+								"display_url": "mbteach.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6830,
+				"friends_count": 3585,
+				"listed_count": 189,
+				"created_at": "Wed Apr 13 15:50:12 +0000 2011",
+				"favourites_count": 2169,
+				"utc_offset": -21600,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 15869,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/669917317367644160/dfTtliuG_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/669917317367644160/dfTtliuG_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/281594138/1483983109",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Jan 10 01:55:15 +0000 2017",
 		"id": 818637296257867800,
 		"id_str": "818637296257867776",
