@@ -1,6 +1,218 @@
 Grailbird.data.tweets_2017_01 = 
 [
 	{
+		"created_at": "Wed Jan 25 13:59:54 +0000 2017",
+		"id": 824255477068550100,
+		"id_str": "824255477068550146",
+		"text": "RT @TLPCanada: Did you know? One in five children struggle with mental health. Let's bring greater awareness to youth mental health. #BellL…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TLPCanada",
+					"name": "Learning Partnership",
+					"id": 161395767,
+					"id_str": "161395767",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5634392,
+			"id_str": "5634392",
+			"name": "Darren Kuropatwa",
+			"screen_name": "dkuropatwa",
+			"location": "Winnipeg, Manitoba, Canada",
+			"description": "Director of Learning at Hanover School Division \nAlways in beta ∞β \n(Tweets represent my own views.)",
+			"url": "http://t.co/FJEo2rqZf5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/FJEo2rqZf5",
+							"expanded_url": "http://adifference.blogspot.com",
+							"display_url": "adifference.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6862,
+			"friends_count": 2527,
+			"listed_count": 472,
+			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
+			"favourites_count": 374,
+			"utc_offset": -21600,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 24508,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/623182/ADifferenceBG.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/623182/ADifferenceBG.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "67CD67",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jan 25 13:58:07 +0000 2017",
+			"id": 824255027976015900,
+			"id_str": "824255027976015872",
+			"text": "Did you know? One in five children struggle with mental health. Let's bring greater awareness to youth mental healt… https://t.co/V9JBcffAMK",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/V9JBcffAMK",
+						"expanded_url": "https://twitter.com/i/web/status/824255027976015872",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 161395767,
+				"id_str": "161395767",
+				"name": "Learning Partnership",
+				"screen_name": "TLPCanada",
+				"location": "Canada",
+				"description": "We support public education in Canada through programs like Take Our #KidsToWork. Watch our #VirtualReality workplace videos: https://t.co/ovMeerimtM.",
+				"url": "http://t.co/FdkoBm0Wlr",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/FdkoBm0Wlr",
+								"expanded_url": "http://www.thelearningpartnership.ca",
+								"display_url": "thelearningpartnership.ca",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/ovMeerimtM",
+								"expanded_url": "http://bit.ly/2eRsuJI",
+								"display_url": "bit.ly/2eRsuJI",
+								"indices": [
+									126,
+									149
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 7438,
+				"friends_count": 3319,
+				"listed_count": 230,
+				"created_at": "Wed Jun 30 18:58:18 +0000 2010",
+				"favourites_count": 10572,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 12127,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "698BBF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/444470800557416448/sWKCmRO3.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/444470800557416448/sWKCmRO3.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000863371975/I6ZzZ2Xg_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000863371975/I6ZzZ2Xg_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/161395767/1402431582",
+				"profile_link_color": "6699CC",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "FFD38C",
+				"profile_text_color": "698BBF",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Jan 18 19:36:20 +0000 2017",
 		"id": 821803428699631600,
 		"id_str": "821803428699631617",
