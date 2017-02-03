@@ -1,6 +1,293 @@
 Grailbird.data.tweets_2017_02 = 
 [
 	{
+		"created_at": "Thu Feb 02 23:45:05 +0000 2017",
+		"id": 827301847673237500,
+		"id_str": "827301847673237505",
+		"text": "What the world needs now ... https://t.co/HLxLErhttI",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HLxLErhttI",
+					"expanded_url": "https://twitter.com/ChiTribNuccio/status/826258508274343940",
+					"display_url": "twitter.com/ChiTribNuccio/…",
+					"indices": [
+						29,
+						52
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5634392,
+			"id_str": "5634392",
+			"name": "Darren Kuropatwa",
+			"screen_name": "dkuropatwa",
+			"location": "Winnipeg, Manitoba, Canada",
+			"description": "Director of Learning at Hanover School Division \nAlways in beta ∞β \n(Tweets represent my own views.)",
+			"url": "http://t.co/FJEo2rqZf5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/FJEo2rqZf5",
+							"expanded_url": "http://adifference.blogspot.com",
+							"display_url": "adifference.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6862,
+			"friends_count": 2533,
+			"listed_count": 473,
+			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
+			"favourites_count": 375,
+			"utc_offset": -21600,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 24521,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/623182/ADifferenceBG.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/623182/ADifferenceBG.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "67CD67",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 826258508274344000,
+		"quoted_status_id_str": "826258508274343940",
+		"quoted_status": {
+			"created_at": "Tue Jan 31 02:39:14 +0000 2017",
+			"id": 826258508274344000,
+			"id_str": "826258508274343940",
+			"text": "\"Untitled\" #MuslimBan #chicago https://t.co/Vvm4zo9Icp",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MuslimBan",
+						"indices": [
+							11,
+							21
+						]
+					},
+					{
+						"text": "chicago",
+						"indices": [
+							22,
+							30
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 826258388245966800,
+						"id_str": "826258388245966848",
+						"indices": [
+							31,
+							54
+						],
+						"media_url": "http://pbs.twimg.com/media/C3d1oFwWcAAF4Cj.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C3d1oFwWcAAF4Cj.jpg",
+						"url": "https://t.co/Vvm4zo9Icp",
+						"display_url": "pic.twitter.com/Vvm4zo9Icp",
+						"expanded_url": "https://twitter.com/ChiTribNuccio/status/826258508274343940/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 541,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1630,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 955,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 826258388245966800,
+						"id_str": "826258388245966848",
+						"indices": [
+							31,
+							54
+						],
+						"media_url": "http://pbs.twimg.com/media/C3d1oFwWcAAF4Cj.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C3d1oFwWcAAF4Cj.jpg",
+						"url": "https://t.co/Vvm4zo9Icp",
+						"display_url": "pic.twitter.com/Vvm4zo9Icp",
+						"expanded_url": "https://twitter.com/ChiTribNuccio/status/826258508274343940/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 541,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1630,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 955,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2790529338,
+				"id_str": "2790529338",
+				"name": "Nuccio DiNuzzo",
+				"screen_name": "ChiTribNuccio",
+				"location": "Chicago, USA",
+				"description": "Chicago Tribune",
+				"url": "http://t.co/MiAMIglgkp",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/MiAMIglgkp",
+								"expanded_url": "http://www.chicagotribune.com",
+								"display_url": "chicagotribune.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2694,
+				"friends_count": 712,
+				"listed_count": 91,
+				"created_at": "Thu Sep 04 20:32:08 +0000 2014",
+				"favourites_count": 810,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 652,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/591591128383692800/mOEqdGg__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/591591128383692800/mOEqdGg__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2790529338/1471930775",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 13315,
+			"favorite_count": 21399,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Feb 02 22:31:39 +0000 2017",
 		"id": 827283366437195800,
 		"id_str": "827283366437195777",
