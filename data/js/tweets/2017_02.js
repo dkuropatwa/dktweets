@@ -1,6 +1,347 @@
 Grailbird.data.tweets_2017_02 = 
 [
 	{
+		"created_at": "Sun Feb 05 21:42:18 +0000 2017",
+		"id": 828358109349478400,
+		"id_str": "828358109349478400",
+		"text": "RT @PrizmahPlay17: Come play with @dkuropatwa #visualbingo #digitalstorytelling in innovation alley @ https://t.co/UyqLLauhhR https://t.co/…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "visualbingo",
+					"indices": [
+						46,
+						58
+					]
+				},
+				{
+					"text": "digitalstorytelling",
+					"indices": [
+						59,
+						79
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PrizmahPlay17",
+					"name": "Prizmah Playground",
+					"id": 828068043876032500,
+					"id_str": "828068043876032512",
+					"indices": [
+						3,
+						17
+					]
+				},
+				{
+					"screen_name": "dkuropatwa",
+					"name": "Darren Kuropatwa",
+					"id": 5634392,
+					"id_str": "5634392",
+					"indices": [
+						34,
+						45
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/UyqLLauhhR",
+					"expanded_url": "https://pic-collage.com/_zktKXpPt",
+					"display_url": "pic-collage.com/_zktKXpPt",
+					"indices": [
+						102,
+						125
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5634392,
+			"id_str": "5634392",
+			"name": "Darren Kuropatwa",
+			"screen_name": "dkuropatwa",
+			"location": "Winnipeg, Manitoba, Canada",
+			"description": "Director of Learning at Hanover School Division \nAlways in beta ∞β \n(Tweets represent my own views.)",
+			"url": "http://t.co/FJEo2rqZf5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/FJEo2rqZf5",
+							"expanded_url": "http://adifference.blogspot.com",
+							"display_url": "adifference.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6869,
+			"friends_count": 2534,
+			"listed_count": 473,
+			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
+			"favourites_count": 375,
+			"utc_offset": -21600,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 24530,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/623182/ADifferenceBG.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/623182/ADifferenceBG.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "67CD67",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Feb 05 21:41:43 +0000 2017",
+			"id": 828357962754306000,
+			"id_str": "828357962754306049",
+			"text": "Come play with @dkuropatwa #visualbingo #digitalstorytelling in innovation alley @ https://t.co/UyqLLauhhR https://t.co/4tTPiT7sgk",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "visualbingo",
+						"indices": [
+							27,
+							39
+						]
+					},
+					{
+						"text": "digitalstorytelling",
+						"indices": [
+							40,
+							60
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "dkuropatwa",
+						"name": "Darren Kuropatwa",
+						"id": 5634392,
+						"id_str": "5634392",
+						"indices": [
+							15,
+							26
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/UyqLLauhhR",
+						"expanded_url": "https://pic-collage.com/_zktKXpPt",
+						"display_url": "pic-collage.com/_zktKXpPt",
+						"indices": [
+							83,
+							106
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 828357959608582100,
+						"id_str": "828357959608582144",
+						"indices": [
+							107,
+							130
+						],
+						"media_url": "http://pbs.twimg.com/media/C37rLOlWQAAQXg8.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C37rLOlWQAAQXg8.jpg",
+						"url": "https://t.co/4tTPiT7sgk",
+						"display_url": "pic.twitter.com/4tTPiT7sgk",
+						"expanded_url": "https://twitter.com/PrizmahPlay17/status/828357962754306049/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 453,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 682,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 682,
+								"h": 1024,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 828357959608582100,
+						"id_str": "828357959608582144",
+						"indices": [
+							107,
+							130
+						],
+						"media_url": "http://pbs.twimg.com/media/C37rLOlWQAAQXg8.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C37rLOlWQAAQXg8.jpg",
+						"url": "https://t.co/4tTPiT7sgk",
+						"display_url": "pic.twitter.com/4tTPiT7sgk",
+						"expanded_url": "https://twitter.com/PrizmahPlay17/status/828357962754306049/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 453,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 682,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 682,
+								"h": 1024,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://pic-collage.com\" rel=\"nofollow\">PicCollage iOS</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 828068043876032500,
+				"id_str": "828068043876032512",
+				"name": "Prizmah Playground",
+				"screen_name": "PrizmahPlay17",
+				"location": "Chicago",
+				"description": "Tweeting from the playground at #Prizmah17 -- Innovation Alley, #BreakoutEDU, The Think Studio & the Reflection Pool",
+				"url": "https://t.co/XHI08duOrZ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/XHI08duOrZ",
+								"expanded_url": "https://goo.gl/SMuIF1",
+								"display_url": "goo.gl/SMuIF1",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11,
+				"friends_count": 11,
+				"listed_count": 2,
+				"created_at": "Sun Feb 05 02:29:41 +0000 2017",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 20,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/828071749120049153/4s84vmbQ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/828071749120049153/4s84vmbQ_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Feb 05 16:32:36 +0000 2017",
 		"id": 828280174554779600,
 		"id_str": "828280174554779648",
