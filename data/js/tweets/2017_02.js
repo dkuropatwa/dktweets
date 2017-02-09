@@ -1,6 +1,363 @@
 Grailbird.data.tweets_2017_02 = 
 [
 	{
+		"created_at": "Thu Feb 09 02:10:06 +0000 2017",
+		"id": 829512668419604500,
+		"id_str": "829512668419604480",
+		"text": "RT @StJamesPhysEd: PHE Manitoba brings you \"The Power of Play\" Oct 20, 2017 WPG, MB. Consider being a presenter! … https://t.co/tTg2hnBlLa",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StJamesPhysEd",
+					"name": "J.J. Ross",
+					"id": 1401761329,
+					"id_str": "1401761329",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 829388626626756600,
+					"id_str": "829388626626756609",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/C4KUj8bWQAEPBbn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C4KUj8bWQAEPBbn.jpg",
+					"url": "https://t.co/tTg2hnBlLa",
+					"display_url": "pic.twitter.com/tTg2hnBlLa",
+					"expanded_url": "https://twitter.com/StJamesPhysEd/status/829388629143322624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 829388629143322600,
+					"source_status_id_str": "829388629143322624",
+					"source_user_id": 1401761329,
+					"source_user_id_str": "1401761329"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 829388626626756600,
+					"id_str": "829388626626756609",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/C4KUj8bWQAEPBbn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C4KUj8bWQAEPBbn.jpg",
+					"url": "https://t.co/tTg2hnBlLa",
+					"display_url": "pic.twitter.com/tTg2hnBlLa",
+					"expanded_url": "https://twitter.com/StJamesPhysEd/status/829388629143322624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 829388629143322600,
+					"source_status_id_str": "829388629143322624",
+					"source_user_id": 1401761329,
+					"source_user_id_str": "1401761329"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5634392,
+			"id_str": "5634392",
+			"name": "Darren Kuropatwa",
+			"screen_name": "dkuropatwa",
+			"location": "Winnipeg, Manitoba, Canada",
+			"description": "Director of Learning at Hanover School Division \nAlways in beta ∞β \n(Tweets represent my own views.)",
+			"url": "http://t.co/FJEo2rqZf5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/FJEo2rqZf5",
+							"expanded_url": "http://adifference.blogspot.com",
+							"display_url": "adifference.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6869,
+			"friends_count": 2536,
+			"listed_count": 473,
+			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
+			"favourites_count": 375,
+			"utc_offset": -21600,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 24546,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/623182/ADifferenceBG.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/623182/ADifferenceBG.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "67CD67",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Feb 08 17:57:13 +0000 2017",
+			"id": 829388629143322600,
+			"id_str": "829388629143322624",
+			"text": "PHE Manitoba brings you \"The Power of Play\" Oct 20, 2017 WPG, MB. Consider being a presenter! … https://t.co/tTg2hnBlLa",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 829388626626756600,
+						"id_str": "829388626626756609",
+						"indices": [
+							96,
+							119
+						],
+						"media_url": "http://pbs.twimg.com/media/C4KUj8bWQAEPBbn.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C4KUj8bWQAEPBbn.jpg",
+						"url": "https://t.co/tTg2hnBlLa",
+						"display_url": "pic.twitter.com/tTg2hnBlLa",
+						"expanded_url": "https://twitter.com/StJamesPhysEd/status/829388629143322624/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 1024,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 829388626626756600,
+						"id_str": "829388626626756609",
+						"indices": [
+							96,
+							119
+						],
+						"media_url": "http://pbs.twimg.com/media/C4KUj8bWQAEPBbn.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C4KUj8bWQAEPBbn.jpg",
+						"url": "https://t.co/tTg2hnBlLa",
+						"display_url": "pic.twitter.com/tTg2hnBlLa",
+						"expanded_url": "https://twitter.com/StJamesPhysEd/status/829388629143322624/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 1024,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1401761329,
+				"id_str": "1401761329",
+				"name": "J.J. Ross",
+				"screen_name": "StJamesPhysEd",
+				"location": "Winnipeg, MB",
+				"description": "JJ Ross PE/HE Coordinator St. James SD Lucky Hubby and Dad. Muskie addict, aspiring triathlete and lifelong Utah Jazz fan.",
+				"url": "https://t.co/5vEKmcmXqV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/5vEKmcmXqV",
+								"expanded_url": "http://sjsdpe.blogspot.ca",
+								"display_url": "sjsdpe.blogspot.ca",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 510,
+				"friends_count": 470,
+				"listed_count": 22,
+				"created_at": "Sat May 04 08:41:22 +0000 2013",
+				"favourites_count": 685,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1940,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/714439075135094784/0eDvpIIC_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/714439075135094784/0eDvpIIC_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1401761329/1418141791",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Feb 08 14:37:40 +0000 2017",
 		"id": 829338410565369900,
 		"id_str": "829338410565369856",
