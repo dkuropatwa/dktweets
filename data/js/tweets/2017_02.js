@@ -1,6 +1,484 @@
 Grailbird.data.tweets_2017_02 = 
 [
 	{
+		"created_at": "Fri Feb 24 20:09:24 +0000 2017",
+		"id": 835220100319936500,
+		"id_str": "835220100319936520",
+		"text": "@RiArdies Thanks buddy!!",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RiArdies",
+					"name": "Rick Ardies",
+					"id": 1195272306,
+					"id_str": "1195272306",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 835186869386235900,
+		"in_reply_to_status_id_str": "835186869386235904",
+		"in_reply_to_user_id": 1195272306,
+		"in_reply_to_user_id_str": "1195272306",
+		"in_reply_to_screen_name": "RiArdies",
+		"user": {
+			"id": 5634392,
+			"id_str": "5634392",
+			"name": "Darren Kuropatwa",
+			"screen_name": "dkuropatwa",
+			"location": "Winnipeg, Manitoba, Canada",
+			"description": "Director of Learning at Hanover School Division \nAlways in beta ∞β \n(Tweets represent my own views.)",
+			"url": "http://t.co/FJEo2rqZf5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/FJEo2rqZf5",
+							"expanded_url": "http://adifference.blogspot.com",
+							"display_url": "adifference.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6871,
+			"friends_count": 2540,
+			"listed_count": 470,
+			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
+			"favourites_count": 377,
+			"utc_offset": -21600,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 24556,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/623182/ADifferenceBG.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/623182/ADifferenceBG.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "67CD67",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Feb 24 20:07:47 +0000 2017",
+		"id": 835219693078208500,
+		"id_str": "835219693078208512",
+		"text": "RT @CCMEC: Teachers and Copyright \nKnow your rights. Know the limits.\nhttps://t.co/8PAvxoi7WM https://t.co/cb7ulJPJCV",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CCMEC",
+					"name": "CMEC",
+					"id": 1586408286,
+					"id_str": "1586408286",
+					"indices": [
+						3,
+						9
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/8PAvxoi7WM",
+					"expanded_url": "http://www.CopyrightDecisionTool.ca",
+					"display_url": "CopyrightDecisionTool.ca",
+					"indices": [
+						70,
+						93
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 835219088829984800,
+					"id_str": "835219088829984774",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/C5dLVgtWMAYccMp.png",
+					"media_url_https": "https://pbs.twimg.com/media/C5dLVgtWMAYccMp.png",
+					"url": "https://t.co/cb7ulJPJCV",
+					"display_url": "pic.twitter.com/cb7ulJPJCV",
+					"expanded_url": "https://twitter.com/CCMEC/status/835219091958947841/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 835219091958947800,
+					"source_status_id_str": "835219091958947841",
+					"source_user_id": 1586408286,
+					"source_user_id_str": "1586408286"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 835219088829984800,
+					"id_str": "835219088829984774",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/C5dLVgtWMAYccMp.png",
+					"media_url_https": "https://pbs.twimg.com/media/C5dLVgtWMAYccMp.png",
+					"url": "https://t.co/cb7ulJPJCV",
+					"display_url": "pic.twitter.com/cb7ulJPJCV",
+					"expanded_url": "https://twitter.com/CCMEC/status/835219091958947841/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 835219091958947800,
+					"source_status_id_str": "835219091958947841",
+					"source_user_id": 1586408286,
+					"source_user_id_str": "1586408286"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5634392,
+			"id_str": "5634392",
+			"name": "Darren Kuropatwa",
+			"screen_name": "dkuropatwa",
+			"location": "Winnipeg, Manitoba, Canada",
+			"description": "Director of Learning at Hanover School Division \nAlways in beta ∞β \n(Tweets represent my own views.)",
+			"url": "http://t.co/FJEo2rqZf5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/FJEo2rqZf5",
+							"expanded_url": "http://adifference.blogspot.com",
+							"display_url": "adifference.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6871,
+			"friends_count": 2540,
+			"listed_count": 470,
+			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
+			"favourites_count": 377,
+			"utc_offset": -21600,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 24556,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/623182/ADifferenceBG.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/623182/ADifferenceBG.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "67CD67",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Feb 24 20:05:23 +0000 2017",
+			"id": 835219091958947800,
+			"id_str": "835219091958947841",
+			"text": "Teachers and Copyright \nKnow your rights. Know the limits.\nhttps://t.co/8PAvxoi7WM https://t.co/cb7ulJPJCV",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/8PAvxoi7WM",
+						"expanded_url": "http://www.CopyrightDecisionTool.ca",
+						"display_url": "CopyrightDecisionTool.ca",
+						"indices": [
+							59,
+							82
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 835219088829984800,
+						"id_str": "835219088829984774",
+						"indices": [
+							83,
+							106
+						],
+						"media_url": "http://pbs.twimg.com/media/C5dLVgtWMAYccMp.png",
+						"media_url_https": "https://pbs.twimg.com/media/C5dLVgtWMAYccMp.png",
+						"url": "https://t.co/cb7ulJPJCV",
+						"display_url": "pic.twitter.com/cb7ulJPJCV",
+						"expanded_url": "https://twitter.com/CCMEC/status/835219091958947841/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2000,
+								"h": 2000,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 835219088829984800,
+						"id_str": "835219088829984774",
+						"indices": [
+							83,
+							106
+						],
+						"media_url": "http://pbs.twimg.com/media/C5dLVgtWMAYccMp.png",
+						"media_url_https": "https://pbs.twimg.com/media/C5dLVgtWMAYccMp.png",
+						"url": "https://t.co/cb7ulJPJCV",
+						"display_url": "pic.twitter.com/cb7ulJPJCV",
+						"expanded_url": "https://twitter.com/CCMEC/status/835219091958947841/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2000,
+								"h": 2000,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1586408286,
+				"id_str": "1586408286",
+				"name": "CMEC",
+				"screen_name": "CCMEC",
+				"location": "Canada",
+				"description": "The Council of Ministers of Education - national leadership in education / Le Conseil des ministres de l'Éducation - un leadership pancanadien en éducation",
+				"url": "http://t.co/HZy3QDuQd3",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/HZy3QDuQd3",
+								"expanded_url": "http://cmec.ca",
+								"display_url": "cmec.ca",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3121,
+				"friends_count": 3328,
+				"listed_count": 132,
+				"created_at": "Thu Jul 11 17:53:41 +0000 2013",
+				"favourites_count": 566,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4123,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "BADFCD",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000120070055/e9bcc946ffe80a7d765ac0ba2cb2d1ff_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000120070055/e9bcc946ffe80a7d765ac0ba2cb2d1ff_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1586408286/1373914000",
+				"profile_link_color": "FF0000",
+				"profile_sidebar_border_color": "F2E195",
+				"profile_sidebar_fill_color": "FFF7CC",
+				"profile_text_color": "0C3E53",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Feb 24 17:44:45 +0000 2017",
 		"id": 835183697812926500,
 		"id_str": "835183697812926464",
