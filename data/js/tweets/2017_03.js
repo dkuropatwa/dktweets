@@ -1,6 +1,335 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Thu Mar 02 14:16:29 +0000 2017",
+		"id": 837305616175620100,
+		"id_str": "837305616175620096",
+		"text": "RT @jolenefiar: They thought I was kidding when I promised them #spaceships and #Vikings today. #hsdlearns #cdnhist #srss https://t.co/xvCn…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "spaceships",
+					"indices": [
+						64,
+						75
+					]
+				},
+				{
+					"text": "Vikings",
+					"indices": [
+						80,
+						88
+					]
+				},
+				{
+					"text": "hsdlearns",
+					"indices": [
+						96,
+						106
+					]
+				},
+				{
+					"text": "cdnhist",
+					"indices": [
+						107,
+						115
+					]
+				},
+				{
+					"text": "srss",
+					"indices": [
+						116,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jolenefiar",
+					"name": "Jolene Fiarchuk",
+					"id": 727260291176624100,
+					"id_str": "727260291176624128",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5634392,
+			"id_str": "5634392",
+			"name": "Darren Kuropatwa",
+			"screen_name": "dkuropatwa",
+			"location": "Winnipeg, Manitoba, Canada",
+			"description": "Director of Learning at Hanover School Division \nAlways in beta ∞β \n(Tweets represent my own views.)",
+			"url": "http://t.co/FJEo2rqZf5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/FJEo2rqZf5",
+							"expanded_url": "http://adifference.blogspot.com",
+							"display_url": "adifference.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6872,
+			"friends_count": 2544,
+			"listed_count": 471,
+			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
+			"favourites_count": 377,
+			"utc_offset": -21600,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 24558,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/623182/ADifferenceBG.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/623182/ADifferenceBG.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "67CD67",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Mar 01 14:23:20 +0000 2017",
+			"id": 836944950138912800,
+			"id_str": "836944950138912768",
+			"text": "They thought I was kidding when I promised them #spaceships and #Vikings today. #hsdlearns #cdnhist #srss https://t.co/xvCnztYXSp",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "spaceships",
+						"indices": [
+							48,
+							59
+						]
+					},
+					{
+						"text": "Vikings",
+						"indices": [
+							64,
+							72
+						]
+					},
+					{
+						"text": "hsdlearns",
+						"indices": [
+							80,
+							90
+						]
+					},
+					{
+						"text": "cdnhist",
+						"indices": [
+							91,
+							99
+						]
+					},
+					{
+						"text": "srss",
+						"indices": [
+							100,
+							105
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 836944934120783900,
+						"id_str": "836944934120783872",
+						"indices": [
+							106,
+							129
+						],
+						"media_url": "http://pbs.twimg.com/media/C51s-7bVAAALW-m.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C51s-7bVAAALW-m.jpg",
+						"url": "https://t.co/xvCnztYXSp",
+						"display_url": "pic.twitter.com/xvCnztYXSp",
+						"expanded_url": "https://twitter.com/jolenefiar/status/836944950138912768/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 836944934120783900,
+						"id_str": "836944934120783872",
+						"indices": [
+							106,
+							129
+						],
+						"media_url": "http://pbs.twimg.com/media/C51s-7bVAAALW-m.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C51s-7bVAAALW-m.jpg",
+						"url": "https://t.co/xvCnztYXSp",
+						"display_url": "pic.twitter.com/xvCnztYXSp",
+						"expanded_url": "https://twitter.com/jolenefiar/status/836944950138912768/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 727260291176624100,
+				"id_str": "727260291176624128",
+				"name": "Jolene Fiarchuk",
+				"screen_name": "jolenefiar",
+				"location": "Winnipeg, Manitoba",
+				"description": "Teacher. Nerdy about history, photography, and travel. Grad student @UOIT's Education and Technology program.  Thoughts are my very own.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 353,
+				"friends_count": 647,
+				"listed_count": 70,
+				"created_at": "Mon May 02 22:15:40 +0000 2016",
+				"favourites_count": 1521,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 564,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/727267710757822465/AnECmoc8_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/727267710757822465/AnECmoc8_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/727260291176624128/1462228886",
+				"profile_link_color": "7FDBB6",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Mar 01 16:13:33 +0000 2017",
 		"id": 836972685578100700,
 		"id_str": "836972685578100736",
