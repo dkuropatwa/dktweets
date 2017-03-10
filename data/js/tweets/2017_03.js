@@ -1,6 +1,269 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Fri Mar 10 12:59:16 +0000 2017",
+		"id": 840185285740761100,
+		"id_str": "840185285740761088",
+		"text": "RT @tobiemichele: We're on Day 10! Know any great #MathRiddles? #mathphotoaday Tweet us! We love solving problems! @mr_stadel @ddmeyer @rob…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MathRiddles",
+					"indices": [
+						50,
+						62
+					]
+				},
+				{
+					"text": "mathphotoaday",
+					"indices": [
+						64,
+						78
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tobiemichele",
+					"name": "Tobie Taylor Jones",
+					"id": 2372690671,
+					"id_str": "2372690671",
+					"indices": [
+						3,
+						16
+					]
+				},
+				{
+					"screen_name": "mr_stadel",
+					"name": "Andrew Stadel",
+					"id": 513641390,
+					"id_str": "513641390",
+					"indices": [
+						115,
+						125
+					]
+				},
+				{
+					"screen_name": "ddmeyer",
+					"name": "Dan Meyer",
+					"id": 7198542,
+					"id_str": "7198542",
+					"indices": [
+						126,
+						134
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5634392,
+			"id_str": "5634392",
+			"name": "Darren Kuropatwa",
+			"screen_name": "dkuropatwa",
+			"location": "Winnipeg, Manitoba, Canada",
+			"description": "Director of Learning at Hanover School Division \nAlways in beta ∞β \n(Tweets represent my own views.)",
+			"url": "http://t.co/FJEo2rqZf5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/FJEo2rqZf5",
+							"expanded_url": "http://adifference.blogspot.com",
+							"display_url": "adifference.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6873,
+			"friends_count": 2542,
+			"listed_count": 469,
+			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
+			"favourites_count": 377,
+			"utc_offset": -21600,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 24559,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/623182/ADifferenceBG.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/623182/ADifferenceBG.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "67CD67",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Mar 10 11:31:12 +0000 2017",
+			"id": 840163124179267600,
+			"id_str": "840163124179267585",
+			"text": "We're on Day 10! Know any great #MathRiddles? #mathphotoaday Tweet us! We love solving problems! @mr_stadel… https://t.co/2SX8J6FLnb",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MathRiddles",
+						"indices": [
+							32,
+							44
+						]
+					},
+					{
+						"text": "mathphotoaday",
+						"indices": [
+							46,
+							60
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "mr_stadel",
+						"name": "Andrew Stadel",
+						"id": 513641390,
+						"id_str": "513641390",
+						"indices": [
+							97,
+							107
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/2SX8J6FLnb",
+						"expanded_url": "https://twitter.com/i/web/status/840163124179267585",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							109,
+							132
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2372690671,
+				"id_str": "2372690671",
+				"name": "Tobie Taylor Jones",
+				"screen_name": "tobiemichele",
+				"location": "Bentonville, Arkansas",
+				"description": "Oldest (and often tallest) learner in a grade six 1:2 maths classroom. It is my belief that as part of my professional growth plan, I am perpetually in beta. ∞β",
+				"url": "https://t.co/BGWpqPwa06",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/BGWpqPwa06",
+								"expanded_url": "https://www.gofundme.com/making-spaces-expanding-maker",
+								"display_url": "gofundme.com/making-spaces-…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1314,
+				"friends_count": 1158,
+				"listed_count": 71,
+				"created_at": "Tue Mar 04 22:39:03 +0000 2014",
+				"favourites_count": 5882,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 6278,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/701580698528907264/BozSgkxj_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/701580698528907264/BozSgkxj_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2372690671/1396047592",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Mar 02 14:16:29 +0000 2017",
 		"id": 837305616175620100,
 		"id_str": "837305616175620096",
