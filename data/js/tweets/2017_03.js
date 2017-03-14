@@ -1,6 +1,350 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Tue Mar 14 18:12:24 +0000 2017",
+		"id": 841713637060423700,
+		"id_str": "841713637060423682",
+		"text": "RT @edappadvice: This is what we should teach our children. https://t.co/yZfZ3AaALf",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "edappadvice",
+					"name": "EducationalAppAdvice",
+					"id": 2975420093,
+					"id_str": "2975420093",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 841032594326081500,
+					"id_str": "841032594326081536",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/media/C6vysEVU0AA_7x0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C6vysEVU0AA_7x0.jpg",
+					"url": "https://t.co/yZfZ3AaALf",
+					"display_url": "pic.twitter.com/yZfZ3AaALf",
+					"expanded_url": "https://twitter.com/edappadvice/status/841032596263972864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 841032596263972900,
+					"source_status_id_str": "841032596263972864",
+					"source_user_id": 2975420093,
+					"source_user_id_str": "2975420093"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 841032594326081500,
+					"id_str": "841032594326081536",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/media/C6vysEVU0AA_7x0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C6vysEVU0AA_7x0.jpg",
+					"url": "https://t.co/yZfZ3AaALf",
+					"display_url": "pic.twitter.com/yZfZ3AaALf",
+					"expanded_url": "https://twitter.com/edappadvice/status/841032596263972864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 841032596263972900,
+					"source_status_id_str": "841032596263972864",
+					"source_user_id": 2975420093,
+					"source_user_id_str": "2975420093"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5634392,
+			"id_str": "5634392",
+			"name": "Darren Kuropatwa",
+			"screen_name": "dkuropatwa",
+			"location": "Winnipeg, Manitoba, Canada",
+			"description": "Director of Learning at Hanover School Division \nAlways in beta ∞β \n(Tweets represent my own views.)",
+			"url": "http://t.co/FJEo2rqZf5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/FJEo2rqZf5",
+							"expanded_url": "http://adifference.blogspot.com",
+							"display_url": "adifference.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6874,
+			"friends_count": 2543,
+			"listed_count": 469,
+			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
+			"favourites_count": 377,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 24563,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/623182/ADifferenceBG.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/623182/ADifferenceBG.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "67CD67",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Mar 12 21:06:11 +0000 2017",
+			"id": 841032596263972900,
+			"id_str": "841032596263972864",
+			"text": "This is what we should teach our children. https://t.co/yZfZ3AaALf",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 841032594326081500,
+						"id_str": "841032594326081536",
+						"indices": [
+							43,
+							66
+						],
+						"media_url": "http://pbs.twimg.com/media/C6vysEVU0AA_7x0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C6vysEVU0AA_7x0.jpg",
+						"url": "https://t.co/yZfZ3AaALf",
+						"display_url": "pic.twitter.com/yZfZ3AaALf",
+						"expanded_url": "https://twitter.com/edappadvice/status/841032596263972864/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 841032594326081500,
+						"id_str": "841032594326081536",
+						"indices": [
+							43,
+							66
+						],
+						"media_url": "http://pbs.twimg.com/media/C6vysEVU0AA_7x0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C6vysEVU0AA_7x0.jpg",
+						"url": "https://t.co/yZfZ3AaALf",
+						"display_url": "pic.twitter.com/yZfZ3AaALf",
+						"expanded_url": "https://twitter.com/edappadvice/status/841032596263972864/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2975420093,
+				"id_str": "2975420093",
+				"name": "EducationalAppAdvice",
+				"screen_name": "edappadvice",
+				"location": "",
+				"description": "A new site set up by educational psychologist Peter Maxwell to help parents and teachers find the best educational apps for their children.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 34067,
+				"friends_count": 23280,
+				"listed_count": 457,
+				"created_at": "Mon Jan 12 22:06:06 +0000 2015",
+				"favourites_count": 2139,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 9196,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/554806921316687872/igMr8T89_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/554806921316687872/igMr8T89_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2975420093/1481369571",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 64,
+			"favorite_count": 83,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 64,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Mar 12 03:47:07 +0000 2017",
 		"id": 840771106239840300,
 		"id_str": "840771106239840260",
