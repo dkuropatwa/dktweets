@@ -1,6 +1,327 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Wed Mar 22 00:11:04 +0000 2017",
+		"id": 844340613885673500,
+		"id_str": "844340613885673477",
+		"text": "RT @MMShanover: Please follow @ encouraging_quotes07 on @instagram. Kids using social media for good. #geniushour #hsdlearns https://t.co/6…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "geniushour",
+					"indices": [
+						102,
+						113
+					]
+				},
+				{
+					"text": "hsdlearns",
+					"indices": [
+						114,
+						124
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MMShanover",
+					"name": "Mitchell MS",
+					"id": 768868401271844900,
+					"id_str": "768868401271844864",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "instagram",
+					"name": "Instagram",
+					"id": 180505807,
+					"id_str": "180505807",
+					"indices": [
+						56,
+						66
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5634392,
+			"id_str": "5634392",
+			"name": "Darren Kuropatwa",
+			"screen_name": "dkuropatwa",
+			"location": "Winnipeg, Manitoba, Canada",
+			"description": "Director of Learning at Hanover School Division \nAlways in beta ∞β \n(Tweets represent my own views.)",
+			"url": "http://t.co/FJEo2rqZf5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/FJEo2rqZf5",
+							"expanded_url": "http://adifference.blogspot.com",
+							"display_url": "adifference.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6875,
+			"friends_count": 2544,
+			"listed_count": 469,
+			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
+			"favourites_count": 377,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 24565,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/623182/ADifferenceBG.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/623182/ADifferenceBG.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "67CD67",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Mar 21 16:28:56 +0000 2017",
+			"id": 844224315818172400,
+			"id_str": "844224315818172420",
+			"text": "Please follow @ encouraging_quotes07 on @instagram. Kids using social media for good. #geniushour #hsdlearns https://t.co/6YTEBwOwbe",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "geniushour",
+						"indices": [
+							86,
+							97
+						]
+					},
+					{
+						"text": "hsdlearns",
+						"indices": [
+							98,
+							108
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "instagram",
+						"name": "Instagram",
+						"id": 180505807,
+						"id_str": "180505807",
+						"indices": [
+							40,
+							50
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 844224301846876200,
+						"id_str": "844224301846876165",
+						"indices": [
+							109,
+							132
+						],
+						"media_url": "http://pbs.twimg.com/media/C7dJh5ZV0AUr0qB.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C7dJh5ZV0AUr0qB.jpg",
+						"url": "https://t.co/6YTEBwOwbe",
+						"display_url": "pic.twitter.com/6YTEBwOwbe",
+						"expanded_url": "https://twitter.com/MMShanover/status/844224315818172420/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 382,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 750,
+								"h": 1334,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 844224301846876200,
+						"id_str": "844224301846876165",
+						"indices": [
+							109,
+							132
+						],
+						"media_url": "http://pbs.twimg.com/media/C7dJh5ZV0AUr0qB.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C7dJh5ZV0AUr0qB.jpg",
+						"url": "https://t.co/6YTEBwOwbe",
+						"display_url": "pic.twitter.com/6YTEBwOwbe",
+						"expanded_url": "https://twitter.com/MMShanover/status/844224315818172420/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 382,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 750,
+								"h": 1334,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 768868401271844900,
+				"id_str": "768868401271844864",
+				"name": "Mitchell MS",
+				"screen_name": "MMShanover",
+				"location": "Mitchell, Manitoba",
+				"description": "A 5-8 middle school located in Mitchell, Manitoba. Part of the Hanover School Division #hsdlearns #warriorshsd",
+				"url": "https://t.co/9pLYDJkL2E",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/9pLYDJkL2E",
+								"expanded_url": "http://mms.hsd.ca",
+								"display_url": "mms.hsd.ca",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 73,
+				"friends_count": 72,
+				"listed_count": 7,
+				"created_at": "Thu Aug 25 17:51:26 +0000 2016",
+				"favourites_count": 49,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 881,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/809788677350166528/ZohG_Fc7_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/809788677350166528/ZohG_Fc7_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/768868401271844864/1472147748",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Mar 16 01:36:42 +0000 2017",
 		"id": 842187840725360600,
 		"id_str": "842187840725360640",
