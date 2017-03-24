@@ -1,6 +1,196 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Fri Mar 24 19:31:53 +0000 2017",
+		"id": 845357521435050000,
+		"id_str": "845357521435049989",
+		"text": "What fascinating conversations must have grown out of this! Wish I had been a fly on the wall. 😀 https://t.co/SfhL6we1pK",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SfhL6we1pK",
+					"expanded_url": "https://twitter.com/katieeileencook/status/844997059103068161",
+					"display_url": "twitter.com/katieeileencoo…",
+					"indices": [
+						97,
+						120
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5634392,
+			"id_str": "5634392",
+			"name": "Darren Kuropatwa",
+			"screen_name": "dkuropatwa",
+			"location": "Winnipeg, Manitoba, Canada",
+			"description": "Director of Learning at Hanover School Division \nAlways in beta ∞β \n(Tweets represent my own views.)",
+			"url": "http://t.co/FJEo2rqZf5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/FJEo2rqZf5",
+							"expanded_url": "http://adifference.blogspot.com",
+							"display_url": "adifference.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6874,
+			"friends_count": 2544,
+			"listed_count": 469,
+			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
+			"favourites_count": 378,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 24566,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/623182/ADifferenceBG.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/623182/ADifferenceBG.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "67CD67",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 844997059103068200,
+		"quoted_status_id_str": "844997059103068161",
+		"quoted_status": {
+			"created_at": "Thu Mar 23 19:39:32 +0000 2017",
+			"id": 844997059103068200,
+			"id_str": "844997059103068161",
+			"text": "Big kids can play too! Grade 10 students using loose parts to represent how social media effects teenagers.… https://t.co/w8MXnd9OLd",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/w8MXnd9OLd",
+						"expanded_url": "https://twitter.com/i/web/status/844997059103068161",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							109,
+							132
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2621739197,
+				"id_str": "2621739197",
+				"name": "katie martin",
+				"screen_name": "katieeileencook",
+				"location": "",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 44,
+				"friends_count": 78,
+				"listed_count": 1,
+				"created_at": "Thu Jun 19 02:21:00 +0000 2014",
+				"favourites_count": 34,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 18,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/479449080586719232/hKf9cEN9_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/479449080586719232/hKf9cEN9_normal.jpeg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Mar 22 00:11:04 +0000 2017",
 		"id": 844340613885673500,
 		"id_str": "844340613885673477",
