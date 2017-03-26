@@ -1,6 +1,479 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Sun Mar 26 01:38:22 +0000 2017",
+		"id": 845812135808655400,
+		"id_str": "845812135808655360",
+		"text": "RT @RiArdies: @dkuropatwa @HSDcgudz @RandyDueckHSD  Interesting work... https://t.co/BbjoBJ9wOV",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RiArdies",
+					"name": "Rick Ardies",
+					"id": 1195272306,
+					"id_str": "1195272306",
+					"indices": [
+						3,
+						12
+					]
+				},
+				{
+					"screen_name": "dkuropatwa",
+					"name": "Darren Kuropatwa",
+					"id": 5634392,
+					"id_str": "5634392",
+					"indices": [
+						14,
+						25
+					]
+				},
+				{
+					"screen_name": "HSDcgudz",
+					"name": "Chris Gudziunas",
+					"id": 326220947,
+					"id_str": "326220947",
+					"indices": [
+						26,
+						35
+					]
+				},
+				{
+					"screen_name": "RandyDueckHSD",
+					"name": "Randy Dueck",
+					"id": 1217246780,
+					"id_str": "1217246780",
+					"indices": [
+						36,
+						50
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/BbjoBJ9wOV",
+					"expanded_url": "https://twitter.com/educatalyst_dmp/status/845738469368389632",
+					"display_url": "twitter.com/educatalyst_dm…",
+					"indices": [
+						72,
+						95
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5634392,
+			"id_str": "5634392",
+			"name": "Darren Kuropatwa",
+			"screen_name": "dkuropatwa",
+			"location": "Winnipeg, Manitoba, Canada",
+			"description": "Director of Learning at Hanover School Division \nAlways in beta ∞β \n(Tweets represent my own views.)",
+			"url": "http://t.co/FJEo2rqZf5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/FJEo2rqZf5",
+							"expanded_url": "http://adifference.blogspot.com",
+							"display_url": "adifference.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6872,
+			"friends_count": 2544,
+			"listed_count": 470,
+			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
+			"favourites_count": 378,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 24568,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/623182/ADifferenceBG.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/623182/ADifferenceBG.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "67CD67",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Mar 25 22:14:28 +0000 2017",
+			"id": 845760823008137200,
+			"id_str": "845760823008137216",
+			"text": "@dkuropatwa @HSDcgudz @RandyDueckHSD  Interesting work... https://t.co/BbjoBJ9wOV",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "dkuropatwa",
+						"name": "Darren Kuropatwa",
+						"id": 5634392,
+						"id_str": "5634392",
+						"indices": [
+							0,
+							11
+						]
+					},
+					{
+						"screen_name": "HSDcgudz",
+						"name": "Chris Gudziunas",
+						"id": 326220947,
+						"id_str": "326220947",
+						"indices": [
+							12,
+							21
+						]
+					},
+					{
+						"screen_name": "RandyDueckHSD",
+						"name": "Randy Dueck",
+						"id": 1217246780,
+						"id_str": "1217246780",
+						"indices": [
+							22,
+							36
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/BbjoBJ9wOV",
+						"expanded_url": "https://twitter.com/educatalyst_dmp/status/845738469368389632",
+						"display_url": "twitter.com/educatalyst_dm…",
+						"indices": [
+							58,
+							81
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 5634392,
+			"in_reply_to_user_id_str": "5634392",
+			"in_reply_to_screen_name": "dkuropatwa",
+			"user": {
+				"id": 1195272306,
+				"id_str": "1195272306",
+				"name": "Rick Ardies",
+				"screen_name": "RiArdies",
+				"location": "",
+				"description": "Assistant Superintendent of Hanover School Division. \r\nEvery student deserves imaginative, engaging instruction. Every day.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 798,
+				"friends_count": 987,
+				"listed_count": 38,
+				"created_at": "Mon Feb 18 23:45:49 +0000 2013",
+				"favourites_count": 217,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1428,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3383560843/76c867f391657456b1e1a925cdfe74a2_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3383560843/76c867f391657456b1e1a925cdfe74a2_normal.jpeg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 845738469368389600,
+			"quoted_status_id_str": "845738469368389632",
+			"quoted_status": {
+				"created_at": "Sat Mar 25 20:45:38 +0000 2017",
+				"id": 845738469368389600,
+				"id_str": "845738469368389632",
+				"text": "BC Min of Ed released a draft doc about Core #Competencies and #documenting Ss #selfassessment. #teammiddle… https://t.co/b9M7znUWYG",
+				"truncated": true,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "Competencies",
+							"indices": [
+								45,
+								58
+							]
+						},
+						{
+							"text": "documenting",
+							"indices": [
+								63,
+								75
+							]
+						},
+						{
+							"text": "selfassessment",
+							"indices": [
+								79,
+								94
+							]
+						},
+						{
+							"text": "teammiddle",
+							"indices": [
+								96,
+								107
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/b9M7znUWYG",
+							"expanded_url": "https://twitter.com/i/web/status/845738469368389632",
+							"display_url": "twitter.com/i/web/status/8…",
+							"indices": [
+								109,
+								132
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 4698430100,
+					"id_str": "4698430100",
+					"name": "Desiree MarshallPeer",
+					"screen_name": "educatalyst_dmp",
+					"location": "",
+					"description": "Educator working for the betterment of student's experience, mom, and lover of all things geek/nerdy, especially if wrapped in chocolate, coffee or pop culture.",
+					"url": null,
+					"entities": {
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 190,
+					"friends_count": 178,
+					"listed_count": 70,
+					"created_at": "Sat Jan 02 20:39:31 +0000 2016",
+					"favourites_count": 1747,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 1199,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "F5F8FA",
+					"profile_background_image_url": null,
+					"profile_background_image_url_https": null,
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/683388753340055552/qo3gmWCX_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/683388753340055552/qo3gmWCX_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/4698430100/1459278188",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": true,
+				"quoted_status_id": 845483018475122700,
+				"quoted_status_id_str": "845483018475122688",
+				"retweet_count": 1,
+				"favorite_count": 3,
+				"favorited": false,
+				"retweeted": true,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 845738469368389600,
+		"quoted_status_id_str": "845738469368389632",
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Mar 26 01:32:35 +0000 2017",
+		"id": 845810682205540400,
+		"id_str": "845810682205540353",
+		"text": "Earth hour begins now. Turn off your lights for the next hour to participate. Our planet needs you.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.apple.com\" rel=\"nofollow\">iOS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5634392,
+			"id_str": "5634392",
+			"name": "Darren Kuropatwa",
+			"screen_name": "dkuropatwa",
+			"location": "Winnipeg, Manitoba, Canada",
+			"description": "Director of Learning at Hanover School Division \nAlways in beta ∞β \n(Tweets represent my own views.)",
+			"url": "http://t.co/FJEo2rqZf5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/FJEo2rqZf5",
+							"expanded_url": "http://adifference.blogspot.com",
+							"display_url": "adifference.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6872,
+			"friends_count": 2544,
+			"listed_count": 470,
+			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
+			"favourites_count": 378,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 24568,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/623182/ADifferenceBG.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/623182/ADifferenceBG.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "67CD67",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Mar 24 19:31:53 +0000 2017",
 		"id": 845357521435050000,
 		"id_str": "845357521435049989",
