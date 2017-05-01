@@ -1,6 +1,581 @@
 Grailbird.data.tweets_2017_05 = 
 [
 	{
+		"created_at": "Mon May 01 14:16:30 +0000 2017",
+		"id": 859048890024292400,
+		"id_str": "859048890024292352",
+		"text": "RT @WendyGoodman: Presenting our stds with challenge and fostering student questioning is the key to deeper learning #npdl - need to change…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "npdl",
+					"indices": [
+						117,
+						122
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WendyGoodman",
+					"name": "Wendy Goodman",
+					"id": 60330852,
+					"id_str": "60330852",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5634392,
+			"id_str": "5634392",
+			"name": "Darren Kuropatwa",
+			"screen_name": "dkuropatwa",
+			"location": "Winnipeg, Manitoba, Canada",
+			"description": "Director of Learning at Hanover School Division \nAlways in beta ∞β \n(Tweets represent my own views.)",
+			"url": "http://t.co/FJEo2rqZf5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/FJEo2rqZf5",
+							"expanded_url": "http://adifference.blogspot.com",
+							"display_url": "adifference.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6882,
+			"friends_count": 2550,
+			"listed_count": 468,
+			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
+			"favourites_count": 378,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 24596,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/623182/ADifferenceBG.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/623182/ADifferenceBG.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "67CD67",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon May 01 14:14:55 +0000 2017",
+			"id": 859048493855502300,
+			"id_str": "859048493855502336",
+			"text": "Presenting our stds with challenge and fostering student questioning is the key to deeper learning #npdl - need to… https://t.co/gAS5IbvCBu",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "npdl",
+						"indices": [
+							99,
+							104
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/gAS5IbvCBu",
+						"expanded_url": "https://twitter.com/i/web/status/859048493855502336",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 60330852,
+				"id_str": "60330852",
+				"name": "Wendy Goodman",
+				"screen_name": "WendyGoodman",
+				"location": "Ontario, Canada",
+				"description": "Supporting HPEDSB staff and students with the integration of technology. Always learning! Encouraging risk! Apple Distinguished Educator",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1268,
+				"friends_count": 1443,
+				"listed_count": 124,
+				"created_at": "Sun Jul 26 15:51:01 +0000 2009",
+				"favourites_count": 1122,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 5769,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/796709921819598853/PlQkznYo_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/796709921819598853/PlQkznYo_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/60330852/1398350638",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon May 01 14:16:16 +0000 2017",
+		"id": 859048832939806700,
+		"id_str": "859048832939806720",
+		"text": "RT @millerpEDU: There is a gap between what we say we value and what we measure. \n#NPDL\n@DaanRoosegaarde @MichaelFullan1 https://t.co/nzyMo…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NPDL",
+					"indices": [
+						82,
+						87
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "millerpEDU",
+					"name": "Patrick Miller",
+					"id": 221817490,
+					"id_str": "221817490",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "DaanRoosegaarde",
+					"name": "Daan Roosegaarde",
+					"id": 713994056,
+					"id_str": "713994056",
+					"indices": [
+						88,
+						104
+					]
+				},
+				{
+					"screen_name": "MichaelFullan1",
+					"name": "Michael Fullan",
+					"id": 424277262,
+					"id_str": "424277262",
+					"indices": [
+						105,
+						120
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5634392,
+			"id_str": "5634392",
+			"name": "Darren Kuropatwa",
+			"screen_name": "dkuropatwa",
+			"location": "Winnipeg, Manitoba, Canada",
+			"description": "Director of Learning at Hanover School Division \nAlways in beta ∞β \n(Tweets represent my own views.)",
+			"url": "http://t.co/FJEo2rqZf5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/FJEo2rqZf5",
+							"expanded_url": "http://adifference.blogspot.com",
+							"display_url": "adifference.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6882,
+			"friends_count": 2550,
+			"listed_count": 468,
+			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
+			"favourites_count": 378,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 24596,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/623182/ADifferenceBG.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/623182/ADifferenceBG.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "67CD67",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon May 01 14:13:32 +0000 2017",
+			"id": 859048144704864300,
+			"id_str": "859048144704864256",
+			"text": "There is a gap between what we say we value and what we measure. \n#NPDL\n@DaanRoosegaarde @MichaelFullan1 https://t.co/nzyMo1nR59",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "NPDL",
+						"indices": [
+							66,
+							71
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "DaanRoosegaarde",
+						"name": "Daan Roosegaarde",
+						"id": 713994056,
+						"id_str": "713994056",
+						"indices": [
+							72,
+							88
+						]
+					},
+					{
+						"screen_name": "MichaelFullan1",
+						"name": "Michael Fullan",
+						"id": 424277262,
+						"id_str": "424277262",
+						"indices": [
+							89,
+							104
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 859048130930774000,
+						"id_str": "859048130930774016",
+						"indices": [
+							105,
+							128
+						],
+						"media_url": "http://pbs.twimg.com/media/C-vzuUEXkAAzwdV.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C-vzuUEXkAAzwdV.jpg",
+						"url": "https://t.co/nzyMo1nR59",
+						"display_url": "pic.twitter.com/nzyMo1nR59",
+						"expanded_url": "https://twitter.com/millerpEDU/status/859048144704864256/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 859048130930774000,
+						"id_str": "859048130930774016",
+						"indices": [
+							105,
+							128
+						],
+						"media_url": "http://pbs.twimg.com/media/C-vzuUEXkAAzwdV.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C-vzuUEXkAAzwdV.jpg",
+						"url": "https://t.co/nzyMo1nR59",
+						"display_url": "pic.twitter.com/nzyMo1nR59",
+						"expanded_url": "https://twitter.com/millerpEDU/status/859048144704864256/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 221817490,
+				"id_str": "221817490",
+				"name": "Patrick Miller",
+				"screen_name": "millerpEDU",
+				"location": "Canada",
+				"description": "Principal of Innovation at the Simcoe County District School Board #SCDSB\nhttp://t.co/HX8L9xg9n3",
+				"url": "https://t.co/94YYfUtQLB",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/94YYfUtQLB",
+								"expanded_url": "http://edumillerp.wordpress.com",
+								"display_url": "edumillerp.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/HX8L9xg9n3",
+								"expanded_url": "http://scdsb.on.ca",
+								"display_url": "scdsb.on.ca",
+								"indices": [
+									74,
+									96
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2304,
+				"friends_count": 744,
+				"listed_count": 132,
+				"created_at": "Wed Dec 01 18:01:15 +0000 2010",
+				"favourites_count": 1540,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3694,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "B2DFDA",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/563042319281033216/0E3Z8mUE_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/563042319281033216/0E3Z8mUE_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/221817490/1420305420",
+				"profile_link_color": "93A644",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "3797791ff9c0e4c6",
+				"url": "https://api.twitter.com/1.1/geo/id/3797791ff9c0e4c6.json",
+				"place_type": "city",
+				"name": "Toronto",
+				"full_name": "Toronto, Ontario",
+				"country_code": "CA",
+				"country": "Canada",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-79.639319,
+								43.403221
+							],
+							[
+								-78.90582,
+								43.403221
+							],
+							[
+								-78.90582,
+								43.855401
+							],
+							[
+								-79.639319,
+								43.855401
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon May 01 14:01:32 +0000 2017",
 		"id": 859045124227117000,
 		"id_str": "859045124227117056",
