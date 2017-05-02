@@ -1,6 +1,613 @@
 Grailbird.data.tweets_2017_05 = 
 [
 	{
+		"created_at": "Tue May 02 12:55:02 +0000 2017",
+		"id": 859390776987570200,
+		"id_str": "859390776987570176",
+		"text": "RT @AnnieOttawa77: Incroyable! 14 ans et une orateur hors du commun! Continue de rêver et de mettre en action tes idées! #NPDL https://t.co…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NPDL",
+					"indices": [
+						121,
+						126
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AnnieOttawa77",
+					"name": "Annie Touchette",
+					"id": 2180770165,
+					"id_str": "2180770165",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5634392,
+			"id_str": "5634392",
+			"name": "Darren Kuropatwa",
+			"screen_name": "dkuropatwa",
+			"location": "Winnipeg, Manitoba, Canada",
+			"description": "Director of Learning at Hanover School Division \nAlways in beta ∞β \n(Tweets represent my own views.)",
+			"url": "http://t.co/FJEo2rqZf5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/FJEo2rqZf5",
+							"expanded_url": "http://adifference.blogspot.com",
+							"display_url": "adifference.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6886,
+			"friends_count": 2551,
+			"listed_count": 468,
+			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
+			"favourites_count": 378,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 24600,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/623182/ADifferenceBG.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/623182/ADifferenceBG.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "67CD67",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue May 02 12:53:33 +0000 2017",
+			"id": 859390404650840000,
+			"id_str": "859390404650840064",
+			"text": "Incroyable! 14 ans et une orateur hors du commun! Continue de rêver et de mettre en action tes idées! #NPDL https://t.co/ht3vIi1X4D",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "NPDL",
+						"indices": [
+							102,
+							107
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 859390392973889500,
+						"id_str": "859390392973889536",
+						"indices": [
+							108,
+							131
+						],
+						"media_url": "http://pbs.twimg.com/media/C-0rAliXkAA5mB0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C-0rAliXkAA5mB0.jpg",
+						"url": "https://t.co/ht3vIi1X4D",
+						"display_url": "pic.twitter.com/ht3vIi1X4D",
+						"expanded_url": "https://twitter.com/AnnieOttawa77/status/859390404650840064/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1152,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 859390392973889500,
+						"id_str": "859390392973889536",
+						"indices": [
+							108,
+							131
+						],
+						"media_url": "http://pbs.twimg.com/media/C-0rAliXkAA5mB0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C-0rAliXkAA5mB0.jpg",
+						"url": "https://t.co/ht3vIi1X4D",
+						"display_url": "pic.twitter.com/ht3vIi1X4D",
+						"expanded_url": "https://twitter.com/AnnieOttawa77/status/859390404650840064/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1152,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2180770165,
+				"id_str": "2180770165",
+				"name": "Annie Touchette",
+				"screen_name": "AnnieOttawa77",
+				"location": "ottawa ",
+				"description": "Fière directrice de l'école secondaire catholique Pierre-Savard à Ottawa. Notre philosophie; la réussite de chacun de nos élèves!",
+				"url": "https://t.co/H7imquewpA",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/H7imquewpA",
+								"expanded_url": "http://pierre-savard.ecolecatholique.ca/",
+								"display_url": "pierre-savard.ecolecatholique.ca",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 357,
+				"friends_count": 193,
+				"listed_count": 19,
+				"created_at": "Thu Nov 07 20:04:59 +0000 2013",
+				"favourites_count": 464,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 839,
+				"lang": "fr",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/538003608533762050/tGW82PZT_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/538003608533762050/tGW82PZT_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2180770165/1417110925",
+				"profile_link_color": "FFCC4D",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "3797791ff9c0e4c6",
+				"url": "https://api.twitter.com/1.1/geo/id/3797791ff9c0e4c6.json",
+				"place_type": "city",
+				"name": "Toronto",
+				"full_name": "Toronto, Ontario",
+				"country_code": "CA",
+				"country": "Canada",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-79.639319,
+								43.403221
+							],
+							[
+								-78.90582,
+								43.403221
+							],
+							[
+								-78.90582,
+								43.855401
+							],
+							[
+								-79.639319,
+								43.855401
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "fr"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "fr"
+	},
+	{
+		"created_at": "Tue May 02 12:40:56 +0000 2017",
+		"id": 859387228618973200,
+		"id_str": "859387228618973184",
+		"text": "C'est formidable! Quelles belles voix! #NPDL https://t.co/qC5uDiFZuK",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NPDL",
+					"indices": [
+						39,
+						44
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qC5uDiFZuK",
+					"expanded_url": "https://twitter.com/madamedouglas2/status/859386511212650496",
+					"display_url": "twitter.com/madamedouglas2…",
+					"indices": [
+						45,
+						68
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5634392,
+			"id_str": "5634392",
+			"name": "Darren Kuropatwa",
+			"screen_name": "dkuropatwa",
+			"location": "Winnipeg, Manitoba, Canada",
+			"description": "Director of Learning at Hanover School Division \nAlways in beta ∞β \n(Tweets represent my own views.)",
+			"url": "http://t.co/FJEo2rqZf5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/FJEo2rqZf5",
+							"expanded_url": "http://adifference.blogspot.com",
+							"display_url": "adifference.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6886,
+			"friends_count": 2551,
+			"listed_count": 468,
+			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
+			"favourites_count": 378,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 24600,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/623182/ADifferenceBG.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/623182/ADifferenceBG.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "67CD67",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 859386511212650500,
+		"quoted_status_id_str": "859386511212650496",
+		"quoted_status": {
+			"created_at": "Tue May 02 12:38:05 +0000 2017",
+			"id": 859386511212650500,
+			"id_str": "859386511212650496",
+			"text": "French a Capella at #npdl Merci bien! https://t.co/3CUUpY3tNB",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "npdl",
+						"indices": [
+							20,
+							25
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 859386469818835000,
+						"id_str": "859386469818834944",
+						"indices": [
+							38,
+							61
+						],
+						"media_url": "http://pbs.twimg.com/media/C-0ncOpUIAAeCb3.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C-0ncOpUIAAeCb3.jpg",
+						"url": "https://t.co/3CUUpY3tNB",
+						"display_url": "pic.twitter.com/3CUUpY3tNB",
+						"expanded_url": "https://twitter.com/madamedouglas2/status/859386511212650496/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 859386469818835000,
+						"id_str": "859386469818834944",
+						"indices": [
+							38,
+							61
+						],
+						"media_url": "http://pbs.twimg.com/media/C-0ncOpUIAAeCb3.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C-0ncOpUIAAeCb3.jpg",
+						"url": "https://t.co/3CUUpY3tNB",
+						"display_url": "pic.twitter.com/3CUUpY3tNB",
+						"expanded_url": "https://twitter.com/madamedouglas2/status/859386511212650496/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 280270866,
+				"id_str": "280270866",
+				"name": "Theresa Douglas",
+				"screen_name": "madamedouglas2",
+				"location": "Ontario",
+				"description": "I'm a Core French teacher, tech lover, &a lifelong learner. FSL teacher & K-12 FSL, ELL, & Literacy Coach.",
+				"url": "https://t.co/2XdleQsMHW",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/2XdleQsMHW",
+								"expanded_url": "http://bit.ly/2cviT8X",
+								"display_url": "bit.ly/2cviT8X",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 509,
+				"friends_count": 297,
+				"listed_count": 124,
+				"created_at": "Mon Apr 11 00:44:39 +0000 2011",
+				"favourites_count": 861,
+				"utc_offset": -18000,
+				"time_zone": "Quito",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4203,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/783628882897502209/TfyG-tAf_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/783628882897502209/TfyG-tAf_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/280270866/1475667539",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "fr"
+		},
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "fr"
+	},
+	{
 		"created_at": "Mon May 01 18:11:46 +0000 2017",
 		"id": 859108095477338100,
 		"id_str": "859108095477338112",
