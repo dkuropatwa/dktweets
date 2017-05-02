@@ -1,6 +1,496 @@
 Grailbird.data.tweets_2017_05 = 
 [
 	{
+		"created_at": "Tue May 02 13:41:03 +0000 2017",
+		"id": 859402355560919000,
+		"id_str": "859402355560919041",
+		"text": "RT @battagc4ed: Coherence is the shared depth of understanding about the nature of the work. #NPDL",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NPDL",
+					"indices": [
+						93,
+						98
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "battagc4ed",
+					"name": "Christine Battagli",
+					"id": 808406007982542800,
+					"id_str": "808406007982542853",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5634392,
+			"id_str": "5634392",
+			"name": "Darren Kuropatwa",
+			"screen_name": "dkuropatwa",
+			"location": "Winnipeg, Manitoba, Canada",
+			"description": "Director of Learning at Hanover School Division \nAlways in beta ∞β \n(Tweets represent my own views.)",
+			"url": "http://t.co/FJEo2rqZf5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/FJEo2rqZf5",
+							"expanded_url": "http://adifference.blogspot.com",
+							"display_url": "adifference.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6886,
+			"friends_count": 2551,
+			"listed_count": 468,
+			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
+			"favourites_count": 378,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 24603,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/623182/ADifferenceBG.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/623182/ADifferenceBG.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "67CD67",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue May 02 13:38:55 +0000 2017",
+			"id": 859401821462421500,
+			"id_str": "859401821462421505",
+			"text": "Coherence is the shared depth of understanding about the nature of the work. #NPDL",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "NPDL",
+						"indices": [
+							77,
+							82
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 808406007982542800,
+				"id_str": "808406007982542853",
+				"name": "Christine Battagli",
+				"screen_name": "battagc4ed",
+				"location": "Niagara, Ontario",
+				"description": "Eternal mother, wife, student and teacher. Consultant for Research, Assessment, Evaluation and Reporting at Niagara Catholic District School Board.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 53,
+				"friends_count": 89,
+				"listed_count": 0,
+				"created_at": "Mon Dec 12 20:19:46 +0000 2016",
+				"favourites_count": 1455,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 83,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/849001314679967744/SV2fsAF3_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/849001314679967744/SV2fsAF3_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/808406007982542853/1491339223",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue May 02 13:35:06 +0000 2017",
+		"id": 859400860371169300,
+		"id_str": "859400860371169280",
+		"text": "RT @amckiel: \"Those students who are most disaffected by regular schooling are the most impacted by deep learning.\" - Michael Fullan at #np…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "amckiel",
+					"name": "Andy McKiel",
+					"id": 9842422,
+					"id_str": "9842422",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5634392,
+			"id_str": "5634392",
+			"name": "Darren Kuropatwa",
+			"screen_name": "dkuropatwa",
+			"location": "Winnipeg, Manitoba, Canada",
+			"description": "Director of Learning at Hanover School Division \nAlways in beta ∞β \n(Tweets represent my own views.)",
+			"url": "http://t.co/FJEo2rqZf5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/FJEo2rqZf5",
+							"expanded_url": "http://adifference.blogspot.com",
+							"display_url": "adifference.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6886,
+			"friends_count": 2551,
+			"listed_count": 468,
+			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
+			"favourites_count": 378,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 24603,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/623182/ADifferenceBG.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/623182/ADifferenceBG.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "67CD67",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue May 02 13:33:15 +0000 2017",
+			"id": 859400393603907600,
+			"id_str": "859400393603907585",
+			"text": "\"Those students who are most disaffected by regular schooling are the most impacted by deep learning.\" - Michael Fullan at #npdl",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "npdl",
+						"indices": [
+							123,
+							128
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 9842422,
+				"id_str": "9842422",
+				"name": "Andy McKiel",
+				"screen_name": "amckiel",
+				"location": "Winnipeg, Canada",
+				"description": "K-12 Technology Coordinator - Multimedia Producer and Consumer",
+				"url": "http://t.co/bRBYujTI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/bRBYujTI",
+								"expanded_url": "http://mckiel.ca",
+								"display_url": "mckiel.ca",
+								"indices": [
+									0,
+									20
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3027,
+				"friends_count": 2946,
+				"listed_count": 194,
+				"created_at": "Thu Nov 01 02:19:36 +0000 2007",
+				"favourites_count": 749,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 11313,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/3816645/logoonblack.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/3816645/logoonblack.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1421848209/amckiel_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1421848209/amckiel_normal.png",
+				"profile_link_color": "2A2A9E",
+				"profile_sidebar_border_color": "434640",
+				"profile_sidebar_fill_color": "888C8B",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue May 02 13:24:34 +0000 2017",
+		"id": 859398208744812500,
+		"id_str": "859398208744812544",
+		"text": "False Signals=superficial implementation of the \"right drivers\" (alignment, pedagogy, collaborative cultures, systemness) in education #NPDL",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NPDL",
+					"indices": [
+						135,
+						140
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5634392,
+			"id_str": "5634392",
+			"name": "Darren Kuropatwa",
+			"screen_name": "dkuropatwa",
+			"location": "Winnipeg, Manitoba, Canada",
+			"description": "Director of Learning at Hanover School Division \nAlways in beta ∞β \n(Tweets represent my own views.)",
+			"url": "http://t.co/FJEo2rqZf5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/FJEo2rqZf5",
+							"expanded_url": "http://adifference.blogspot.com",
+							"display_url": "adifference.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6886,
+			"friends_count": 2551,
+			"listed_count": 468,
+			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
+			"favourites_count": 378,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 24603,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/623182/ADifferenceBG.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/623182/ADifferenceBG.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "67CD67",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue May 02 12:55:02 +0000 2017",
 		"id": 859390776987570200,
 		"id_str": "859390776987570176",
