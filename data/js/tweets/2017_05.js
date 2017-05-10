@@ -1,6 +1,494 @@
 Grailbird.data.tweets_2017_05 = 
 [
 	{
+		"created_at": "Wed May 10 02:45:35 +0000 2017",
+		"id": 862136507825520600,
+		"id_str": "862136507825520640",
+		"text": "RT @fryed: Some of my favourite people @datruss @zbpipe @dkuropatwa @thecleversheep @shareski #selno #edcan https://t.co/gILgRegYCi",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "selno",
+					"indices": [
+						94,
+						100
+					]
+				},
+				{
+					"text": "edcan",
+					"indices": [
+						101,
+						107
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "fryed",
+					"name": "Donna Miller Fry",
+					"id": 13210942,
+					"id_str": "13210942",
+					"indices": [
+						3,
+						9
+					]
+				},
+				{
+					"screen_name": "datruss",
+					"name": "David Truss",
+					"id": 10298552,
+					"id_str": "10298552",
+					"indices": [
+						39,
+						47
+					]
+				},
+				{
+					"screen_name": "zbpipe",
+					"name": "Zoe Branigan-Pipe",
+					"id": 19158946,
+					"id_str": "19158946",
+					"indices": [
+						48,
+						55
+					]
+				},
+				{
+					"screen_name": "dkuropatwa",
+					"name": "Darren Kuropatwa",
+					"id": 5634392,
+					"id_str": "5634392",
+					"indices": [
+						56,
+						67
+					]
+				},
+				{
+					"screen_name": "thecleversheep",
+					"name": "Rodd Lucier",
+					"id": 12153722,
+					"id_str": "12153722",
+					"indices": [
+						68,
+						83
+					]
+				},
+				{
+					"screen_name": "shareski",
+					"name": "Dean Shareski",
+					"id": 739743,
+					"id_str": "739743",
+					"indices": [
+						84,
+						93
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 861993790902587400,
+					"id_str": "861993790902587396",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/C_ZqySlXUAQ4Gh8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C_ZqySlXUAQ4Gh8.jpg",
+					"url": "https://t.co/gILgRegYCi",
+					"display_url": "pic.twitter.com/gILgRegYCi",
+					"expanded_url": "https://twitter.com/fryed/status/861993792806805506/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 707,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 469,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 707,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 861993792806805500,
+					"source_status_id_str": "861993792806805506",
+					"source_user_id": 13210942,
+					"source_user_id_str": "13210942"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 861993790902587400,
+					"id_str": "861993790902587396",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/C_ZqySlXUAQ4Gh8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C_ZqySlXUAQ4Gh8.jpg",
+					"url": "https://t.co/gILgRegYCi",
+					"display_url": "pic.twitter.com/gILgRegYCi",
+					"expanded_url": "https://twitter.com/fryed/status/861993792806805506/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 707,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 469,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 707,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 861993792806805500,
+					"source_status_id_str": "861993792806805506",
+					"source_user_id": 13210942,
+					"source_user_id_str": "13210942"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5634392,
+			"id_str": "5634392",
+			"name": "Darren Kuropatwa",
+			"screen_name": "dkuropatwa",
+			"location": "Winnipeg, Manitoba, Canada",
+			"description": "Director of Learning at Hanover School Division \nAlways in beta ∞β \n(Tweets represent my own views.)",
+			"url": "http://t.co/FJEo2rqZf5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/FJEo2rqZf5",
+							"expanded_url": "http://adifference.blogspot.com",
+							"display_url": "adifference.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6897,
+			"friends_count": 2563,
+			"listed_count": 469,
+			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
+			"favourites_count": 378,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 24611,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/623182/ADifferenceBG.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/623182/ADifferenceBG.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "67CD67",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue May 09 17:18:29 +0000 2017",
+			"id": 861993792806805500,
+			"id_str": "861993792806805506",
+			"text": "Some of my favourite people @datruss @zbpipe @dkuropatwa @thecleversheep @shareski #selno #edcan https://t.co/gILgRegYCi",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "selno",
+						"indices": [
+							83,
+							89
+						]
+					},
+					{
+						"text": "edcan",
+						"indices": [
+							90,
+							96
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "datruss",
+						"name": "David Truss",
+						"id": 10298552,
+						"id_str": "10298552",
+						"indices": [
+							28,
+							36
+						]
+					},
+					{
+						"screen_name": "zbpipe",
+						"name": "Zoe Branigan-Pipe",
+						"id": 19158946,
+						"id_str": "19158946",
+						"indices": [
+							37,
+							44
+						]
+					},
+					{
+						"screen_name": "dkuropatwa",
+						"name": "Darren Kuropatwa",
+						"id": 5634392,
+						"id_str": "5634392",
+						"indices": [
+							45,
+							56
+						]
+					},
+					{
+						"screen_name": "thecleversheep",
+						"name": "Rodd Lucier",
+						"id": 12153722,
+						"id_str": "12153722",
+						"indices": [
+							57,
+							72
+						]
+					},
+					{
+						"screen_name": "shareski",
+						"name": "Dean Shareski",
+						"id": 739743,
+						"id_str": "739743",
+						"indices": [
+							73,
+							82
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 861993790902587400,
+						"id_str": "861993790902587396",
+						"indices": [
+							97,
+							120
+						],
+						"media_url": "http://pbs.twimg.com/media/C_ZqySlXUAQ4Gh8.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C_ZqySlXUAQ4Gh8.jpg",
+						"url": "https://t.co/gILgRegYCi",
+						"display_url": "pic.twitter.com/gILgRegYCi",
+						"expanded_url": "https://twitter.com/fryed/status/861993792806805506/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1024,
+								"h": 707,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 469,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 707,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 861993790902587400,
+						"id_str": "861993790902587396",
+						"indices": [
+							97,
+							120
+						],
+						"media_url": "http://pbs.twimg.com/media/C_ZqySlXUAQ4Gh8.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C_ZqySlXUAQ4Gh8.jpg",
+						"url": "https://t.co/gILgRegYCi",
+						"display_url": "pic.twitter.com/gILgRegYCi",
+						"expanded_url": "https://twitter.com/fryed/status/861993792806805506/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1024,
+								"h": 707,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 469,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 707,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 13210942,
+				"id_str": "13210942",
+				"name": "Donna Miller Fry",
+				"screen_name": "fryed",
+				"location": "Thunder Bay, Ontario, Canada",
+				"description": "Ontario Lead for Leading Technology Enabled Learning & Teaching, OPEN Practice, NTIP Mentor, OSSEMOOC founder, #edcan, runner, paddler, SkiXC, voracious learner",
+				"url": "https://t.co/CTx0wLFqMA",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/CTx0wLFqMA",
+								"expanded_url": "http://donnamillerfry.com/",
+								"display_url": "donnamillerfry.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7859,
+				"friends_count": 8143,
+				"listed_count": 471,
+				"created_at": "Thu Feb 07 16:49:37 +0000 2008",
+				"favourites_count": 21798,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 28218,
+				"lang": "en-gb",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/3865693/2009_01_10_northern_sunrise.JPG",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/3865693/2009_01_10_northern_sunrise.JPG",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/748709977708236800/wU2avfkk_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/748709977708236800/wU2avfkk_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/13210942/1438370515",
+				"profile_link_color": "C72084",
+				"profile_sidebar_border_color": "C6E2EE",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu May 04 21:15:26 +0000 2017",
 		"id": 860241481478664200,
 		"id_str": "860241481478664192",
