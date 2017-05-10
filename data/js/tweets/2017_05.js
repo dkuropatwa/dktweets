@@ -1,6 +1,464 @@
 Grailbird.data.tweets_2017_05 = 
 [
 	{
+		"created_at": "Wed May 10 18:55:38 +0000 2017",
+		"id": 862380629354311700,
+		"id_str": "862380629354311680",
+		"text": "RT @andrewmead73: Thanks for joining us today @RiArdies and @HSD_Chris! #hsdlearns https://t.co/VXasQYBut6",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "hsdlearns",
+					"indices": [
+						72,
+						82
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "andrewmead73",
+					"name": "Andrew Mead",
+					"id": 248957048,
+					"id_str": "248957048",
+					"indices": [
+						3,
+						16
+					]
+				},
+				{
+					"screen_name": "RiArdies",
+					"name": "Rick Ardies",
+					"id": 1195272306,
+					"id_str": "1195272306",
+					"indices": [
+						46,
+						55
+					]
+				},
+				{
+					"screen_name": "HSD_Chris",
+					"name": "Chris Gudziunas",
+					"id": 150870061,
+					"id_str": "150870061",
+					"indices": [
+						60,
+						70
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/VXasQYBut6",
+					"expanded_url": "https://twitter.com/MMShanover/status/862380080827420673",
+					"display_url": "twitter.com/MMShanover/sta…",
+					"indices": [
+						83,
+						106
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5634392,
+			"id_str": "5634392",
+			"name": "Darren Kuropatwa",
+			"screen_name": "dkuropatwa",
+			"location": "Winnipeg, Manitoba, Canada",
+			"description": "Director of Learning at Hanover School Division \nAlways in beta ∞β \n(Tweets represent my own views.)",
+			"url": "http://t.co/FJEo2rqZf5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/FJEo2rqZf5",
+							"expanded_url": "http://adifference.blogspot.com",
+							"display_url": "adifference.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6896,
+			"friends_count": 2563,
+			"listed_count": 467,
+			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
+			"favourites_count": 378,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 24612,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/623182/ADifferenceBG.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/623182/ADifferenceBG.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "67CD67",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed May 10 18:54:48 +0000 2017",
+			"id": 862380419668463600,
+			"id_str": "862380419668463617",
+			"text": "Thanks for joining us today @RiArdies and @HSD_Chris! #hsdlearns https://t.co/VXasQYBut6",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "hsdlearns",
+						"indices": [
+							54,
+							64
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "RiArdies",
+						"name": "Rick Ardies",
+						"id": 1195272306,
+						"id_str": "1195272306",
+						"indices": [
+							28,
+							37
+						]
+					},
+					{
+						"screen_name": "HSD_Chris",
+						"name": "Chris Gudziunas",
+						"id": 150870061,
+						"id_str": "150870061",
+						"indices": [
+							42,
+							52
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/VXasQYBut6",
+						"expanded_url": "https://twitter.com/MMShanover/status/862380080827420673",
+						"display_url": "twitter.com/MMShanover/sta…",
+						"indices": [
+							65,
+							88
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 248957048,
+				"id_str": "248957048",
+				"name": "Andrew Mead",
+				"screen_name": "andrewmead73",
+				"location": "Oakbank, Manitoba",
+				"description": "Teacher, principal and story teller of @MMSHanover, former athlete, proud poppa, I take pictures while I work. Opinions are my own. 🇨🇦 #hsdlearns",
+				"url": "https://t.co/lZU1AmBqrk",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/lZU1AmBqrk",
+								"expanded_url": "https://about.me/andrew.mead",
+								"display_url": "about.me/andrew.mead",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2558,
+				"friends_count": 2420,
+				"listed_count": 159,
+				"created_at": "Tue Feb 08 02:08:00 +0000 2011",
+				"favourites_count": 3056,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 15013,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/841827610900500482/24jrJSl0_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/841827610900500482/24jrJSl0_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/248957048/1445727368",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 862380080827420700,
+			"quoted_status_id_str": "862380080827420673",
+			"quoted_status": {
+				"created_at": "Wed May 10 18:53:28 +0000 2017",
+				"id": 862380080827420700,
+				"id_str": "862380080827420673",
+				"text": "Good to see Mr. Ardies and Mr. Gudzianas joining us today to learn more about #jordansprinciple #hsdlearns https://t.co/XtU66XEsD4",
+				"truncated": false,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "jordansprinciple",
+							"indices": [
+								78,
+								95
+							]
+						},
+						{
+							"text": "hsdlearns",
+							"indices": [
+								96,
+								106
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [],
+					"media": [
+						{
+							"id": 862380078524764200,
+							"id_str": "862380078524764160",
+							"indices": [
+								107,
+								130
+							],
+							"media_url": "http://pbs.twimg.com/media/C_fKHMHXkAA9kZW.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/C_fKHMHXkAA9kZW.jpg",
+							"url": "https://t.co/XtU66XEsD4",
+							"display_url": "pic.twitter.com/XtU66XEsD4",
+							"expanded_url": "https://twitter.com/MMShanover/status/862380080827420673/photo/1",
+							"type": "photo",
+							"sizes": {
+								"small": {
+									"w": 680,
+									"h": 680,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 1024,
+									"h": 1024,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"medium": {
+									"w": 1024,
+									"h": 1024,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 862380078524764200,
+							"id_str": "862380078524764160",
+							"indices": [
+								107,
+								130
+							],
+							"media_url": "http://pbs.twimg.com/media/C_fKHMHXkAA9kZW.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/C_fKHMHXkAA9kZW.jpg",
+							"url": "https://t.co/XtU66XEsD4",
+							"display_url": "pic.twitter.com/XtU66XEsD4",
+							"expanded_url": "https://twitter.com/MMShanover/status/862380080827420673/photo/1",
+							"type": "photo",
+							"sizes": {
+								"small": {
+									"w": 680,
+									"h": 680,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 1024,
+									"h": 1024,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"medium": {
+									"w": 1024,
+									"h": 1024,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 768868401271844900,
+					"id_str": "768868401271844864",
+					"name": "Mitchell MS",
+					"screen_name": "MMShanover",
+					"location": "Mitchell, Manitoba",
+					"description": "A 5-8 middle school located in Mitchell, Manitoba. Part of the Hanover School Division #hsdlearns #warriorshsd 🇨🇦",
+					"url": "https://t.co/9pLYDJkL2E",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/9pLYDJkL2E",
+									"expanded_url": "http://mms.hsd.ca",
+									"display_url": "mms.hsd.ca",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 76,
+					"friends_count": 73,
+					"listed_count": 8,
+					"created_at": "Thu Aug 25 17:51:26 +0000 2016",
+					"favourites_count": 61,
+					"utc_offset": -25200,
+					"time_zone": "Pacific Time (US & Canada)",
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 1132,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "F5F8FA",
+					"profile_background_image_url": null,
+					"profile_background_image_url_https": null,
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/809788677350166528/ZohG_Fc7_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/809788677350166528/ZohG_Fc7_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/768868401271844864/1472147748",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 0,
+				"favorite_count": 0,
+				"favorited": false,
+				"retweeted": true,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 2,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 862380080827420700,
+		"quoted_status_id_str": "862380080827420673",
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed May 10 02:45:35 +0000 2017",
 		"id": 862136507825520600,
 		"id_str": "862136507825520640",
