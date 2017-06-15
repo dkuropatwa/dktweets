@@ -1,6 +1,302 @@
 Grailbird.data.tweets_2017_06 = 
 [
 	{
+		"created_at": "Thu Jun 15 22:25:30 +0000 2017",
+		"id": 875479406709538800,
+		"id_str": "875479406709538820",
+		"text": "RT @andrewmead73: So cool to see grade 6 kids @MMShanover doing #ignite talks about their Ponder Projects. So cool. #hsdlearns @dkuropatwa…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ignite",
+					"indices": [
+						64,
+						71
+					]
+				},
+				{
+					"text": "hsdlearns",
+					"indices": [
+						116,
+						126
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "andrewmead73",
+					"name": "Andrew Mead 🇨🇦",
+					"id": 248957048,
+					"id_str": "248957048",
+					"indices": [
+						3,
+						16
+					]
+				},
+				{
+					"screen_name": "MMShanover",
+					"name": "Mitchell MS",
+					"id": 768868401271844900,
+					"id_str": "768868401271844864",
+					"indices": [
+						46,
+						57
+					]
+				},
+				{
+					"screen_name": "dkuropatwa",
+					"name": "Darren Kuropatwa",
+					"id": 5634392,
+					"id_str": "5634392",
+					"indices": [
+						127,
+						138
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5634392,
+			"id_str": "5634392",
+			"name": "Darren Kuropatwa",
+			"screen_name": "dkuropatwa",
+			"location": "Winnipeg, Manitoba, Canada",
+			"description": "Director of Learning at Hanover School Division \nAlways in beta ∞β \n(Tweets represent my own views.)",
+			"url": "http://t.co/FJEo2rqZf5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/FJEo2rqZf5",
+							"expanded_url": "http://adifference.blogspot.com",
+							"display_url": "adifference.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6908,
+			"friends_count": 2574,
+			"listed_count": 468,
+			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
+			"favourites_count": 380,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 24626,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/623182/ADifferenceBG.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/623182/ADifferenceBG.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "67CD67",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jun 15 15:03:50 +0000 2017",
+			"id": 875368256957284400,
+			"id_str": "875368256957284352",
+			"text": "So cool to see grade 6 kids @MMShanover doing #ignite talks about their Ponder Projects. So cool. #hsdlearns… https://t.co/mZxRC67MBc",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ignite",
+						"indices": [
+							46,
+							53
+						]
+					},
+					{
+						"text": "hsdlearns",
+						"indices": [
+							98,
+							108
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "MMShanover",
+						"name": "Mitchell MS",
+						"id": 768868401271844900,
+						"id_str": "768868401271844864",
+						"indices": [
+							28,
+							39
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/mZxRC67MBc",
+						"expanded_url": "https://twitter.com/i/web/status/875368256957284352",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							110,
+							133
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 248957048,
+				"id_str": "248957048",
+				"name": "Andrew Mead 🇨🇦",
+				"screen_name": "andrewmead73",
+				"location": "Oakbank, Manitoba",
+				"description": "Teacher, principal and story teller of @MMSHanover, former athlete, proud poppa, I take pictures while I work. Opinions are my own.  #hsdlearns",
+				"url": "https://t.co/lZU1AmBqrk",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/lZU1AmBqrk",
+								"expanded_url": "https://about.me/andrew.mead",
+								"display_url": "about.me/andrew.mead",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2597,
+				"friends_count": 2494,
+				"listed_count": 161,
+				"created_at": "Tue Feb 08 02:08:00 +0000 2011",
+				"favourites_count": 3140,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 15184,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/841827610900500482/24jrJSl0_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/841827610900500482/24jrJSl0_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/248957048/1445727368",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "07d9f55722482000",
+				"url": "https://api.twitter.com/1.1/geo/id/07d9f55722482000.json",
+				"place_type": "poi",
+				"name": "Mitchell, Mb",
+				"full_name": "Mitchell, Mb",
+				"country_code": "CA",
+				"country": "Canada",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-96.76972336214159,
+								49.53217368344757
+							],
+							[
+								-96.76972336214159,
+								49.53217368344757
+							],
+							[
+								-96.76972336214159,
+								49.53217368344757
+							],
+							[
+								-96.76972336214159,
+								49.53217368344757
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Jun 12 17:13:48 +0000 2017",
 		"id": 874313798252974100,
 		"id_str": "874313798252974085",
