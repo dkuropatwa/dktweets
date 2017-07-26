@@ -1,6 +1,2952 @@
 Grailbird.data.tweets_2017_07 = 
 [
 	{
+		"created_at": "Wed Jul 26 20:14:44 +0000 2017",
+		"id": 890304400316653600,
+		"id_str": "890304400316653568",
+		"text": "@MrsYav @langwitches Thanks so much for doing this &amp; sharing it Bianca!",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MrsYav",
+					"name": "Bianca Yavelak",
+					"id": 453508069,
+					"id_str": "453508069",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "langwitches",
+					"name": "Silvia Tolisano",
+					"id": 5763052,
+					"id_str": "5763052",
+					"indices": [
+						8,
+						20
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 890297503991640000,
+		"in_reply_to_status_id_str": "890297503991640065",
+		"in_reply_to_user_id": 453508069,
+		"in_reply_to_user_id_str": "453508069",
+		"in_reply_to_screen_name": "MrsYav",
+		"user": {
+			"id": 5634392,
+			"id_str": "5634392",
+			"name": "Darren Kuropatwa",
+			"screen_name": "dkuropatwa",
+			"location": "Winnipeg, Manitoba, Canada",
+			"description": "Director of Learning at Hanover School Division \nAlways in beta ∞β \n(Tweets represent my own views.)",
+			"url": "http://t.co/FJEo2rqZf5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/FJEo2rqZf5",
+							"expanded_url": "http://adifference.blogspot.com",
+							"display_url": "adifference.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6919,
+			"friends_count": 2590,
+			"listed_count": 468,
+			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
+			"favourites_count": 381,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 24660,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/623182/ADifferenceBG.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/623182/ADifferenceBG.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "67CD67",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jul 26 20:14:09 +0000 2017",
+		"id": 890304252626817000,
+		"id_str": "890304252626817025",
+		"text": "RT @MrsYav: Permission to #wonder with @dkuropatwa at #BLC17 #inquiry #sketchnoting #livesketchnote #gcsk12 @langwitches https://t.co/Q1nIG…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "wonder",
+					"indices": [
+						26,
+						33
+					]
+				},
+				{
+					"text": "BLC17",
+					"indices": [
+						54,
+						60
+					]
+				},
+				{
+					"text": "inquiry",
+					"indices": [
+						61,
+						69
+					]
+				},
+				{
+					"text": "sketchnoting",
+					"indices": [
+						70,
+						83
+					]
+				},
+				{
+					"text": "livesketchnote",
+					"indices": [
+						84,
+						99
+					]
+				},
+				{
+					"text": "gcsk12",
+					"indices": [
+						100,
+						107
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MrsYav",
+					"name": "Bianca Yavelak",
+					"id": 453508069,
+					"id_str": "453508069",
+					"indices": [
+						3,
+						10
+					]
+				},
+				{
+					"screen_name": "dkuropatwa",
+					"name": "Darren Kuropatwa",
+					"id": 5634392,
+					"id_str": "5634392",
+					"indices": [
+						39,
+						50
+					]
+				},
+				{
+					"screen_name": "langwitches",
+					"name": "Silvia Tolisano",
+					"id": 5763052,
+					"id_str": "5763052",
+					"indices": [
+						108,
+						120
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5634392,
+			"id_str": "5634392",
+			"name": "Darren Kuropatwa",
+			"screen_name": "dkuropatwa",
+			"location": "Winnipeg, Manitoba, Canada",
+			"description": "Director of Learning at Hanover School Division \nAlways in beta ∞β \n(Tweets represent my own views.)",
+			"url": "http://t.co/FJEo2rqZf5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/FJEo2rqZf5",
+							"expanded_url": "http://adifference.blogspot.com",
+							"display_url": "adifference.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6919,
+			"friends_count": 2590,
+			"listed_count": 468,
+			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
+			"favourites_count": 381,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 24660,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/623182/ADifferenceBG.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/623182/ADifferenceBG.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "67CD67",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jul 26 19:47:20 +0000 2017",
+			"id": 890297503991640000,
+			"id_str": "890297503991640065",
+			"text": "Permission to #wonder with @dkuropatwa at #BLC17 #inquiry #sketchnoting #livesketchnote #gcsk12 @langwitches https://t.co/Q1nIGhreTe",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "wonder",
+						"indices": [
+							14,
+							21
+						]
+					},
+					{
+						"text": "BLC17",
+						"indices": [
+							42,
+							48
+						]
+					},
+					{
+						"text": "inquiry",
+						"indices": [
+							49,
+							57
+						]
+					},
+					{
+						"text": "sketchnoting",
+						"indices": [
+							58,
+							71
+						]
+					},
+					{
+						"text": "livesketchnote",
+						"indices": [
+							72,
+							87
+						]
+					},
+					{
+						"text": "gcsk12",
+						"indices": [
+							88,
+							95
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "dkuropatwa",
+						"name": "Darren Kuropatwa",
+						"id": 5634392,
+						"id_str": "5634392",
+						"indices": [
+							27,
+							38
+						]
+					},
+					{
+						"screen_name": "langwitches",
+						"name": "Silvia Tolisano",
+						"id": 5763052,
+						"id_str": "5763052",
+						"indices": [
+							96,
+							108
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 890297491689791500,
+						"id_str": "890297491689791488",
+						"indices": [
+							109,
+							132
+						],
+						"media_url": "http://pbs.twimg.com/media/DFr42giXYAAh5Mh.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DFr42giXYAAh5Mh.jpg",
+						"url": "https://t.co/Q1nIGhreTe",
+						"display_url": "pic.twitter.com/Q1nIGhreTe",
+						"expanded_url": "https://twitter.com/MrsYav/status/890297503991640065/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 408,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1228,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 890297491689791500,
+						"id_str": "890297491689791488",
+						"indices": [
+							109,
+							132
+						],
+						"media_url": "http://pbs.twimg.com/media/DFr42giXYAAh5Mh.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DFr42giXYAAh5Mh.jpg",
+						"url": "https://t.co/Q1nIGhreTe",
+						"display_url": "pic.twitter.com/Q1nIGhreTe",
+						"expanded_url": "https://twitter.com/MrsYav/status/890297503991640065/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 408,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1228,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 453508069,
+				"id_str": "453508069",
+				"name": "Bianca Yavelak",
+				"screen_name": "MrsYav",
+				"location": "Gastonia NC",
+				"description": "Mom. Teacher. Nerd extraordinaire.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 310,
+				"friends_count": 252,
+				"listed_count": 9,
+				"created_at": "Tue Jan 03 00:32:11 +0000 2012",
+				"favourites_count": 374,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2499,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3527539394/98a8cfe4255c64a89b0ffb409fbded11_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3527539394/98a8cfe4255c64a89b0ffb409fbded11_normal.jpeg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jul 26 20:13:47 +0000 2017",
+		"id": 890304159534198800,
+		"id_str": "890304159534198784",
+		"text": "RT @lmontgo: @dkuropatwa awesome session! #BLC17 @NLearning #gcsk12 @GastonSchools https://t.co/m1rc4bKhHk",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLC17",
+					"indices": [
+						42,
+						48
+					]
+				},
+				{
+					"text": "gcsk12",
+					"indices": [
+						60,
+						67
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lmontgo",
+					"name": "Lisa ",
+					"id": 25666629,
+					"id_str": "25666629",
+					"indices": [
+						3,
+						11
+					]
+				},
+				{
+					"screen_name": "dkuropatwa",
+					"name": "Darren Kuropatwa",
+					"id": 5634392,
+					"id_str": "5634392",
+					"indices": [
+						13,
+						24
+					]
+				},
+				{
+					"screen_name": "NLearning",
+					"name": "November Learning",
+					"id": 12042382,
+					"id_str": "12042382",
+					"indices": [
+						49,
+						59
+					]
+				},
+				{
+					"screen_name": "GastonSchools",
+					"name": "GastonCountySchools",
+					"id": 54365628,
+					"id_str": "54365628",
+					"indices": [
+						68,
+						82
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 890297400253964300,
+					"id_str": "890297400253964288",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/DFr4xL6XYAAPMGA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DFr4xL6XYAAPMGA.jpg",
+					"url": "https://t.co/m1rc4bKhHk",
+					"display_url": "pic.twitter.com/m1rc4bKhHk",
+					"expanded_url": "https://twitter.com/lmontgo/status/890297416414617602/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 890297416414617600,
+					"source_status_id_str": "890297416414617602",
+					"source_user_id": 25666629,
+					"source_user_id_str": "25666629"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 890297400253964300,
+					"id_str": "890297400253964288",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/DFr4xL6XYAAPMGA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DFr4xL6XYAAPMGA.jpg",
+					"url": "https://t.co/m1rc4bKhHk",
+					"display_url": "pic.twitter.com/m1rc4bKhHk",
+					"expanded_url": "https://twitter.com/lmontgo/status/890297416414617602/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 890297416414617600,
+					"source_status_id_str": "890297416414617602",
+					"source_user_id": 25666629,
+					"source_user_id_str": "25666629"
+				},
+				{
+					"id": 890297400228806700,
+					"id_str": "890297400228806656",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/DFr4xL0XgAAICWP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DFr4xL0XgAAICWP.jpg",
+					"url": "https://t.co/m1rc4bKhHk",
+					"display_url": "pic.twitter.com/m1rc4bKhHk",
+					"expanded_url": "https://twitter.com/lmontgo/status/890297416414617602/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 890297416414617600,
+					"source_status_id_str": "890297416414617602",
+					"source_user_id": 25666629,
+					"source_user_id_str": "25666629"
+				},
+				{
+					"id": 890297400329416700,
+					"id_str": "890297400329416704",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/DFr4xMMWsAANAYc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DFr4xMMWsAANAYc.jpg",
+					"url": "https://t.co/m1rc4bKhHk",
+					"display_url": "pic.twitter.com/m1rc4bKhHk",
+					"expanded_url": "https://twitter.com/lmontgo/status/890297416414617602/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 890297416414617600,
+					"source_status_id_str": "890297416414617602",
+					"source_user_id": 25666629,
+					"source_user_id_str": "25666629"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5634392,
+			"id_str": "5634392",
+			"name": "Darren Kuropatwa",
+			"screen_name": "dkuropatwa",
+			"location": "Winnipeg, Manitoba, Canada",
+			"description": "Director of Learning at Hanover School Division \nAlways in beta ∞β \n(Tweets represent my own views.)",
+			"url": "http://t.co/FJEo2rqZf5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/FJEo2rqZf5",
+							"expanded_url": "http://adifference.blogspot.com",
+							"display_url": "adifference.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6919,
+			"friends_count": 2590,
+			"listed_count": 468,
+			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
+			"favourites_count": 381,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 24660,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/623182/ADifferenceBG.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/623182/ADifferenceBG.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "67CD67",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jul 26 19:46:59 +0000 2017",
+			"id": 890297416414617600,
+			"id_str": "890297416414617602",
+			"text": "@dkuropatwa awesome session! #BLC17 @NLearning #gcsk12 @GastonSchools https://t.co/m1rc4bKhHk",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "BLC17",
+						"indices": [
+							29,
+							35
+						]
+					},
+					{
+						"text": "gcsk12",
+						"indices": [
+							47,
+							54
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "dkuropatwa",
+						"name": "Darren Kuropatwa",
+						"id": 5634392,
+						"id_str": "5634392",
+						"indices": [
+							0,
+							11
+						]
+					},
+					{
+						"screen_name": "NLearning",
+						"name": "November Learning",
+						"id": 12042382,
+						"id_str": "12042382",
+						"indices": [
+							36,
+							46
+						]
+					},
+					{
+						"screen_name": "GastonSchools",
+						"name": "GastonCountySchools",
+						"id": 54365628,
+						"id_str": "54365628",
+						"indices": [
+							55,
+							69
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 890297400253964300,
+						"id_str": "890297400253964288",
+						"indices": [
+							70,
+							93
+						],
+						"media_url": "http://pbs.twimg.com/media/DFr4xL6XYAAPMGA.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DFr4xL6XYAAPMGA.jpg",
+						"url": "https://t.co/m1rc4bKhHk",
+						"display_url": "pic.twitter.com/m1rc4bKhHk",
+						"expanded_url": "https://twitter.com/lmontgo/status/890297416414617602/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 890297400253964300,
+						"id_str": "890297400253964288",
+						"indices": [
+							70,
+							93
+						],
+						"media_url": "http://pbs.twimg.com/media/DFr4xL6XYAAPMGA.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DFr4xL6XYAAPMGA.jpg",
+						"url": "https://t.co/m1rc4bKhHk",
+						"display_url": "pic.twitter.com/m1rc4bKhHk",
+						"expanded_url": "https://twitter.com/lmontgo/status/890297416414617602/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 890297400228806700,
+						"id_str": "890297400228806656",
+						"indices": [
+							70,
+							93
+						],
+						"media_url": "http://pbs.twimg.com/media/DFr4xL0XgAAICWP.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DFr4xL0XgAAICWP.jpg",
+						"url": "https://t.co/m1rc4bKhHk",
+						"display_url": "pic.twitter.com/m1rc4bKhHk",
+						"expanded_url": "https://twitter.com/lmontgo/status/890297416414617602/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 890297400329416700,
+						"id_str": "890297400329416704",
+						"indices": [
+							70,
+							93
+						],
+						"media_url": "http://pbs.twimg.com/media/DFr4xMMWsAANAYc.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DFr4xMMWsAANAYc.jpg",
+						"url": "https://t.co/m1rc4bKhHk",
+						"display_url": "pic.twitter.com/m1rc4bKhHk",
+						"expanded_url": "https://twitter.com/lmontgo/status/890297416414617602/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 5634392,
+			"in_reply_to_user_id_str": "5634392",
+			"in_reply_to_screen_name": "dkuropatwa",
+			"user": {
+				"id": 25666629,
+				"id_str": "25666629",
+				"name": "Lisa ",
+				"screen_name": "lmontgo",
+				"location": "",
+				"description": "Google Certified Educator | Apple Educator | DEN Star | ESL | AIG | Instr. Technology | EdCamp Fan | Coding | Game-based Learning | STEAM | #NCDLCN #DENSI",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1110,
+				"friends_count": 1298,
+				"listed_count": 86,
+				"created_at": "Sat Mar 21 12:13:48 +0000 2009",
+				"favourites_count": 2534,
+				"utc_offset": -10800,
+				"time_zone": "Atlantic Time (Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3206,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FCEBB6",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/819307190/1c5fb254388d7523f78c1aca43bb634f.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/819307190/1c5fb254388d7523f78c1aca43bb634f.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/483322562445709312/UQ1umy4N_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/483322562445709312/UQ1umy4N_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/25666629/1438204655",
+				"profile_link_color": "CE7834",
+				"profile_sidebar_border_color": "F0A830",
+				"profile_sidebar_fill_color": "78C0A8",
+				"profile_text_color": "5E412F",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jul 26 20:12:20 +0000 2017",
+		"id": 890303794445246500,
+		"id_str": "890303794445246465",
+		"text": "RT @MindWise_CK: Knowledge is created through networks and maps of info. Ideas are not simple... we need to make tacit assumptions explicit…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MindWise_CK",
+					"name": "Caitlin E. Krause",
+					"id": 23375706,
+					"id_str": "23375706",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5634392,
+			"id_str": "5634392",
+			"name": "Darren Kuropatwa",
+			"screen_name": "dkuropatwa",
+			"location": "Winnipeg, Manitoba, Canada",
+			"description": "Director of Learning at Hanover School Division \nAlways in beta ∞β \n(Tweets represent my own views.)",
+			"url": "http://t.co/FJEo2rqZf5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/FJEo2rqZf5",
+							"expanded_url": "http://adifference.blogspot.com",
+							"display_url": "adifference.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6919,
+			"friends_count": 2590,
+			"listed_count": 468,
+			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
+			"favourites_count": 381,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 24660,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/623182/ADifferenceBG.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/623182/ADifferenceBG.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "67CD67",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jul 26 19:34:01 +0000 2017",
+			"id": 890294151799070700,
+			"id_str": "890294151799070721",
+			"text": "Knowledge is created through networks and maps of info. Ideas are not simple... we need to make tacit assumptions explicit! @dkuropatwa",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "dkuropatwa",
+						"name": "Darren Kuropatwa",
+						"id": 5634392,
+						"id_str": "5634392",
+						"indices": [
+							124,
+							135
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 23375706,
+				"id_str": "23375706",
+				"name": "Caitlin E. Krause",
+				"screen_name": "MindWise_CK",
+				"location": "Zürich, Switzerland",
+				"description": "be. here. now. #MindWise creative mindful leadership designer digital writer VR edtech globetrekker w/ purpose #curiouscollab #mindfulbydesign",
+				"url": "https://t.co/tgbNzs72s1",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/tgbNzs72s1",
+								"expanded_url": "http://www.mindwise.pro",
+								"display_url": "mindwise.pro",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1866,
+				"friends_count": 1966,
+				"listed_count": 317,
+				"created_at": "Mon Mar 09 00:16:54 +0000 2009",
+				"favourites_count": 4459,
+				"utc_offset": 7200,
+				"time_zone": "Paris",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 6570,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "020812",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/461567890617925632/6WrpKoiJ.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/461567890617925632/6WrpKoiJ.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/666789809810186240/i2cD8Jj8_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/666789809810186240/i2cD8Jj8_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/23375706/1488177523",
+				"profile_link_color": "0020C2",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "020812",
+				"profile_text_color": "17406C",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jul 26 20:12:05 +0000 2017",
+		"id": 890303731689979900,
+		"id_str": "890303731689979904",
+		"text": "RT @JoyKirr: LOVE how @dkuropatwa always leaves me with more questions than answers. Just as we could do with students. Always inspiring. #…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JoyKirr",
+					"name": "Joy Kirr",
+					"id": 344350209,
+					"id_str": "344350209",
+					"indices": [
+						3,
+						11
+					]
+				},
+				{
+					"screen_name": "dkuropatwa",
+					"name": "Darren Kuropatwa",
+					"id": 5634392,
+					"id_str": "5634392",
+					"indices": [
+						22,
+						33
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5634392,
+			"id_str": "5634392",
+			"name": "Darren Kuropatwa",
+			"screen_name": "dkuropatwa",
+			"location": "Winnipeg, Manitoba, Canada",
+			"description": "Director of Learning at Hanover School Division \nAlways in beta ∞β \n(Tweets represent my own views.)",
+			"url": "http://t.co/FJEo2rqZf5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/FJEo2rqZf5",
+							"expanded_url": "http://adifference.blogspot.com",
+							"display_url": "adifference.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6919,
+			"friends_count": 2590,
+			"listed_count": 468,
+			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
+			"favourites_count": 381,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 24660,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/623182/ADifferenceBG.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/623182/ADifferenceBG.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "67CD67",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jul 26 19:26:59 +0000 2017",
+			"id": 890292384503914500,
+			"id_str": "890292384503914504",
+			"text": "LOVE how @dkuropatwa always leaves me with more questions than answers. Just as we could do with students. Always inspiring. #BLC17",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "BLC17",
+						"indices": [
+							125,
+							131
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "dkuropatwa",
+						"name": "Darren Kuropatwa",
+						"id": 5634392,
+						"id_str": "5634392",
+						"indices": [
+							9,
+							20
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 344350209,
+				"id_str": "344350209",
+				"name": "Joy Kirr",
+				"screen_name": "JoyKirr",
+				"location": "Elk Grove, IL, AHSD25",
+				"description": "Optimism overcomes obstacles (Julie K.). Gr7 ELA NBCT, always trying to catch up to the students, while enjoying my home life to the fullest. #TTOG #GeniusHour",
+				"url": "https://t.co/yBAQNBxzbi",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/yBAQNBxzbi",
+								"expanded_url": "http://geniushour.blogspot.com",
+								"display_url": "geniushour.blogspot.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 17417,
+				"friends_count": 6410,
+				"listed_count": 875,
+				"created_at": "Thu Jul 28 22:55:23 +0000 2011",
+				"favourites_count": 6543,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 79357,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBDFC1",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/667869012/41213525aa64f635ebaf338f2b916c95.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/667869012/41213525aa64f635ebaf338f2b916c95.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/861341104062574592/MC3uD43q_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/861341104062574592/MC3uD43q_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/344350209/1494197210",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "67b98f17fdcf20be",
+				"url": "https://api.twitter.com/1.1/geo/id/67b98f17fdcf20be.json",
+				"place_type": "city",
+				"name": "Boston",
+				"full_name": "Boston, MA",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-71.191421,
+								42.227797
+							],
+							[
+								-70.986004,
+								42.227797
+							],
+							[
+								-70.986004,
+								42.399542
+							],
+							[
+								-71.191421,
+								42.399542
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jul 26 20:11:54 +0000 2017",
+		"id": 890303687578529800,
+		"id_str": "890303687578529792",
+		"text": "RT @Lkennedy37: Which question do we want to explore? We know what we don't want in schools - the doing something is where to start #Empath…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Lkennedy37",
+					"name": "L.Kennedy",
+					"id": 2907068789,
+					"id_str": "2907068789",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5634392,
+			"id_str": "5634392",
+			"name": "Darren Kuropatwa",
+			"screen_name": "dkuropatwa",
+			"location": "Winnipeg, Manitoba, Canada",
+			"description": "Director of Learning at Hanover School Division \nAlways in beta ∞β \n(Tweets represent my own views.)",
+			"url": "http://t.co/FJEo2rqZf5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/FJEo2rqZf5",
+							"expanded_url": "http://adifference.blogspot.com",
+							"display_url": "adifference.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6919,
+			"friends_count": 2590,
+			"listed_count": 468,
+			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
+			"favourites_count": 381,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 24660,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/623182/ADifferenceBG.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/623182/ADifferenceBG.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "67CD67",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jul 26 19:25:48 +0000 2017",
+			"id": 890292086557245400,
+			"id_str": "890292086557245440",
+			"text": "Which question do we want to explore? We know what we don't want in schools - the doing something is where to start #Empathy @dkuropatwa",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Empathy",
+						"indices": [
+							116,
+							124
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "dkuropatwa",
+						"name": "Darren Kuropatwa",
+						"id": 5634392,
+						"id_str": "5634392",
+						"indices": [
+							125,
+							136
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2907068789,
+				"id_str": "2907068789",
+				"name": "L.Kennedy",
+				"screen_name": "Lkennedy37",
+				"location": "Halifax, Nova Scotia",
+				"description": "EDUCATOR, HRSB GAFE Lead Team, DEN STAR, NPDL, Innovation, Technology, Creativity - Full STEAM ahead!",
+				"url": "https://t.co/uQZIcVaZtE",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/uQZIcVaZtE",
+								"expanded_url": "https://sites.google.com/gnspes.ca/lkennedy",
+								"display_url": "sites.google.com/gnspes.ca/lken…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 348,
+				"friends_count": 388,
+				"listed_count": 27,
+				"created_at": "Sat Dec 06 00:27:19 +0000 2014",
+				"favourites_count": 1377,
+				"utc_offset": -10800,
+				"time_zone": "Atlantic Time (Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3723,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/541036548146216961/GAJNw-Hb_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/541036548146216961/GAJNw-Hb_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2907068789/1441662354",
+				"profile_link_color": "9266CC",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "67b98f17fdcf20be",
+				"url": "https://api.twitter.com/1.1/geo/id/67b98f17fdcf20be.json",
+				"place_type": "city",
+				"name": "Boston",
+				"full_name": "Boston, MA",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-71.191421,
+								42.227797
+							],
+							[
+								-70.986004,
+								42.227797
+							],
+							[
+								-70.986004,
+								42.399542
+							],
+							[
+								-71.191421,
+								42.399542
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jul 26 20:11:45 +0000 2017",
+		"id": 890303648672223200,
+		"id_str": "890303648672223232",
+		"text": "RT @NLearning: The room is silent... as they make their thinking visible after watching disturbing bullying video clip #BLC17 @dkuropatwa h…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLC17",
+					"indices": [
+						119,
+						125
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NLearning",
+					"name": "November Learning",
+					"id": 12042382,
+					"id_str": "12042382",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "dkuropatwa",
+					"name": "Darren Kuropatwa",
+					"id": 5634392,
+					"id_str": "5634392",
+					"indices": [
+						126,
+						137
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5634392,
+			"id_str": "5634392",
+			"name": "Darren Kuropatwa",
+			"screen_name": "dkuropatwa",
+			"location": "Winnipeg, Manitoba, Canada",
+			"description": "Director of Learning at Hanover School Division \nAlways in beta ∞β \n(Tweets represent my own views.)",
+			"url": "http://t.co/FJEo2rqZf5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/FJEo2rqZf5",
+							"expanded_url": "http://adifference.blogspot.com",
+							"display_url": "adifference.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6919,
+			"friends_count": 2590,
+			"listed_count": 468,
+			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
+			"favourites_count": 381,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 24660,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/623182/ADifferenceBG.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/623182/ADifferenceBG.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "67CD67",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jul 26 19:19:57 +0000 2017",
+			"id": 890290611496132600,
+			"id_str": "890290611496132610",
+			"text": "The room is silent... as they make their thinking visible after watching disturbing bullying video clip #BLC17… https://t.co/JOVGzdfJAU",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "BLC17",
+						"indices": [
+							104,
+							110
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/JOVGzdfJAU",
+						"expanded_url": "https://twitter.com/i/web/status/890290611496132610",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							112,
+							135
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 12042382,
+				"id_str": "12042382",
+				"name": "November Learning",
+				"screen_name": "NLearning",
+				"location": "Marblehead, MA",
+				"description": "Led by @globalearner, we proudly hosts the Building Learning Communities Conference. Learn more about our consulting services, workshops, and rich resources.",
+				"url": "http://t.co/EHysMYCpR7",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/EHysMYCpR7",
+								"expanded_url": "http://www.novemberlearning.com",
+								"display_url": "novemberlearning.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 14935,
+				"friends_count": 697,
+				"listed_count": 505,
+				"created_at": "Wed Jan 09 20:17:16 +0000 2008",
+				"favourites_count": 159,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 6100,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "2A65B4",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/4083572/nlbkgd.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/4083572/nlbkgd.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/73380919/nlicon_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/73380919/nlicon_normal.jpg",
+				"profile_link_color": "2A65B4",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "EEEEEE",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jul 26 20:11:34 +0000 2017",
+		"id": 890303601742106600,
+		"id_str": "890303601742106625",
+		"text": "RT @NLearning: @dkuropatwa encourages participants in his session to make their thinking visible #visiblethinkingroutines #BlC17 https://t.…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "visiblethinkingroutines",
+					"indices": [
+						97,
+						121
+					]
+				},
+				{
+					"text": "BlC17",
+					"indices": [
+						122,
+						128
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NLearning",
+					"name": "November Learning",
+					"id": 12042382,
+					"id_str": "12042382",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "dkuropatwa",
+					"name": "Darren Kuropatwa",
+					"id": 5634392,
+					"id_str": "5634392",
+					"indices": [
+						15,
+						26
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5634392,
+			"id_str": "5634392",
+			"name": "Darren Kuropatwa",
+			"screen_name": "dkuropatwa",
+			"location": "Winnipeg, Manitoba, Canada",
+			"description": "Director of Learning at Hanover School Division \nAlways in beta ∞β \n(Tweets represent my own views.)",
+			"url": "http://t.co/FJEo2rqZf5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/FJEo2rqZf5",
+							"expanded_url": "http://adifference.blogspot.com",
+							"display_url": "adifference.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6919,
+			"friends_count": 2590,
+			"listed_count": 468,
+			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
+			"favourites_count": 381,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 24660,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/623182/ADifferenceBG.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/623182/ADifferenceBG.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "67CD67",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jul 26 19:03:47 +0000 2017",
+			"id": 890286544686383100,
+			"id_str": "890286544686383104",
+			"text": "@dkuropatwa encourages participants in his session to make their thinking visible #visiblethinkingroutines #BlC17 https://t.co/UcqYnEAHTw",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "visiblethinkingroutines",
+						"indices": [
+							82,
+							106
+						]
+					},
+					{
+						"text": "BlC17",
+						"indices": [
+							107,
+							113
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "dkuropatwa",
+						"name": "Darren Kuropatwa",
+						"id": 5634392,
+						"id_str": "5634392",
+						"indices": [
+							0,
+							11
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 890286515657613300,
+						"id_str": "890286515657613315",
+						"indices": [
+							114,
+							137
+						],
+						"media_url": "http://pbs.twimg.com/media/DFru3noXoAMSxJD.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DFru3noXoAMSxJD.jpg",
+						"url": "https://t.co/UcqYnEAHTw",
+						"display_url": "pic.twitter.com/UcqYnEAHTw",
+						"expanded_url": "https://twitter.com/NLearning/status/890286544686383104/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 600,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 890286515657613300,
+						"id_str": "890286515657613315",
+						"indices": [
+							114,
+							137
+						],
+						"media_url": "http://pbs.twimg.com/media/DFru3noXoAMSxJD.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DFru3noXoAMSxJD.jpg",
+						"url": "https://t.co/UcqYnEAHTw",
+						"display_url": "pic.twitter.com/UcqYnEAHTw",
+						"expanded_url": "https://twitter.com/NLearning/status/890286544686383104/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 600,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 5634392,
+			"in_reply_to_user_id_str": "5634392",
+			"in_reply_to_screen_name": "dkuropatwa",
+			"user": {
+				"id": 12042382,
+				"id_str": "12042382",
+				"name": "November Learning",
+				"screen_name": "NLearning",
+				"location": "Marblehead, MA",
+				"description": "Led by @globalearner, we proudly hosts the Building Learning Communities Conference. Learn more about our consulting services, workshops, and rich resources.",
+				"url": "http://t.co/EHysMYCpR7",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/EHysMYCpR7",
+								"expanded_url": "http://www.novemberlearning.com",
+								"display_url": "novemberlearning.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 14935,
+				"friends_count": 697,
+				"listed_count": 505,
+				"created_at": "Wed Jan 09 20:17:16 +0000 2008",
+				"favourites_count": 159,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 6100,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "2A65B4",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/4083572/nlbkgd.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/4083572/nlbkgd.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/73380919/nlicon_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/73380919/nlicon_normal.jpg",
+				"profile_link_color": "2A65B4",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "EEEEEE",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jul 26 20:11:02 +0000 2017",
+		"id": 890303469634146300,
+		"id_str": "890303469634146304",
+		"text": "RT @sewilkie: \"The best teachers often have teeth marks on their tongue!\" @alfiekohn #BLC17 #edchat https://t.co/9fjJi8RL5R",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLC17",
+					"indices": [
+						85,
+						91
+					]
+				},
+				{
+					"text": "edchat",
+					"indices": [
+						92,
+						99
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sewilkie",
+					"name": "sara wilkie",
+					"id": 244625496,
+					"id_str": "244625496",
+					"indices": [
+						3,
+						12
+					]
+				},
+				{
+					"screen_name": "alfiekohn",
+					"name": "Alfie Kohn",
+					"id": 48203749,
+					"id_str": "48203749",
+					"indices": [
+						74,
+						84
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 890284503196938200,
+					"id_str": "890284503196938241",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/DFrtCeoWsAE1rRb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DFrtCeoWsAE1rRb.jpg",
+					"url": "https://t.co/9fjJi8RL5R",
+					"display_url": "pic.twitter.com/9fjJi8RL5R",
+					"expanded_url": "https://twitter.com/sewilkie/status/890284514257362944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 520,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 918,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1566,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 890284514257363000,
+					"source_status_id_str": "890284514257362944",
+					"source_user_id": 244625496,
+					"source_user_id_str": "244625496"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 890284503196938200,
+					"id_str": "890284503196938241",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/DFrtCeoWsAE1rRb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DFrtCeoWsAE1rRb.jpg",
+					"url": "https://t.co/9fjJi8RL5R",
+					"display_url": "pic.twitter.com/9fjJi8RL5R",
+					"expanded_url": "https://twitter.com/sewilkie/status/890284514257362944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 520,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 918,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1566,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 890284514257363000,
+					"source_status_id_str": "890284514257362944",
+					"source_user_id": 244625496,
+					"source_user_id_str": "244625496"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5634392,
+			"id_str": "5634392",
+			"name": "Darren Kuropatwa",
+			"screen_name": "dkuropatwa",
+			"location": "Winnipeg, Manitoba, Canada",
+			"description": "Director of Learning at Hanover School Division \nAlways in beta ∞β \n(Tweets represent my own views.)",
+			"url": "http://t.co/FJEo2rqZf5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/FJEo2rqZf5",
+							"expanded_url": "http://adifference.blogspot.com",
+							"display_url": "adifference.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6919,
+			"friends_count": 2590,
+			"listed_count": 468,
+			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
+			"favourites_count": 381,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 24660,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/623182/ADifferenceBG.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/623182/ADifferenceBG.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "67CD67",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jul 26 18:55:43 +0000 2017",
+			"id": 890284514257363000,
+			"id_str": "890284514257362944",
+			"text": "\"The best teachers often have teeth marks on their tongue!\" @alfiekohn #BLC17 #edchat https://t.co/9fjJi8RL5R",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "BLC17",
+						"indices": [
+							71,
+							77
+						]
+					},
+					{
+						"text": "edchat",
+						"indices": [
+							78,
+							85
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "alfiekohn",
+						"name": "Alfie Kohn",
+						"id": 48203749,
+						"id_str": "48203749",
+						"indices": [
+							60,
+							70
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 890284503196938200,
+						"id_str": "890284503196938241",
+						"indices": [
+							86,
+							109
+						],
+						"media_url": "http://pbs.twimg.com/media/DFrtCeoWsAE1rRb.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DFrtCeoWsAE1rRb.jpg",
+						"url": "https://t.co/9fjJi8RL5R",
+						"display_url": "pic.twitter.com/9fjJi8RL5R",
+						"expanded_url": "https://twitter.com/sewilkie/status/890284514257362944/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 520,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 918,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1566,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 890284503196938200,
+						"id_str": "890284503196938241",
+						"indices": [
+							86,
+							109
+						],
+						"media_url": "http://pbs.twimg.com/media/DFrtCeoWsAE1rRb.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DFrtCeoWsAE1rRb.jpg",
+						"url": "https://t.co/9fjJi8RL5R",
+						"display_url": "pic.twitter.com/9fjJi8RL5R",
+						"expanded_url": "https://twitter.com/sewilkie/status/890284514257362944/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 520,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 918,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1566,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 244625496,
+				"id_str": "244625496",
+				"name": "sara wilkie",
+				"screen_name": "sewilkie",
+				"location": "Beverly Hills, MI ",
+				"description": "Head of Learning Design, November Learning Learner, Teacher, Disruptor...of a most amazing learning team https://t.co/lOU096r3mQ header via slackpics",
+				"url": "https://t.co/27T1QlEtPX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/27T1QlEtPX",
+								"expanded_url": "http://balancedtech.wikispaces.com",
+								"display_url": "balancedtech.wikispaces.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/lOU096r3mQ",
+								"expanded_url": "http://BalancEdTech.wikispaces.com",
+								"display_url": "BalancEdTech.wikispaces.com",
+								"indices": [
+									105,
+									128
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2174,
+				"friends_count": 736,
+				"listed_count": 134,
+				"created_at": "Sat Jan 29 19:04:54 +0000 2011",
+				"favourites_count": 1642,
+				"utc_offset": -18000,
+				"time_zone": "Quito",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 7048,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "352726",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1230905137/Sewface_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1230905137/Sewface_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/244625496/1356620067",
+				"profile_link_color": "D02B55",
+				"profile_sidebar_border_color": "829D5E",
+				"profile_sidebar_fill_color": "99CC33",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jul 26 20:10:41 +0000 2017",
+		"id": 890303378823184400,
+		"id_str": "890303378823184385",
+		"text": "@MollyMeck Thanks Molly, kind of you to say. 🙂",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MollyMeck",
+					"name": "Molly Meck",
+					"id": 757792050,
+					"id_str": "757792050",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 890280511364616200,
+		"in_reply_to_status_id_str": "890280511364616193",
+		"in_reply_to_user_id": 757792050,
+		"in_reply_to_user_id_str": "757792050",
+		"in_reply_to_screen_name": "MollyMeck",
+		"user": {
+			"id": 5634392,
+			"id_str": "5634392",
+			"name": "Darren Kuropatwa",
+			"screen_name": "dkuropatwa",
+			"location": "Winnipeg, Manitoba, Canada",
+			"description": "Director of Learning at Hanover School Division \nAlways in beta ∞β \n(Tweets represent my own views.)",
+			"url": "http://t.co/FJEo2rqZf5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/FJEo2rqZf5",
+							"expanded_url": "http://adifference.blogspot.com",
+							"display_url": "adifference.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6919,
+			"friends_count": 2590,
+			"listed_count": 468,
+			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
+			"favourites_count": 381,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 24660,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/623182/ADifferenceBG.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/623182/ADifferenceBG.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "67CD67",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jul 26 20:10:05 +0000 2017",
+		"id": 890303229665448000,
+		"id_str": "890303229665447941",
+		"text": "@TrishaWickwire Thanks Trisha! Glad you were there. :-)",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TrishaWickwire",
+					"name": "Trisha Wickwire",
+					"id": 2155014986,
+					"id_str": "2155014986",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 890279214976467000,
+		"in_reply_to_status_id_str": "890279214976466945",
+		"in_reply_to_user_id": 2155014986,
+		"in_reply_to_user_id_str": "2155014986",
+		"in_reply_to_screen_name": "TrishaWickwire",
+		"user": {
+			"id": 5634392,
+			"id_str": "5634392",
+			"name": "Darren Kuropatwa",
+			"screen_name": "dkuropatwa",
+			"location": "Winnipeg, Manitoba, Canada",
+			"description": "Director of Learning at Hanover School Division \nAlways in beta ∞β \n(Tweets represent my own views.)",
+			"url": "http://t.co/FJEo2rqZf5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/FJEo2rqZf5",
+							"expanded_url": "http://adifference.blogspot.com",
+							"display_url": "adifference.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6919,
+			"friends_count": 2590,
+			"listed_count": 468,
+			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
+			"favourites_count": 381,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 24660,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/623182/ADifferenceBG.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/623182/ADifferenceBG.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "67CD67",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Jul 26 16:45:57 +0000 2017",
 		"id": 890251856743731200,
 		"id_str": "890251856743731202",
