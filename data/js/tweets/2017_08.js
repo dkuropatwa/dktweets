@@ -1,6 +1,432 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Thu Aug 17 22:00:48 +0000 2017",
+		"id": 898303626149605400,
+		"id_str": "898303626149605376",
+		"text": "RT @sewilkie: How often &amp; how closely are we listening to our Ss? \"The way you tell us things makes us think. I think that's what school sh…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sewilkie",
+					"name": "sara wilkie",
+					"id": 244625496,
+					"id_str": "244625496",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5634392,
+			"id_str": "5634392",
+			"name": "Darren Kuropatwa",
+			"screen_name": "dkuropatwa",
+			"location": "Winnipeg, Manitoba, Canada",
+			"description": "Director of Learning at Hanover School Division \nAlways in beta ∞β \n(Tweets represent my own views.)",
+			"url": "http://t.co/FJEo2rqZf5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/FJEo2rqZf5",
+							"expanded_url": "http://adifference.blogspot.com",
+							"display_url": "adifference.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6949,
+			"friends_count": 2596,
+			"listed_count": 466,
+			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
+			"favourites_count": 381,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 24729,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/623182/ADifferenceBG.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/623182/ADifferenceBG.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "67CD67",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Aug 17 18:59:51 +0000 2017",
+			"id": 898258085470511100,
+			"id_str": "898258085470511104",
+			"text": "How often &amp; how closely are we listening to our Ss? \"The way you tell us things makes us think. I think that's what… https://t.co/OUVRqvtk42",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/OUVRqvtk42",
+						"expanded_url": "https://twitter.com/i/web/status/898258085470511104",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							121,
+							144
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 244625496,
+				"id_str": "244625496",
+				"name": "sara wilkie",
+				"screen_name": "sewilkie",
+				"location": "Beverly Hills, MI ",
+				"description": "Head of Learning Design, November Learning Learner, Teacher, Disruptor...of a most amazing learning team https://t.co/lOU096r3mQ header via slackpics",
+				"url": "https://t.co/27T1QlEtPX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/27T1QlEtPX",
+								"expanded_url": "http://balancedtech.wikispaces.com",
+								"display_url": "balancedtech.wikispaces.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/lOU096r3mQ",
+								"expanded_url": "http://BalancEdTech.wikispaces.com",
+								"display_url": "BalancEdTech.wikispaces.com",
+								"indices": [
+									105,
+									128
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2208,
+				"friends_count": 739,
+				"listed_count": 134,
+				"created_at": "Sat Jan 29 19:04:54 +0000 2011",
+				"favourites_count": 1768,
+				"utc_offset": -18000,
+				"time_zone": "Quito",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 7161,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "352726",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1230905137/Sewface_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1230905137/Sewface_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/244625496/1356620067",
+				"profile_link_color": "D02B55",
+				"profile_sidebar_border_color": "829D5E",
+				"profile_sidebar_fill_color": "99CC33",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "3d8f3aedb07d9ef7",
+				"url": "https://api.twitter.com/1.1/geo/id/3d8f3aedb07d9ef7.json",
+				"place_type": "city",
+				"name": "Beverly Hills",
+				"full_name": "Beverly Hills, MI",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-83.274708,
+								42.50851
+							],
+							[
+								-83.203754,
+								42.50851
+							],
+							[
+								-83.203754,
+								42.531894
+							],
+							[
+								-83.274708,
+								42.531894
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 898251822971981800,
+			"quoted_status_id_str": "898251822971981824",
+			"quoted_status": {
+				"created_at": "Thu Aug 17 18:34:57 +0000 2017",
+				"id": 898251822971981800,
+				"id_str": "898251822971981824",
+				"text": "Ok this one is awesome as well.  I am going to hold off after this one and do a post. Not bad for #1st5days https://t.co/jdhaTBpNio",
+				"truncated": false,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "1st5days",
+							"indices": [
+								98,
+								107
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [],
+					"media": [
+						{
+							"id": 898251808778448900,
+							"id_str": "898251808778448900",
+							"indices": [
+								108,
+								131
+							],
+							"media_url": "http://pbs.twimg.com/media/DHc7Qs0XcAQF5HM.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DHc7Qs0XcAQF5HM.jpg",
+							"url": "https://t.co/jdhaTBpNio",
+							"display_url": "pic.twitter.com/jdhaTBpNio",
+							"expanded_url": "https://twitter.com/GarthHolman/status/898251822971981824/photo/1",
+							"type": "photo",
+							"sizes": {
+								"small": {
+									"w": 645,
+									"h": 680,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"medium": {
+									"w": 1138,
+									"h": 1200,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 1942,
+									"h": 2048,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 898251808778448900,
+							"id_str": "898251808778448900",
+							"indices": [
+								108,
+								131
+							],
+							"media_url": "http://pbs.twimg.com/media/DHc7Qs0XcAQF5HM.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DHc7Qs0XcAQF5HM.jpg",
+							"url": "https://t.co/jdhaTBpNio",
+							"display_url": "pic.twitter.com/jdhaTBpNio",
+							"expanded_url": "https://twitter.com/GarthHolman/status/898251822971981824/photo/1",
+							"type": "photo",
+							"sizes": {
+								"small": {
+									"w": 645,
+									"h": 680,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"medium": {
+									"w": 1138,
+									"h": 1200,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 1942,
+									"h": 2048,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 141706548,
+					"id_str": "141706548",
+					"name": "Garth Holman",
+					"screen_name": "GarthHolman",
+					"location": "Northeast Ohio",
+					"description": "MS world history T, speaker & consultant. Working to INSPIRE, not motivate students. Making Positive Digital Footprints Worth Following. What is your Legacy?",
+					"url": "https://t.co/UmapY7ISdq",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/UmapY7ISdq",
+									"expanded_url": "http://www.teachersfortomorrow.net",
+									"display_url": "teachersfortomorrow.net",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 1824,
+					"friends_count": 610,
+					"listed_count": 152,
+					"created_at": "Sat May 08 20:15:59 +0000 2010",
+					"favourites_count": 830,
+					"utc_offset": -14400,
+					"time_zone": "Eastern Time (US & Canada)",
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 9103,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C6E2EE",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/764144273721876484/yn8E_CXs_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/764144273721876484/yn8E_CXs_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/141706548/1360269438",
+					"profile_link_color": "1F98C7",
+					"profile_sidebar_border_color": "C6E2EE",
+					"profile_sidebar_fill_color": "DAECF4",
+					"profile_text_color": "663B12",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 1,
+				"favorite_count": 12,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 898251822971981800,
+		"quoted_status_id_str": "898251822971981824",
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Aug 15 22:15:33 +0000 2017",
 		"id": 897582559936340000,
 		"id_str": "897582559936339968",
