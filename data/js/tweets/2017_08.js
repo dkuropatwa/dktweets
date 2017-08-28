@@ -1,6 +1,147 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Mon Aug 28 16:53:08 +0000 2017",
+		"id": 902212463839637500,
+		"id_str": "902212463839637507",
+		"text": "@pasi_sahlberg @GeriRobson @philmcrae @HargreavesBC I always wonder about these sort of studies. Couldn't the same… https://t.co/PnoiF994P0",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pasi_sahlberg",
+					"name": "Pasi Sahlberg",
+					"id": 224027358,
+					"id_str": "224027358",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "GeriRobson",
+					"name": "Geri Robson",
+					"id": 2849090268,
+					"id_str": "2849090268",
+					"indices": [
+						15,
+						26
+					]
+				},
+				{
+					"screen_name": "philmcrae",
+					"name": "Pнıʟ McRαε 🇨🇦",
+					"id": 50123331,
+					"id_str": "50123331",
+					"indices": [
+						27,
+						37
+					]
+				},
+				{
+					"screen_name": "HargreavesBC",
+					"name": "Andy Hargreaves",
+					"id": 983562338,
+					"id_str": "983562338",
+					"indices": [
+						38,
+						51
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/PnoiF994P0",
+					"expanded_url": "https://twitter.com/i/web/status/902212463839637507",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 901535045462241300,
+		"in_reply_to_status_id_str": "901535045462241288",
+		"in_reply_to_user_id": 224027358,
+		"in_reply_to_user_id_str": "224027358",
+		"in_reply_to_screen_name": "pasi_sahlberg",
+		"user": {
+			"id": 5634392,
+			"id_str": "5634392",
+			"name": "Darren Kuropatwa",
+			"screen_name": "dkuropatwa",
+			"location": "Winnipeg, Manitoba, Canada",
+			"description": "Director of Learning at Hanover School Division \nAlways in beta ∞β \n(Tweets represent my own views.)",
+			"url": "http://t.co/FJEo2rqZf5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/FJEo2rqZf5",
+							"expanded_url": "http://adifference.blogspot.com",
+							"display_url": "adifference.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6952,
+			"friends_count": 2597,
+			"listed_count": 467,
+			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
+			"favourites_count": 381,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 24730,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/623182/ADifferenceBG.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/623182/ADifferenceBG.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "67CD67",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Aug 17 22:00:48 +0000 2017",
 		"id": 898303626149605400,
 		"id_str": "898303626149605376",
