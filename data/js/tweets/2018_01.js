@@ -1,6 +1,239 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Sun Jan 21 15:24:11 +0000 2018",
+		"id": 955098706658975700,
+		"id_str": "955098706658975744",
+		"text": "RT @OpalSchool: Our parent organization has a new vision and mission!\nhttps://t.co/15wi4PRDHo\n@PortlandCM",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OpalSchool",
+					"name": "Opal School",
+					"id": 482588258,
+					"id_str": "482588258",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "PortlandCM",
+					"name": "PDXChildren'sMuseum",
+					"id": 31188001,
+					"id_str": "31188001",
+					"indices": [
+						94,
+						105
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/15wi4PRDHo",
+					"expanded_url": "https://opalschool.org/a-new-vision-and-mission-for-portland-childrens-museum/",
+					"display_url": "opalschool.org/a-new-vision-a…",
+					"indices": [
+						70,
+						93
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5634392,
+			"id_str": "5634392",
+			"name": "Darren Kuropatwa",
+			"screen_name": "dkuropatwa",
+			"location": "Winnipeg, Manitoba, Canada",
+			"description": "Director of Learning at Hanover School Division \nAlways in beta ∞β \n(Tweets represent my own views.)",
+			"url": "http://t.co/FJEo2rqZf5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/FJEo2rqZf5",
+							"expanded_url": "http://adifference.blogspot.com",
+							"display_url": "adifference.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6934,
+			"friends_count": 2608,
+			"listed_count": 464,
+			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
+			"favourites_count": 388,
+			"utc_offset": -21600,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 24742,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/623182/ADifferenceBG.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/623182/ADifferenceBG.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "67CD67",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jan 19 22:32:18 +0000 2018",
+			"id": 954481670605779000,
+			"id_str": "954481670605778944",
+			"text": "Our parent organization has a new vision and mission!\nhttps://t.co/15wi4PRDHo\n@PortlandCM",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "PortlandCM",
+						"name": "PDXChildren'sMuseum",
+						"id": 31188001,
+						"id_str": "31188001",
+						"indices": [
+							78,
+							89
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/15wi4PRDHo",
+						"expanded_url": "https://opalschool.org/a-new-vision-and-mission-for-portland-childrens-museum/",
+						"display_url": "opalschool.org/a-new-vision-a…",
+						"indices": [
+							54,
+							77
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 482588258,
+				"id_str": "482588258",
+				"name": "Opal School",
+				"screen_name": "OpalSchool",
+				"location": "Portland, OR",
+				"description": "Opal School of Portland Children's Museum is Opal Beginning School (ages 3-5) and Opal Charter School (kindergarten through grade 5.) \nWe also tweet at @tcfcl.",
+				"url": "https://t.co/vJEPnsCk5E",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/vJEPnsCk5E",
+								"expanded_url": "http://opalschool.org",
+								"display_url": "opalschool.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 321,
+				"friends_count": 23,
+				"listed_count": 4,
+				"created_at": "Sat Feb 04 02:53:17 +0000 2012",
+				"favourites_count": 50,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 134,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/902989886054993920/Ssx2ozYy_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/902989886054993920/Ssx2ozYy_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Jan 19 18:23:21 +0000 2018",
 		"id": 954419020085825500,
 		"id_str": "954419020085825536",
