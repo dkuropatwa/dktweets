@@ -1,6 +1,187 @@
 Grailbird.data.tweets_2018_07 = 
 [
 	{
+		"created_at": "Sat Jul 28 12:50:45 +0000 2018",
+		"id": 1023189012884987900,
+		"id_str": "1023189012884987904",
+		"text": "@ProfessorMike1 @flipyrthinking @MindWise_CK @rlfreedm @tsocko @BrianJMull @lainierowell @NLearning @VersoApp Welcome home buddy.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ProfessorMike1",
+					"name": "Mike Pennington",
+					"id": 159118089,
+					"id_str": "159118089",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "flipyrthinking",
+					"name": "Phil Stubbs",
+					"id": 1523577542,
+					"id_str": "1523577542",
+					"indices": [
+						16,
+						31
+					]
+				},
+				{
+					"screen_name": "MindWise_CK",
+					"name": "Caitlin E. Krause",
+					"id": 23375706,
+					"id_str": "23375706",
+					"indices": [
+						32,
+						44
+					]
+				},
+				{
+					"screen_name": "rlfreedm",
+					"name": "Rayna Freedman",
+					"id": 2364667867,
+					"id_str": "2364667867",
+					"indices": [
+						45,
+						54
+					]
+				},
+				{
+					"screen_name": "tsocko",
+					"name": "Tracy Sockalosky",
+					"id": 25666964,
+					"id_str": "25666964",
+					"indices": [
+						55,
+						62
+					]
+				},
+				{
+					"screen_name": "BrianJMull",
+					"name": "Brian Mull",
+					"id": 5667012,
+					"id_str": "5667012",
+					"indices": [
+						63,
+						74
+					]
+				},
+				{
+					"screen_name": "lainierowell",
+					"name": "Lainie Rowell",
+					"id": 8211532,
+					"id_str": "8211532",
+					"indices": [
+						75,
+						88
+					]
+				},
+				{
+					"screen_name": "NLearning",
+					"name": "November Learning",
+					"id": 12042382,
+					"id_str": "12042382",
+					"indices": [
+						89,
+						99
+					]
+				},
+				{
+					"screen_name": "VersoApp",
+					"name": "Verso Learning",
+					"id": 1486539643,
+					"id_str": "1486539643",
+					"indices": [
+						100,
+						109
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1023068111208173600,
+		"in_reply_to_status_id_str": "1023068111208173568",
+		"in_reply_to_user_id": 159118089,
+		"in_reply_to_user_id_str": "159118089",
+		"in_reply_to_screen_name": "ProfessorMike1",
+		"user": {
+			"id": 5634392,
+			"id_str": "5634392",
+			"name": "Darren Kuropatwa",
+			"screen_name": "dkuropatwa",
+			"location": "Winnipeg, Manitoba, Canada",
+			"description": "Educator. Always in beta ∞β.",
+			"url": "https://t.co/FJEo2rIADF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FJEo2rIADF",
+							"expanded_url": "http://adifference.blogspot.com",
+							"display_url": "adifference.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6815,
+			"friends_count": 2635,
+			"listed_count": 463,
+			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
+			"favourites_count": 399,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 24832,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "67CD67",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Jul 28 04:14:40 +0000 2018",
 		"id": 1023059138165858300,
 		"id_str": "1023059138165858304",
