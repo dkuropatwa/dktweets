@@ -1,6 +1,117 @@
 Grailbird.data.tweets_2018_07 = 
 [
 	{
+		"created_at": "Sat Jul 28 00:17:04 +0000 2018",
+		"id": 1022999341299056600,
+		"id_str": "1022999341299056640",
+		"text": "@tsocko @NLearning Looking forward to it!",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tsocko",
+					"name": "Tracy Sockalosky",
+					"id": 25666964,
+					"id_str": "25666964",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "NLearning",
+					"name": "November Learning",
+					"id": 12042382,
+					"id_str": "12042382",
+					"indices": [
+						8,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1022954063984570400,
+		"in_reply_to_status_id_str": "1022954063984570368",
+		"in_reply_to_user_id": 25666964,
+		"in_reply_to_user_id_str": "25666964",
+		"in_reply_to_screen_name": "tsocko",
+		"user": {
+			"id": 5634392,
+			"id_str": "5634392",
+			"name": "Darren Kuropatwa",
+			"screen_name": "dkuropatwa",
+			"location": "Winnipeg, Manitoba, Canada",
+			"description": "Educator. Always in beta ∞β.",
+			"url": "https://t.co/FJEo2rIADF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FJEo2rIADF",
+							"expanded_url": "http://adifference.blogspot.com",
+							"display_url": "adifference.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6811,
+			"friends_count": 2635,
+			"listed_count": 463,
+			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
+			"favourites_count": 399,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 24828,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "67CD67",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Jul 27 19:34:34 +0000 2018",
 		"id": 1022928251285581800,
 		"id_str": "1022928251285581826",
