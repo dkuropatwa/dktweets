@@ -1,6 +1,313 @@
 Grailbird.data.tweets_2018_07 = 
 [
 	{
+		"created_at": "Sun Jul 29 11:55:39 +0000 2018",
+		"id": 1023537535216177200,
+		"id_str": "1023537535216177152",
+		"text": "RT @MindWise_CK: \"The soul never thinks without an image.\" - Aristotle #ArtOfNoticing #BLC18 #creativity #mindfulness #mindfulmoment #amome…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ArtOfNoticing",
+					"indices": [
+						71,
+						85
+					]
+				},
+				{
+					"text": "BLC18",
+					"indices": [
+						86,
+						92
+					]
+				},
+				{
+					"text": "creativity",
+					"indices": [
+						93,
+						104
+					]
+				},
+				{
+					"text": "mindfulness",
+					"indices": [
+						105,
+						117
+					]
+				},
+				{
+					"text": "mindfulmoment",
+					"indices": [
+						118,
+						132
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MindWise_CK",
+					"name": "Caitlin E. Krause",
+					"id": 23375706,
+					"id_str": "23375706",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5634392,
+			"id_str": "5634392",
+			"name": "Darren Kuropatwa",
+			"screen_name": "dkuropatwa",
+			"location": "Winnipeg, Manitoba, Canada",
+			"description": "Educator. Always in beta ∞β.",
+			"url": "https://t.co/FJEo2rIADF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FJEo2rIADF",
+							"expanded_url": "http://adifference.blogspot.com",
+							"display_url": "adifference.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6815,
+			"friends_count": 2636,
+			"listed_count": 463,
+			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
+			"favourites_count": 400,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 24833,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "67CD67",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Jul 28 22:54:45 +0000 2018",
+			"id": 1023341017469251600,
+			"id_str": "1023341017469251584",
+			"text": "\"The soul never thinks without an image.\" - Aristotle #ArtOfNoticing #BLC18 #creativity #mindfulness #mindfulmoment… https://t.co/QVEKWwgIU1",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ArtOfNoticing",
+						"indices": [
+							54,
+							68
+						]
+					},
+					{
+						"text": "BLC18",
+						"indices": [
+							69,
+							75
+						]
+					},
+					{
+						"text": "creativity",
+						"indices": [
+							76,
+							87
+						]
+					},
+					{
+						"text": "mindfulness",
+						"indices": [
+							88,
+							100
+						]
+					},
+					{
+						"text": "mindfulmoment",
+						"indices": [
+							101,
+							115
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/QVEKWwgIU1",
+						"expanded_url": "https://twitter.com/i/web/status/1023341017469251584",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 23375706,
+				"id_str": "23375706",
+				"name": "Caitlin E. Krause",
+				"screen_name": "MindWise_CK",
+				"location": "Zürich 🇨🇭 & Boston 🇺🇸",
+				"description": "immersive story. design. mindfulness. #MindWise creative leadership design VR AR AI empathic edtech globalized #curiouscollab #robotmeetshuman #mindfulbydesign",
+				"url": "https://t.co/tgbNzs72s1",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/tgbNzs72s1",
+								"expanded_url": "http://www.mindwise.pro",
+								"display_url": "mindwise.pro",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2850,
+				"friends_count": 3058,
+				"listed_count": 337,
+				"created_at": "Mon Mar 09 00:16:54 +0000 2009",
+				"favourites_count": 7318,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 8530,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "020812",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/939653405932380160/mq9pKtKq_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/939653405932380160/mq9pKtKq_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/23375706/1512866473",
+				"profile_link_color": "0020C2",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "020812",
+				"profile_text_color": "17406C",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "07d9c92916c84002",
+				"url": "https://api.twitter.com/1.1/geo/id/07d9c92916c84002.json",
+				"place_type": "poi",
+				"name": "Boston Public Garden",
+				"full_name": "Boston Public Garden",
+				"country_code": "",
+				"country": "",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-71.06991291046143,
+								42.35411597423369
+							],
+							[
+								-71.06991291046143,
+								42.35411597423369
+							],
+							[
+								-71.06991291046143,
+								42.35411597423369
+							],
+							[
+								-71.06991291046143,
+								42.35411597423369
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 14,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Jul 28 12:50:45 +0000 2018",
 		"id": 1023189012884987900,
 		"id_str": "1023189012884987904",
