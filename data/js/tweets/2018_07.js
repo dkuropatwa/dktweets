@@ -1,6 +1,223 @@
 Grailbird.data.tweets_2018_07 = 
 [
 	{
+		"created_at": "Mon Jul 30 21:59:03 +0000 2018",
+		"id": 1024051771826688000,
+		"id_str": "1024051771826688000",
+		"text": "RT @NLearning: Reflections &amp; Nuggets of Wisdom from #BLC18 “I used to think that my lessons were made up of activities which helped deliver…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLC18",
+					"indices": [
+						56,
+						62
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NLearning",
+					"name": "November Learning",
+					"id": 12042382,
+					"id_str": "12042382",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5634392,
+			"id_str": "5634392",
+			"name": "Darren Kuropatwa",
+			"screen_name": "dkuropatwa",
+			"location": "Winnipeg, Manitoba, Canada",
+			"description": "Educator. Always in beta ∞β.",
+			"url": "https://t.co/FJEo2rIADF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FJEo2rIADF",
+							"expanded_url": "http://adifference.blogspot.com",
+							"display_url": "adifference.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6820,
+			"friends_count": 2643,
+			"listed_count": 463,
+			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
+			"favourites_count": 401,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 24850,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "67CD67",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jul 30 18:55:09 +0000 2018",
+			"id": 1024005493864517600,
+			"id_str": "1024005493864517632",
+			"text": "Reflections &amp; Nuggets of Wisdom from #BLC18 “I used to think that my lessons were made up of activities which helpe… https://t.co/nnv41CyIJ5",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "BLC18",
+						"indices": [
+							41,
+							47
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/nnv41CyIJ5",
+						"expanded_url": "https://twitter.com/i/web/status/1024005493864517632",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							121,
+							144
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 12042382,
+				"id_str": "12042382",
+				"name": "November Learning",
+				"screen_name": "NLearning",
+				"location": "Marblehead, MA",
+				"description": "Led by @globalearner, we proudly hosts the Building Learning Communities Conference. Learn more about our consulting services, workshops, and rich resources.",
+				"url": "https://t.co/JuJJcEE3uN",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/JuJJcEE3uN",
+								"expanded_url": "http://www.novemberlearning.com",
+								"display_url": "novemberlearning.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 15414,
+				"friends_count": 575,
+				"listed_count": 506,
+				"created_at": "Wed Jan 09 20:17:16 +0000 2008",
+				"favourites_count": 218,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 8114,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "2A65B4",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/73380919/nlicon_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/73380919/nlicon_normal.jpg",
+				"profile_link_color": "2A65B4",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "EEEEEE",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Jul 30 16:14:10 +0000 2018",
 		"id": 1023964982986371100,
 		"id_str": "1023964982986371072",
