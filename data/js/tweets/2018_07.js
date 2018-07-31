@@ -1,6 +1,238 @@
 Grailbird.data.tweets_2018_07 = 
 [
 	{
+		"created_at": "Tue Jul 31 16:30:14 +0000 2018",
+		"id": 1024331412336533500,
+		"id_str": "1024331412336533506",
+		"text": "Welcome to Twitter Gev! https://t.co/WImlUx7TyM",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WImlUx7TyM",
+					"expanded_url": "https://twitter.com/sewilkie/status/1024327973514735616",
+					"display_url": "twitter.com/sewilkie/statu…",
+					"indices": [
+						24,
+						47
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5634392,
+			"id_str": "5634392",
+			"name": "Darren Kuropatwa",
+			"screen_name": "dkuropatwa",
+			"location": "Winnipeg, Manitoba, Canada",
+			"description": "Educator. Always in beta ∞β.",
+			"url": "https://t.co/FJEo2rIADF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FJEo2rIADF",
+							"expanded_url": "http://adifference.blogspot.com",
+							"display_url": "adifference.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6821,
+			"friends_count": 2645,
+			"listed_count": 463,
+			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
+			"favourites_count": 401,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 24857,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "67CD67",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1024327973514735600,
+		"quoted_status_id_str": "1024327973514735616",
+		"quoted_status": {
+			"created_at": "Tue Jul 31 16:16:34 +0000 2018",
+			"id": 1024327973514735600,
+			"id_str": "1024327973514735616",
+			"text": "Please welcome @gevnoorlander to #twitter She's starting out a new year in a new school and I am hugely excited to… https://t.co/uVlHMwuGdF",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "twitter",
+						"indices": [
+							33,
+							41
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "GevNoorlander",
+						"name": "GevNoorlander",
+						"id": 1024326466178310100,
+						"id_str": "1024326466178310144",
+						"indices": [
+							15,
+							29
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/uVlHMwuGdF",
+						"expanded_url": "https://twitter.com/i/web/status/1024327973514735616",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 244625496,
+				"id_str": "244625496",
+				"name": "sara wilkie",
+				"screen_name": "sewilkie",
+				"location": "Beverly Hills, MI ",
+				"description": "Head of Learning Design, November Learning Learner, Teacher, Disruptor...of a most amazing learning team https://t.co/lOU096r3mQ header via slackpics",
+				"url": "https://t.co/27T1QlEtPX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/27T1QlEtPX",
+								"expanded_url": "http://balancedtech.wikispaces.com",
+								"display_url": "balancedtech.wikispaces.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/lOU096r3mQ",
+								"expanded_url": "http://BalancEdTech.wikispaces.com",
+								"display_url": "BalancEdTech.wikispaces.com",
+								"indices": [
+									105,
+									128
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2483,
+				"friends_count": 801,
+				"listed_count": 136,
+				"created_at": "Sat Jan 29 19:04:54 +0000 2011",
+				"favourites_count": 2624,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 7903,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "352726",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1230905137/Sewface_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1230905137/Sewface_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/244625496/1356620067",
+				"profile_link_color": "D02B55",
+				"profile_sidebar_border_color": "829D5E",
+				"profile_sidebar_fill_color": "99CC33",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Jul 31 15:49:37 +0000 2018",
 		"id": 1024321191656529900,
 		"id_str": "1024321191656529921",
