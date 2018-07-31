@@ -1,6 +1,512 @@
 Grailbird.data.tweets_2018_07 = 
 [
 	{
+		"created_at": "Tue Jul 31 00:28:50 +0000 2018",
+		"id": 1024089466372321300,
+		"id_str": "1024089466372321280",
+		"text": "@GottTechCoach @NLearning 👍🏼😀",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GottTechCoach",
+					"name": "Chris Gott",
+					"id": 1248092096,
+					"id_str": "1248092096",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "NLearning",
+					"name": "November Learning",
+					"id": 12042382,
+					"id_str": "12042382",
+					"indices": [
+						15,
+						25
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1024082735109992400,
+		"in_reply_to_status_id_str": "1024082735109992448",
+		"in_reply_to_user_id": 1248092096,
+		"in_reply_to_user_id_str": "1248092096",
+		"in_reply_to_screen_name": "GottTechCoach",
+		"user": {
+			"id": 5634392,
+			"id_str": "5634392",
+			"name": "Darren Kuropatwa",
+			"screen_name": "dkuropatwa",
+			"location": "Winnipeg, Manitoba, Canada",
+			"description": "Educator. Always in beta ∞β.",
+			"url": "https://t.co/FJEo2rIADF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FJEo2rIADF",
+							"expanded_url": "http://adifference.blogspot.com",
+							"display_url": "adifference.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6820,
+			"friends_count": 2643,
+			"listed_count": 463,
+			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
+			"favourites_count": 401,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 24853,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "67CD67",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Tue Jul 31 00:28:26 +0000 2018",
+		"id": 1024089367801933800,
+		"id_str": "1024089367801933824",
+		"text": "@buddyxo You were missed. Hope we get a chance to connect next year.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "buddyxo",
+					"name": "Stacey Roshan",
+					"id": 166238982,
+					"id_str": "166238982",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1024088598948274200,
+		"in_reply_to_status_id_str": "1024088598948274176",
+		"in_reply_to_user_id": 166238982,
+		"in_reply_to_user_id_str": "166238982",
+		"in_reply_to_screen_name": "buddyxo",
+		"user": {
+			"id": 5634392,
+			"id_str": "5634392",
+			"name": "Darren Kuropatwa",
+			"screen_name": "dkuropatwa",
+			"location": "Winnipeg, Manitoba, Canada",
+			"description": "Educator. Always in beta ∞β.",
+			"url": "https://t.co/FJEo2rIADF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FJEo2rIADF",
+							"expanded_url": "http://adifference.blogspot.com",
+							"display_url": "adifference.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6820,
+			"friends_count": 2643,
+			"listed_count": 463,
+			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
+			"favourites_count": 401,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 24853,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "67CD67",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Jul 31 00:26:16 +0000 2018",
+		"id": 1024088824157270000,
+		"id_str": "1024088824157270018",
+		"text": "The more the merrier. :-) https://t.co/n65s9ycKXy",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/n65s9ycKXy",
+					"expanded_url": "https://twitter.com/tsocko/status/1024055352835366912",
+					"display_url": "twitter.com/tsocko/status/…",
+					"indices": [
+						26,
+						49
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5634392,
+			"id_str": "5634392",
+			"name": "Darren Kuropatwa",
+			"screen_name": "dkuropatwa",
+			"location": "Winnipeg, Manitoba, Canada",
+			"description": "Educator. Always in beta ∞β.",
+			"url": "https://t.co/FJEo2rIADF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FJEo2rIADF",
+							"expanded_url": "http://adifference.blogspot.com",
+							"display_url": "adifference.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6820,
+			"friends_count": 2643,
+			"listed_count": 463,
+			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
+			"favourites_count": 401,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 24853,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "67CD67",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1024055352835366900,
+		"quoted_status_id_str": "1024055352835366912",
+		"quoted_status": {
+			"created_at": "Mon Jul 30 22:13:16 +0000 2018",
+			"id": 1024055352835366900,
+			"id_str": "1024055352835366912",
+			"text": "@paulbogush @dkuropatwa @JoyKirr @rlfreedm @lainierowell @SamMandeville @nbartley6 @Stefanowicz135 @cjgosselin All… https://t.co/gF7B8UGgou",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "paulbogush",
+						"name": "Paul Bogush",
+						"id": 6014812,
+						"id_str": "6014812",
+						"indices": [
+							0,
+							11
+						]
+					},
+					{
+						"screen_name": "dkuropatwa",
+						"name": "Darren Kuropatwa",
+						"id": 5634392,
+						"id_str": "5634392",
+						"indices": [
+							12,
+							23
+						]
+					},
+					{
+						"screen_name": "JoyKirr",
+						"name": "Joy Kirr",
+						"id": 344350209,
+						"id_str": "344350209",
+						"indices": [
+							24,
+							32
+						]
+					},
+					{
+						"screen_name": "rlfreedm",
+						"name": "Rayna Freedman",
+						"id": 2364667867,
+						"id_str": "2364667867",
+						"indices": [
+							33,
+							42
+						]
+					},
+					{
+						"screen_name": "lainierowell",
+						"name": "Lainie Rowell",
+						"id": 8211532,
+						"id_str": "8211532",
+						"indices": [
+							43,
+							56
+						]
+					},
+					{
+						"screen_name": "SamMandeville",
+						"name": "Sam Mandeville",
+						"id": 756167413637517300,
+						"id_str": "756167413637517312",
+						"indices": [
+							57,
+							71
+						]
+					},
+					{
+						"screen_name": "nbartley6",
+						"name": "Nili Bartley",
+						"id": 2648535199,
+						"id_str": "2648535199",
+						"indices": [
+							72,
+							82
+						]
+					},
+					{
+						"screen_name": "Stefanowicz135",
+						"name": "Jed Stefanowicz",
+						"id": 2479896679,
+						"id_str": "2479896679",
+						"indices": [
+							83,
+							98
+						]
+					},
+					{
+						"screen_name": "cjgosselin",
+						"name": "Chris Gosselin",
+						"id": 18493691,
+						"id_str": "18493691",
+						"indices": [
+							99,
+							110
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/gF7B8UGgou",
+						"expanded_url": "https://twitter.com/i/web/status/1024055352835366912",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1024028019650977800,
+			"in_reply_to_status_id_str": "1024028019650977793",
+			"in_reply_to_user_id": 6014812,
+			"in_reply_to_user_id_str": "6014812",
+			"in_reply_to_screen_name": "paulbogush",
+			"user": {
+				"id": 25666964,
+				"id_str": "25666964",
+				"name": "Tracy Sockalosky",
+				"screen_name": "tsocko",
+				"location": "Natick, MA",
+				"description": "7th Grade Social Studies teacher and mom of 3. Passionate about teaching and learning. Really wish I had my own talk show.",
+				"url": "https://t.co/jY9NZNTC41",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/jY9NZNTC41",
+								"expanded_url": "http://tsocko.blog",
+								"display_url": "tsocko.blog",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2664,
+				"friends_count": 1102,
+				"listed_count": 183,
+				"created_at": "Sat Mar 21 12:19:08 +0000 2009",
+				"favourites_count": 5954,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 13078,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FA9EBD",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/890732792262406144/XGi3xbAt_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/890732792262406144/XGi3xbAt_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/25666964/1503119286",
+				"profile_link_color": "F58EA8",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Jul 30 21:59:03 +0000 2018",
 		"id": 1024051771826688000,
 		"id_str": "1024051771826688000",
