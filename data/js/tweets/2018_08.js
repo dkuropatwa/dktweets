@@ -1,6 +1,236 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Mon Aug 06 13:27:02 +0000 2018",
+		"id": 1026459636323545100,
+		"id_str": "1026459636323545089",
+		"text": "#Reflection from #BLC18 One of the ways people’s thinking changed: “I used to think pedagogical techniques matter m… https://t.co/dXVL24DsfF",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Reflection",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"text": "BLC18",
+					"indices": [
+						17,
+						23
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dXVL24DsfF",
+					"expanded_url": "https://twitter.com/i/web/status/1026459636323545089",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1026459071375966200,
+		"in_reply_to_status_id_str": "1026459071375966208",
+		"in_reply_to_user_id": 5634392,
+		"in_reply_to_user_id_str": "5634392",
+		"in_reply_to_screen_name": "dkuropatwa",
+		"user": {
+			"id": 5634392,
+			"id_str": "5634392",
+			"name": "Darren Kuropatwa",
+			"screen_name": "dkuropatwa",
+			"location": "Winnipeg, Manitoba, Canada",
+			"description": "Educator. Always in beta ∞β.",
+			"url": "https://t.co/FJEo2rIADF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FJEo2rIADF",
+							"expanded_url": "http://adifference.blogspot.com",
+							"display_url": "adifference.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6823,
+			"friends_count": 2650,
+			"listed_count": 463,
+			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
+			"favourites_count": 403,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 24878,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "67CD67",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Aug 06 13:24:47 +0000 2018",
+		"id": 1026459071375966200,
+		"id_str": "1026459071375966208",
+		"text": "#Reflection from #BLC18 One of the ways people’s thinking changed: “I used to think hands off learning is a good ap… https://t.co/y3SNgyjq2j",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Reflection",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"text": "BLC18",
+					"indices": [
+						17,
+						23
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/y3SNgyjq2j",
+					"expanded_url": "https://twitter.com/i/web/status/1026459071375966208",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1026096701520654300,
+		"in_reply_to_status_id_str": "1026096701520654336",
+		"in_reply_to_user_id": 5634392,
+		"in_reply_to_user_id_str": "5634392",
+		"in_reply_to_screen_name": "dkuropatwa",
+		"user": {
+			"id": 5634392,
+			"id_str": "5634392",
+			"name": "Darren Kuropatwa",
+			"screen_name": "dkuropatwa",
+			"location": "Winnipeg, Manitoba, Canada",
+			"description": "Educator. Always in beta ∞β.",
+			"url": "https://t.co/FJEo2rIADF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FJEo2rIADF",
+							"expanded_url": "http://adifference.blogspot.com",
+							"display_url": "adifference.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6823,
+			"friends_count": 2650,
+			"listed_count": 463,
+			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
+			"favourites_count": 403,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 24878,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "67CD67",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Aug 05 14:59:41 +0000 2018",
 		"id": 1026120561938886700,
 		"id_str": "1026120561938886657",
