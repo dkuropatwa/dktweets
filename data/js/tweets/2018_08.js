@@ -1,6 +1,187 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Thu Aug 09 16:16:28 +0000 2018",
+		"id": 1027589436547244000,
+		"id_str": "1027589436547244032",
+		"text": "@sewilkie @MichaelFullan1 @PCCS_Official @trdale @MilwaukeeJDS @StAnnesBelfield @HalHeard3rd @MicheleSTABTRC… https://t.co/1JbYljp8fC",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sewilkie",
+					"name": "sara wilkie",
+					"id": 244625496,
+					"id_str": "244625496",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "MichaelFullan1",
+					"name": "Michael Fullan",
+					"id": 424277262,
+					"id_str": "424277262",
+					"indices": [
+						10,
+						25
+					]
+				},
+				{
+					"screen_name": "PCCS_Official",
+					"name": "P-CCS Official",
+					"id": 3233958894,
+					"id_str": "3233958894",
+					"indices": [
+						26,
+						40
+					]
+				},
+				{
+					"screen_name": "trdale",
+					"name": "Dale Truding",
+					"id": 165846413,
+					"id_str": "165846413",
+					"indices": [
+						41,
+						48
+					]
+				},
+				{
+					"screen_name": "MilwaukeeJDS",
+					"name": "MJDS",
+					"id": 339870777,
+					"id_str": "339870777",
+					"indices": [
+						49,
+						62
+					]
+				},
+				{
+					"screen_name": "StAnnesBelfield",
+					"name": "St. Anne's-Belfield",
+					"id": 146269222,
+					"id_str": "146269222",
+					"indices": [
+						63,
+						79
+					]
+				},
+				{
+					"screen_name": "HalHeard3rd",
+					"name": "Formerly Known as Principal Heard",
+					"id": 18320954,
+					"id_str": "18320954",
+					"indices": [
+						80,
+						92
+					]
+				},
+				{
+					"screen_name": "MicheleSTABTRC",
+					"name": "Michele Mathieson",
+					"id": 357712363,
+					"id_str": "357712363",
+					"indices": [
+						93,
+						108
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/1JbYljp8fC",
+					"expanded_url": "https://twitter.com/i/web/status/1027589436547244032",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						110,
+						133
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1027560242916339700,
+		"in_reply_to_status_id_str": "1027560242916339712",
+		"in_reply_to_user_id": 244625496,
+		"in_reply_to_user_id_str": "244625496",
+		"in_reply_to_screen_name": "sewilkie",
+		"user": {
+			"id": 5634392,
+			"id_str": "5634392",
+			"name": "Darren Kuropatwa",
+			"screen_name": "dkuropatwa",
+			"location": "Winnipeg, Manitoba, Canada",
+			"description": "Educator. Always in beta ∞β.",
+			"url": "https://t.co/FJEo2rIADF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FJEo2rIADF",
+							"expanded_url": "http://adifference.blogspot.com",
+							"display_url": "adifference.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6824,
+			"friends_count": 2649,
+			"listed_count": 463,
+			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
+			"favourites_count": 404,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 24889,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "67CD67",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Aug 09 14:00:46 +0000 2018",
 		"id": 1027555289401319400,
 		"id_str": "1027555289401319425",
