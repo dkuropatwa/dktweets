@@ -1,6 +1,222 @@
 Grailbird.data.tweets_2018_09 = 
 [
 	{
+		"created_at": "Fri Sep 14 11:08:39 +0000 2018",
+		"id": 1040557938547609600,
+		"id_str": "1040557938547609600",
+		"text": "\"memorization of math facts through times table repetition, practice and timed testing is unnecessary and damaging.\" https://t.co/K2XcRXdaeC",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/K2XcRXdaeC",
+					"expanded_url": "https://twitter.com/joboaler/status/1039873119844888577",
+					"display_url": "twitter.com/joboaler/statu…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5634392,
+			"id_str": "5634392",
+			"name": "Darren Kuropatwa",
+			"screen_name": "dkuropatwa",
+			"location": "Winnipeg, Manitoba, Canada",
+			"description": "Educator. Always in beta ∞β.",
+			"url": "https://t.co/FJEo2rIADF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FJEo2rIADF",
+							"expanded_url": "http://adifference.blogspot.com",
+							"display_url": "adifference.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6823,
+			"friends_count": 2701,
+			"listed_count": 462,
+			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
+			"favourites_count": 421,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 24912,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "67CD67",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1039873119844888600,
+		"quoted_status_id_str": "1039873119844888577",
+		"quoted_status": {
+			"created_at": "Wed Sep 12 13:47:26 +0000 2018",
+			"id": 1039873119844888600,
+			"id_str": "1039873119844888577",
+			"text": "Perfect - and maybe help silence the people who say I don't think multiplication facts are important. We actually g… https://t.co/0kXrchxLKc",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/0kXrchxLKc",
+						"expanded_url": "https://twitter.com/i/web/status/1039873119844888577",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 179334563,
+				"id_str": "179334563",
+				"name": "Jo Boaler",
+				"screen_name": "joboaler",
+				"location": "Stanford University",
+				"description": "Stanford Professor,  Believer in ALL Students, Maths Revolutionary, Author, Online course experimenter, co-founder https://t.co/CJ7zviIEwU",
+				"url": "http://t.co/zfZSRkiAej",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/zfZSRkiAej",
+								"expanded_url": "http://www.youcubed.org",
+								"display_url": "youcubed.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/CJ7zviIEwU",
+								"expanded_url": "http://www.youcubed.org",
+								"display_url": "youcubed.org",
+								"indices": [
+									115,
+									138
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 69168,
+				"friends_count": 998,
+				"listed_count": 826,
+				"created_at": "Tue Aug 17 01:49:00 +0000 2010",
+				"favourites_count": 6785,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 3890,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1015595846102966275/CGsu305__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1015595846102966275/CGsu305__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/179334563/1501527644",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1039578682354888700,
+			"quoted_status_id_str": "1039578682354888705",
+			"retweet_count": 40,
+			"favorite_count": 130,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Sep 14 02:59:40 +0000 2018",
 		"id": 1040434881476616200,
 		"id_str": "1040434881476616192",
