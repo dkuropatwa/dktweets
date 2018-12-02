@@ -183,7 +183,7 @@ Grailbird.data.tweets_2018_09 =
 					}
 				},
 				"protected": false,
-				"followers_count": 75200,
+				"followers_count": 75210,
 				"friends_count": 1067,
 				"listed_count": 861,
 				"created_at": "Tue Aug 17 01:49:00 +0000 2010",
@@ -1208,7 +1208,7 @@ Grailbird.data.tweets_2018_09 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 34980,
+			"statuses_count": 34979,
 			"lang": "en-gb",
 			"contributors_enabled": false,
 			"is_translator": false,

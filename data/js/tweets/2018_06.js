@@ -156,7 +156,7 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 15485,
+			"followers_count": 15484,
 			"friends_count": 618,
 			"listed_count": 503,
 			"created_at": "Wed Jan 09 20:17:16 +0000 2008",
@@ -507,7 +507,7 @@ Grailbird.data.tweets_2018_06 =
 			"protected": false,
 			"followers_count": 32673,
 			"friends_count": 866,
-			"listed_count": 702,
+			"listed_count": 703,
 			"created_at": "Sat May 16 00:02:11 +0000 2009",
 			"favourites_count": 17709,
 			"utc_offset": null,
