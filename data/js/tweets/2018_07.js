@@ -4,8 +4,12 @@ Grailbird.data.tweets_2018_07 =
 		"created_at": "Tue Jul 31 16:30:14 +0000 2018",
 		"id": 1024331412336533500,
 		"id_str": "1024331412336533506",
-		"text": "Welcome to Twitter Gev! https://t.co/WImlUx7TyM",
+		"full_text": "Welcome to Twitter Gev! https://t.co/WImlUx7TyM",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -55,16 +59,16 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 6821,
-			"friends_count": 2645,
-			"listed_count": 463,
+			"followers_count": 6835,
+			"friends_count": 2702,
+			"listed_count": 459,
 			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
-			"favourites_count": 401,
+			"favourites_count": 421,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 24857,
+			"statuses_count": 24915,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -96,12 +100,21 @@ Grailbird.data.tweets_2018_07 =
 		"is_quote_status": true,
 		"quoted_status_id": 1024327973514735600,
 		"quoted_status_id_str": "1024327973514735616",
+		"quoted_status_permalink": {
+			"url": "https://t.co/WImlUx7TyM",
+			"expanded": "https://twitter.com/sewilkie/status/1024327973514735616",
+			"display": "twitter.com/sewilkie/statu…"
+		},
 		"quoted_status": {
 			"created_at": "Tue Jul 31 16:16:34 +0000 2018",
 			"id": 1024327973514735600,
 			"id_str": "1024327973514735616",
-			"text": "Please welcome @gevnoorlander to #twitter She's starting out a new year in a new school and I am hugely excited to… https://t.co/uVlHMwuGdF",
-			"truncated": true,
+			"full_text": "Please welcome @gevnoorlander to #twitter She's starting out a new year in a new school and I am hugely excited to be learning with her! @dkuropatwa @GarthHolman @ProfessorMike1 @RoyBPS @RURosieRiveter @BrianJMull @BillDuffany @JoyKirr @tsocko #sschat @MilwaukeeJDS #edchat",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				273
+			],
 			"entities": {
 				"hashtags": [
 					{
@@ -109,6 +122,20 @@ Grailbird.data.tweets_2018_07 =
 						"indices": [
 							33,
 							41
+						]
+					},
+					{
+						"text": "sschat",
+						"indices": [
+							244,
+							251
+						]
+					},
+					{
+						"text": "edchat",
+						"indices": [
+							266,
+							273
 						]
 					}
 				],
@@ -123,19 +150,109 @@ Grailbird.data.tweets_2018_07 =
 							15,
 							29
 						]
-					}
-				],
-				"urls": [
+					},
 					{
-						"url": "https://t.co/uVlHMwuGdF",
-						"expanded_url": "https://twitter.com/i/web/status/1024327973514735616",
-						"display_url": "twitter.com/i/web/status/1…",
+						"screen_name": "dkuropatwa",
+						"name": "Darren Kuropatwa",
+						"id": 5634392,
+						"id_str": "5634392",
 						"indices": [
-							116,
-							139
+							137,
+							148
+						]
+					},
+					{
+						"screen_name": "GarthHolman",
+						"name": "Garth Holman",
+						"id": 141706548,
+						"id_str": "141706548",
+						"indices": [
+							149,
+							161
+						]
+					},
+					{
+						"screen_name": "ProfessorMike1",
+						"name": "Mike Pennington",
+						"id": 159118089,
+						"id_str": "159118089",
+						"indices": [
+							162,
+							177
+						]
+					},
+					{
+						"screen_name": "RoyBPS",
+						"name": "Roy McCloud",
+						"id": 344711657,
+						"id_str": "344711657",
+						"indices": [
+							178,
+							185
+						]
+					},
+					{
+						"screen_name": "RURosieRiveter",
+						"name": "Rosemary Johnson",
+						"id": 4864320412,
+						"id_str": "4864320412",
+						"indices": [
+							186,
+							201
+						]
+					},
+					{
+						"screen_name": "BrianJMull",
+						"name": "Brian Mull",
+						"id": 5667012,
+						"id_str": "5667012",
+						"indices": [
+							202,
+							213
+						]
+					},
+					{
+						"screen_name": "BillDuffany",
+						"name": "Bill Duffany",
+						"id": 2411387695,
+						"id_str": "2411387695",
+						"indices": [
+							214,
+							226
+						]
+					},
+					{
+						"screen_name": "JoyKirr",
+						"name": "Joy Kirr",
+						"id": 344350209,
+						"id_str": "344350209",
+						"indices": [
+							227,
+							235
+						]
+					},
+					{
+						"screen_name": "tsocko",
+						"name": "Tracy Sockalosky",
+						"id": 25666964,
+						"id_str": "25666964",
+						"indices": [
+							236,
+							243
+						]
+					},
+					{
+						"screen_name": "MilwaukeeJDS",
+						"name": "MJDS",
+						"id": 339870777,
+						"id_str": "339870777",
+						"indices": [
+							252,
+							265
 						]
 					}
-				]
+				],
+				"urls": []
 			},
 			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
 			"in_reply_to_status_id": null,
@@ -148,16 +265,16 @@ Grailbird.data.tweets_2018_07 =
 				"id_str": "244625496",
 				"name": "sara wilkie",
 				"screen_name": "sewilkie",
-				"location": "Beverly Hills, MI ",
-				"description": "Head of Learning Design, November Learning Learner, Teacher, Disruptor...of a most amazing learning team https://t.co/lOU096r3mQ header via slackpics",
-				"url": "https://t.co/27T1QlEtPX",
+				"location": "Beverly Hills, MI",
+				"description": "Learner, Teacher & Mentor of Purposeful Learning & Inquiry Design; Disruptor of a most amazing learning team https://t.co/dAyunwvvfr",
+				"url": "https://t.co/XLyB5ih4DX",
 				"entities": {
 					"url": {
 						"urls": [
 							{
-								"url": "https://t.co/27T1QlEtPX",
-								"expanded_url": "http://balancedtech.wikispaces.com",
-								"display_url": "balancedtech.wikispaces.com",
+								"url": "https://t.co/XLyB5ih4DX",
+								"expanded_url": "http://balancedtech.org",
+								"display_url": "balancedtech.org",
 								"indices": [
 									0,
 									23
@@ -168,28 +285,28 @@ Grailbird.data.tweets_2018_07 =
 					"description": {
 						"urls": [
 							{
-								"url": "https://t.co/lOU096r3mQ",
-								"expanded_url": "http://BalancEdTech.wikispaces.com",
-								"display_url": "BalancEdTech.wikispaces.com",
+								"url": "https://t.co/dAyunwvvfr",
+								"expanded_url": "http://BalancEdTech.org",
+								"display_url": "BalancEdTech.org",
 								"indices": [
-									105,
-									128
+									109,
+									132
 								]
 							}
 						]
 					}
 				},
 				"protected": false,
-				"followers_count": 2483,
-				"friends_count": 801,
+				"followers_count": 2479,
+				"friends_count": 831,
 				"listed_count": 136,
 				"created_at": "Sat Jan 29 19:04:54 +0000 2011",
-				"favourites_count": 2624,
+				"favourites_count": 3016,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": false,
-				"statuses_count": 7903,
+				"statuses_count": 8108,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -219,8 +336,8 @@ Grailbird.data.tweets_2018_07 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 0,
-			"favorite_count": 3,
+			"retweet_count": 1,
+			"favorite_count": 6,
 			"favorited": false,
 			"retweeted": false,
 			"lang": "en"
@@ -230,14 +347,19 @@ Grailbird.data.tweets_2018_07 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Welcome to Twitter Gev! https://t.co/WImlUx7TyM"
 	},
 	{
 		"created_at": "Tue Jul 31 15:49:37 +0000 2018",
 		"id": 1024321191656529900,
 		"id_str": "1024321191656529921",
-		"text": "Thanks for sharing this Jen. Hope you’re having a rejuvenating summer. https://t.co/71QQUslMuK",
+		"full_text": "Thanks for sharing this Jen. Hope you’re having a rejuvenating summer. https://t.co/71QQUslMuK",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -245,8 +367,8 @@ Grailbird.data.tweets_2018_07 =
 			"urls": [
 				{
 					"url": "https://t.co/71QQUslMuK",
-					"expanded_url": "https://twitter.com/jenthomson81/status/1024292601804083200",
-					"display_url": "twitter.com/jenthomson81/s…",
+					"expanded_url": "https://twitter.com/JenThomson81/status/1024292601804083200",
+					"display_url": "twitter.com/JenThomson81/s…",
 					"indices": [
 						71,
 						94
@@ -287,16 +409,16 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 6821,
-			"friends_count": 2644,
-			"listed_count": 463,
+			"followers_count": 6835,
+			"friends_count": 2702,
+			"listed_count": 459,
 			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
-			"favourites_count": 402,
+			"favourites_count": 421,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 24856,
+			"statuses_count": 24915,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -328,12 +450,21 @@ Grailbird.data.tweets_2018_07 =
 		"is_quote_status": true,
 		"quoted_status_id": 1024292601804083200,
 		"quoted_status_id_str": "1024292601804083200",
+		"quoted_status_permalink": {
+			"url": "https://t.co/71QQUslMuK",
+			"expanded": "https://twitter.com/JenThomson81/status/1024292601804083200",
+			"display": "twitter.com/JenThomson81/s…"
+		},
 		"quoted_status": {
 			"created_at": "Tue Jul 31 13:56:01 +0000 2018",
 			"id": 1024292601804083200,
 			"id_str": "1024292601804083200",
-			"text": "@dkuropatwa This has been one of my biggest ‘aha’ moments in my DL journey. I don’t need to talk all of the time. T… https://t.co/qZsVxaTIJG",
-			"truncated": true,
+			"full_text": "@dkuropatwa This has been one of my biggest ‘aha’ moments in my DL journey. I don’t need to talk all of the time. They can share examples. They should reflect after. I don’t need to summarize for them.",
+			"truncated": false,
+			"display_text_range": [
+				12,
+				201
+			],
 			"entities": {
 				"hashtags": [],
 				"symbols": [],
@@ -349,17 +480,7 @@ Grailbird.data.tweets_2018_07 =
 						]
 					}
 				],
-				"urls": [
-					{
-						"url": "https://t.co/qZsVxaTIJG",
-						"expanded_url": "https://twitter.com/i/web/status/1024292601804083200",
-						"display_url": "twitter.com/i/web/status/1…",
-						"indices": [
-							117,
-							140
-						]
-					}
-				]
+				"urls": []
 			},
 			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
 			"in_reply_to_status_id": 1024272797814739000,
@@ -381,16 +502,16 @@ Grailbird.data.tweets_2018_07 =
 					}
 				},
 				"protected": false,
-				"followers_count": 116,
-				"friends_count": 225,
+				"followers_count": 127,
+				"friends_count": 254,
 				"listed_count": 3,
 				"created_at": "Tue Mar 12 00:35:12 +0000 2013",
-				"favourites_count": 1182,
+				"favourites_count": 1444,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": false,
-				"statuses_count": 285,
+				"statuses_count": 336,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -426,18 +547,23 @@ Grailbird.data.tweets_2018_07 =
 			"lang": "en"
 		},
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Thanks for sharing this Jen. Hope you’re having a rejuvenating summer. https://t.co/71QQUslMuK"
 	},
 	{
 		"created_at": "Tue Jul 31 12:37:19 +0000 2018",
 		"id": 1024272797814739000,
 		"id_str": "1024272797814738944",
-		"text": "#Reflection from #BLC18 One of the ways people’s thinking changed: “I used to think teachers had to give all the ex… https://t.co/iRvmahYmgk",
-		"truncated": true,
+		"full_text": "#Reflection from #BLC18 One of the ways people’s thinking changed: “I used to think teachers had to give all the examples. Now I think students can generate these on their own and share to learn from each other (and I learn too as the teacher).”",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			245
+		],
 		"entities": {
 			"hashtags": [
 				{
@@ -457,17 +583,7 @@ Grailbird.data.tweets_2018_07 =
 			],
 			"symbols": [],
 			"user_mentions": [],
-			"urls": [
-				{
-					"url": "https://t.co/iRvmahYmgk",
-					"expanded_url": "https://twitter.com/i/web/status/1024272797814738944",
-					"display_url": "twitter.com/i/web/status/1…",
-					"indices": [
-						117,
-						140
-					]
-				}
-			]
+			"urls": []
 		},
 		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
 		"in_reply_to_status_id": 1024272323455721500,
@@ -502,16 +618,16 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 6820,
-			"friends_count": 2643,
-			"listed_count": 463,
+			"followers_count": 6835,
+			"friends_count": 2702,
+			"listed_count": 459,
 			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
-			"favourites_count": 402,
+			"favourites_count": 421,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 24855,
+			"statuses_count": 24915,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -542,17 +658,22 @@ Grailbird.data.tweets_2018_07 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 5,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "#Reflection from #BLC18 One of the ways people’s thinking changed: “I used to think teachers had to give all the examples. Now I think students can generate these on their own and share to learn from each other (and I learn too as the teacher).”"
 	},
 	{
 		"created_at": "Tue Jul 31 12:35:26 +0000 2018",
 		"id": 1024272323455721500,
 		"id_str": "1024272323455721472",
-		"text": "#Reflection from #BLC18 One of the ways people’s thinking changed: “I used to think making thinking visible was goo… https://t.co/SgQ1phtzv9",
-		"truncated": true,
+		"full_text": "#Reflection from #BLC18 One of the ways people’s thinking changed: “I used to think making thinking visible was good enough. Now I think students deserve better, and we should drive learning forward with a clearer purpose!\"",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			223
+		],
 		"entities": {
 			"hashtags": [
 				{
@@ -572,17 +693,7 @@ Grailbird.data.tweets_2018_07 =
 			],
 			"symbols": [],
 			"user_mentions": [],
-			"urls": [
-				{
-					"url": "https://t.co/SgQ1phtzv9",
-					"expanded_url": "https://twitter.com/i/web/status/1024272323455721472",
-					"display_url": "twitter.com/i/web/status/1…",
-					"indices": [
-						117,
-						140
-					]
-				}
-			]
+			"urls": []
 		},
 		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
 		"in_reply_to_status_id": 1023913108912398300,
@@ -617,16 +728,16 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 6820,
-			"friends_count": 2643,
-			"listed_count": 463,
+			"followers_count": 6835,
+			"friends_count": 2702,
+			"listed_count": 459,
 			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
-			"favourites_count": 402,
+			"favourites_count": 421,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 24855,
+			"statuses_count": 24915,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -657,17 +768,22 @@ Grailbird.data.tweets_2018_07 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "#Reflection from #BLC18 One of the ways people’s thinking changed: “I used to think making thinking visible was good enough. Now I think students deserve better, and we should drive learning forward with a clearer purpose!\""
 	},
 	{
 		"created_at": "Tue Jul 31 00:28:50 +0000 2018",
 		"id": 1024089466372321300,
 		"id_str": "1024089466372321280",
-		"text": "@GottTechCoach @NLearning 👍🏼😀",
+		"full_text": "@GottTechCoach @NLearning 👍🏼😀",
 		"truncated": false,
+		"display_text_range": [
+			26,
+			29
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -728,16 +844,16 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 6820,
-			"friends_count": 2643,
-			"listed_count": 463,
+			"followers_count": 6835,
+			"friends_count": 2702,
+			"listed_count": 459,
 			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
-			"favourites_count": 401,
+			"favourites_count": 421,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 24853,
+			"statuses_count": 24915,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -771,14 +887,19 @@ Grailbird.data.tweets_2018_07 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "und"
+		"lang": "und",
+		"text": "@GottTechCoach @NLearning 👍🏼😀"
 	},
 	{
 		"created_at": "Tue Jul 31 00:28:26 +0000 2018",
 		"id": 1024089367801933800,
 		"id_str": "1024089367801933824",
-		"text": "@buddyxo You were missed. Hope we get a chance to connect next year.",
+		"full_text": "@buddyxo You were missed. Hope we get a chance to connect next year.",
 		"truncated": false,
+		"display_text_range": [
+			9,
+			68
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -829,16 +950,16 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 6820,
-			"friends_count": 2643,
-			"listed_count": 463,
+			"followers_count": 6835,
+			"friends_count": 2702,
+			"listed_count": 459,
 			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
-			"favourites_count": 401,
+			"favourites_count": 421,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 24853,
+			"statuses_count": 24915,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -872,14 +993,19 @@ Grailbird.data.tweets_2018_07 =
 		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@buddyxo You were missed. Hope we get a chance to connect next year."
 	},
 	{
 		"created_at": "Tue Jul 31 00:26:16 +0000 2018",
 		"id": 1024088824157270000,
 		"id_str": "1024088824157270018",
-		"text": "The more the merrier. :-) https://t.co/n65s9ycKXy",
+		"full_text": "The more the merrier. :-) https://t.co/n65s9ycKXy",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			25
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -929,16 +1055,16 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 6820,
-			"friends_count": 2643,
-			"listed_count": 463,
+			"followers_count": 6835,
+			"friends_count": 2702,
+			"listed_count": 459,
 			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
-			"favourites_count": 401,
+			"favourites_count": 421,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 24853,
+			"statuses_count": 24915,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -970,12 +1096,21 @@ Grailbird.data.tweets_2018_07 =
 		"is_quote_status": true,
 		"quoted_status_id": 1024055352835366900,
 		"quoted_status_id_str": "1024055352835366912",
+		"quoted_status_permalink": {
+			"url": "https://t.co/n65s9ycKXy",
+			"expanded": "https://twitter.com/tsocko/status/1024055352835366912",
+			"display": "twitter.com/tsocko/status/…"
+		},
 		"quoted_status": {
 			"created_at": "Mon Jul 30 22:13:16 +0000 2018",
 			"id": 1024055352835366900,
 			"id_str": "1024055352835366912",
-			"text": "@paulbogush @dkuropatwa @JoyKirr @rlfreedm @lainierowell @SamMandeville @nbartley6 @Stefanowicz135 @cjgosselin All… https://t.co/gF7B8UGgou",
-			"truncated": true,
+			"full_text": "@paulbogush @dkuropatwa @JoyKirr @rlfreedm @lainierowell @SamMandeville @nbartley6 @Stefanowicz135 @cjgosselin All would be welcome! I’m sure @dkuropatwa would love more friends to bandy about! 😂",
+			"truncated": false,
+			"display_text_range": [
+				111,
+				195
+			],
 			"entities": {
 				"hashtags": [],
 				"symbols": [],
@@ -1032,7 +1167,7 @@ Grailbird.data.tweets_2018_07 =
 					},
 					{
 						"screen_name": "SamMandeville",
-						"name": "Sam Mandeville",
+						"name": "Sam Mandeville 🌎",
 						"id": 756167413637517300,
 						"id_str": "756167413637517312",
 						"indices": [
@@ -1069,19 +1204,19 @@ Grailbird.data.tweets_2018_07 =
 							99,
 							110
 						]
-					}
-				],
-				"urls": [
+					},
 					{
-						"url": "https://t.co/gF7B8UGgou",
-						"expanded_url": "https://twitter.com/i/web/status/1024055352835366912",
-						"display_url": "twitter.com/i/web/status/1…",
+						"screen_name": "dkuropatwa",
+						"name": "Darren Kuropatwa",
+						"id": 5634392,
+						"id_str": "5634392",
 						"indices": [
-							116,
-							139
+							142,
+							153
 						]
 					}
-				]
+				],
+				"urls": []
 			},
 			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
 			"in_reply_to_status_id": 1024028019650977800,
@@ -1116,16 +1251,16 @@ Grailbird.data.tweets_2018_07 =
 					}
 				},
 				"protected": false,
-				"followers_count": 2664,
-				"friends_count": 1102,
+				"followers_count": 2748,
+				"friends_count": 1142,
 				"listed_count": 183,
 				"created_at": "Sat Mar 21 12:19:08 +0000 2009",
-				"favourites_count": 5954,
+				"favourites_count": 7429,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": false,
-				"statuses_count": 13078,
+				"statuses_count": 13664,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -1162,64 +1297,147 @@ Grailbird.data.tweets_2018_07 =
 			"lang": "en"
 		},
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "The more the merrier. :-) https://t.co/n65s9ycKXy"
 	},
 	{
-		"created_at": "Mon Jul 30 21:59:03 +0000 2018",
-		"id": 1024051771826688000,
-		"id_str": "1024051771826688000",
-		"text": "RT @NLearning: Reflections &amp; Nuggets of Wisdom from #BLC18 “I used to think that my lessons were made up of activities which helped deliver…",
+		"created_at": "Mon Jul 30 18:55:09 +0000 2018",
+		"id": 1024005493864517600,
+		"id_str": "1024005493864517632",
+		"full_text": "Reflections &amp; Nuggets of Wisdom from #BLC18 “I used to think that my lessons were made up of activities which helped deliver the content or skill I was teaching. Now I think I am developing &amp; using tactics to change brains in my classroom.” via @dkuropatwa https://t.co/YWwpmwDOF3",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			264
+		],
 		"entities": {
 			"hashtags": [
 				{
 					"text": "BLC18",
 					"indices": [
-						56,
-						62
+						41,
+						47
 					]
 				}
 			],
 			"symbols": [],
 			"user_mentions": [
 				{
-					"screen_name": "NLearning",
-					"name": "November Learning",
-					"id": 12042382,
-					"id_str": "12042382",
+					"screen_name": "dkuropatwa",
+					"name": "Darren Kuropatwa",
+					"id": 5634392,
+					"id_str": "5634392",
 					"indices": [
-						3,
-						13
+						253,
+						264
 					]
 				}
 			],
-			"urls": []
+			"urls": [],
+			"media": [
+				{
+					"id": 1024005491985408000,
+					"id_str": "1024005491985408000",
+					"indices": [
+						265,
+						288
+					],
+					"media_url": "http://pbs.twimg.com/media/DjX_kc3W4AA0sIE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DjX_kc3W4AA0sIE.jpg",
+					"url": "https://t.co/YWwpmwDOF3",
+					"display_url": "pic.twitter.com/YWwpmwDOF3",
+					"expanded_url": "https://twitter.com/NLearning/status/1024005493864517632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 670,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 380,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 670,
+							"resize": "fit"
+						}
+					}
+				}
+			]
 		},
-		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1024005491985408000,
+					"id_str": "1024005491985408000",
+					"indices": [
+						265,
+						288
+					],
+					"media_url": "http://pbs.twimg.com/media/DjX_kc3W4AA0sIE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DjX_kc3W4AA0sIE.jpg",
+					"url": "https://t.co/YWwpmwDOF3",
+					"display_url": "pic.twitter.com/YWwpmwDOF3",
+					"expanded_url": "https://twitter.com/NLearning/status/1024005493864517632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 670,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 380,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 670,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
 		"in_reply_to_status_id": null,
 		"in_reply_to_status_id_str": null,
 		"in_reply_to_user_id": null,
 		"in_reply_to_user_id_str": null,
 		"in_reply_to_screen_name": null,
 		"user": {
-			"id": 5634392,
-			"id_str": "5634392",
-			"name": "Darren Kuropatwa",
-			"screen_name": "dkuropatwa",
-			"location": "Winnipeg, Manitoba, Canada",
-			"description": "Educator. Always in beta ∞β.",
-			"url": "https://t.co/FJEo2rIADF",
+			"id": 12042382,
+			"id_str": "12042382",
+			"name": "November Learning",
+			"screen_name": "NLearning",
+			"location": "Marblehead, MA",
+			"description": "Led by @globalearner, we proudly hosts the Building Learning Communities Conference. Learn more about our consulting services, workshops, and rich resources.",
+			"url": "https://t.co/JuJJcEE3uN",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/FJEo2rIADF",
-							"expanded_url": "http://adifference.blogspot.com",
-							"display_url": "adifference.blogspot.com",
+							"url": "https://t.co/JuJJcEE3uN",
+							"expanded_url": "http://www.novemberlearning.com",
+							"display_url": "novemberlearning.com",
 							"indices": [
 								0,
 								23
@@ -1232,36 +1450,35 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 6820,
-			"friends_count": 2643,
-			"listed_count": 463,
-			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
-			"favourites_count": 401,
+			"followers_count": 15485,
+			"friends_count": 618,
+			"listed_count": 503,
+			"created_at": "Wed Jan 09 20:17:16 +0000 2008",
+			"favourites_count": 229,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
-			"verified": true,
-			"statuses_count": 24850,
+			"verified": false,
+			"statuses_count": 8340,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
-			"profile_background_color": "9AE4E8",
+			"profile_background_color": "2A65B4",
 			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": true,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
-			"profile_link_color": "0000FF",
-			"profile_sidebar_border_color": "FFFFFF",
-			"profile_sidebar_fill_color": "67CD67",
-			"profile_text_color": "000000",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/73380919/nlicon_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/73380919/nlicon_normal.jpg",
+			"profile_link_color": "2A65B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "EEEEEE",
+			"profile_text_color": "333333",
 			"profile_use_background_image": true,
-			"has_extended_profile": true,
+			"has_extended_profile": false,
 			"default_profile": false,
 			"default_profile_image": false,
-			"following": false,
+			"following": true,
 			"follow_request_sent": false,
 			"notifications": false,
 			"translator_type": "none"
@@ -1270,127 +1487,25 @@ Grailbird.data.tweets_2018_07 =
 		"coordinates": null,
 		"place": null,
 		"contributors": null,
-		"retweeted_status": {
-			"created_at": "Mon Jul 30 18:55:09 +0000 2018",
-			"id": 1024005493864517600,
-			"id_str": "1024005493864517632",
-			"text": "Reflections &amp; Nuggets of Wisdom from #BLC18 “I used to think that my lessons were made up of activities which helpe… https://t.co/nnv41CyIJ5",
-			"truncated": true,
-			"entities": {
-				"hashtags": [
-					{
-						"text": "BLC18",
-						"indices": [
-							41,
-							47
-						]
-					}
-				],
-				"symbols": [],
-				"user_mentions": [],
-				"urls": [
-					{
-						"url": "https://t.co/nnv41CyIJ5",
-						"expanded_url": "https://twitter.com/i/web/status/1024005493864517632",
-						"display_url": "twitter.com/i/web/status/1…",
-						"indices": [
-							121,
-							144
-						]
-					}
-				]
-			},
-			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
-			"in_reply_to_status_id": null,
-			"in_reply_to_status_id_str": null,
-			"in_reply_to_user_id": null,
-			"in_reply_to_user_id_str": null,
-			"in_reply_to_screen_name": null,
-			"user": {
-				"id": 12042382,
-				"id_str": "12042382",
-				"name": "November Learning",
-				"screen_name": "NLearning",
-				"location": "Marblehead, MA",
-				"description": "Led by @globalearner, we proudly hosts the Building Learning Communities Conference. Learn more about our consulting services, workshops, and rich resources.",
-				"url": "https://t.co/JuJJcEE3uN",
-				"entities": {
-					"url": {
-						"urls": [
-							{
-								"url": "https://t.co/JuJJcEE3uN",
-								"expanded_url": "http://www.novemberlearning.com",
-								"display_url": "novemberlearning.com",
-								"indices": [
-									0,
-									23
-								]
-							}
-						]
-					},
-					"description": {
-						"urls": []
-					}
-				},
-				"protected": false,
-				"followers_count": 15414,
-				"friends_count": 575,
-				"listed_count": 506,
-				"created_at": "Wed Jan 09 20:17:16 +0000 2008",
-				"favourites_count": 218,
-				"utc_offset": null,
-				"time_zone": null,
-				"geo_enabled": false,
-				"verified": false,
-				"statuses_count": 8114,
-				"lang": "en",
-				"contributors_enabled": false,
-				"is_translator": false,
-				"is_translation_enabled": false,
-				"profile_background_color": "2A65B4",
-				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-				"profile_background_tile": false,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/73380919/nlicon_normal.jpg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/73380919/nlicon_normal.jpg",
-				"profile_link_color": "2A65B4",
-				"profile_sidebar_border_color": "BDDCAD",
-				"profile_sidebar_fill_color": "EEEEEE",
-				"profile_text_color": "333333",
-				"profile_use_background_image": true,
-				"has_extended_profile": false,
-				"default_profile": false,
-				"default_profile_image": false,
-				"following": true,
-				"follow_request_sent": false,
-				"notifications": false,
-				"translator_type": "none"
-			},
-			"geo": null,
-			"coordinates": null,
-			"place": null,
-			"contributors": null,
-			"is_quote_status": false,
-			"retweet_count": 1,
-			"favorite_count": 0,
-			"favorited": false,
-			"retweeted": true,
-			"possibly_sensitive": false,
-			"lang": "en"
-		},
 		"is_quote_status": false,
-		"retweet_count": 1,
-		"favorite_count": 0,
+		"retweet_count": 3,
+		"favorite_count": 7,
 		"favorited": false,
 		"retweeted": true,
-		"lang": "en"
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Reflections &amp; Nuggets of Wisdom from #BLC18 “I used to think that my lessons were made up of activities which helped deliver the content or skill I was teaching. Now I think I am developing &amp; using tactics to change brains in my classroom.” via @dkuropatwa https://t.co/YWwpmwDOF3"
 	},
 	{
 		"created_at": "Mon Jul 30 16:14:10 +0000 2018",
 		"id": 1023964982986371100,
 		"id_str": "1023964982986371072",
-		"text": "Overcome These 5 Biases to be a Better Leader https://t.co/OiqRXwLCf0 #Leadership",
+		"full_text": "Overcome These 5 Biases to be a Better Leader https://t.co/OiqRXwLCf0 #Leadership",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
 		"entities": {
 			"hashtags": [
 				{
@@ -1448,16 +1563,16 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 6821,
-			"friends_count": 2643,
-			"listed_count": 463,
+			"followers_count": 6835,
+			"friends_count": 2702,
+			"listed_count": 459,
 			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
-			"favourites_count": 401,
+			"favourites_count": 421,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 24849,
+			"statuses_count": 24915,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1492,248 +1607,19 @@ Grailbird.data.tweets_2018_07 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Overcome These 5 Biases to be a Better Leader https://t.co/OiqRXwLCf0 #Leadership"
 	},
 	{
 		"created_at": "Mon Jul 30 12:48:03 +0000 2018",
 		"id": 1023913108912398300,
 		"id_str": "1023913108912398337",
-		"text": "#Reflection from #BLC18 One of the ways people’s thinking changed: “I used to think that my lessons were made up of… https://t.co/TJnFtlvD2f",
-		"truncated": true,
-		"entities": {
-			"hashtags": [
-				{
-					"text": "Reflection",
-					"indices": [
-						0,
-						11
-					]
-				},
-				{
-					"text": "BLC18",
-					"indices": [
-						17,
-						23
-					]
-				}
-			],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": [
-				{
-					"url": "https://t.co/TJnFtlvD2f",
-					"expanded_url": "https://twitter.com/i/web/status/1023913108912398337",
-					"display_url": "twitter.com/i/web/status/1…",
-					"indices": [
-						117,
-						140
-					]
-				}
-			]
-		},
-		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 5634392,
-			"id_str": "5634392",
-			"name": "Darren Kuropatwa",
-			"screen_name": "dkuropatwa",
-			"location": "Winnipeg, Manitoba, Canada",
-			"description": "Educator. Always in beta ∞β.",
-			"url": "https://t.co/FJEo2rIADF",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/FJEo2rIADF",
-							"expanded_url": "http://adifference.blogspot.com",
-							"display_url": "adifference.blogspot.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 6821,
-			"friends_count": 2642,
-			"listed_count": 463,
-			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
-			"favourites_count": 401,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": false,
-			"verified": true,
-			"statuses_count": 24848,
-			"lang": "en",
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "9AE4E8",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": true,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
-			"profile_link_color": "0000FF",
-			"profile_sidebar_border_color": "FFFFFF",
-			"profile_sidebar_fill_color": "67CD67",
-			"profile_text_color": "000000",
-			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 1,
-		"favorite_count": 2,
-		"favorited": false,
-		"retweeted": false,
-		"lang": "en"
-	},
-	{
-		"created_at": "Mon Jul 30 12:42:11 +0000 2018",
-		"id": 1023911635617034200,
-		"id_str": "1023911635617034240",
-		"text": "@GottTechCoach Thanks for that Chris. Please do keep in touch. I wonder if #LeadingChange should be a pre-con… https://t.co/LMdzKMxh78",
-		"truncated": true,
-		"entities": {
-			"hashtags": [
-				{
-					"text": "LeadingChange",
-					"indices": [
-						75,
-						89
-					]
-				}
-			],
-			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "GottTechCoach",
-					"name": "Chris Gott",
-					"id": 1248092096,
-					"id_str": "1248092096",
-					"indices": [
-						0,
-						14
-					]
-				}
-			],
-			"urls": [
-				{
-					"url": "https://t.co/LMdzKMxh78",
-					"expanded_url": "https://twitter.com/i/web/status/1023911635617034240",
-					"display_url": "twitter.com/i/web/status/1…",
-					"indices": [
-						111,
-						134
-					]
-				}
-			]
-		},
-		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-		"in_reply_to_status_id": 1023897109119086600,
-		"in_reply_to_status_id_str": "1023897109119086592",
-		"in_reply_to_user_id": 1248092096,
-		"in_reply_to_user_id_str": "1248092096",
-		"in_reply_to_screen_name": "GottTechCoach",
-		"user": {
-			"id": 5634392,
-			"id_str": "5634392",
-			"name": "Darren Kuropatwa",
-			"screen_name": "dkuropatwa",
-			"location": "Winnipeg, Manitoba, Canada",
-			"description": "Educator. Always in beta ∞β.",
-			"url": "https://t.co/FJEo2rIADF",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/FJEo2rIADF",
-							"expanded_url": "http://adifference.blogspot.com",
-							"display_url": "adifference.blogspot.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 6821,
-			"friends_count": 2642,
-			"listed_count": 463,
-			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
-			"favourites_count": 401,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": false,
-			"verified": true,
-			"statuses_count": 24848,
-			"lang": "en",
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "9AE4E8",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": true,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
-			"profile_link_color": "0000FF",
-			"profile_sidebar_border_color": "FFFFFF",
-			"profile_sidebar_fill_color": "67CD67",
-			"profile_text_color": "000000",
-			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 0,
-		"favorited": false,
-		"retweeted": false,
-		"lang": "en"
-	},
-	{
-		"created_at": "Mon Jul 30 12:37:28 +0000 2018",
-		"id": 1023910446573731800,
-		"id_str": "1023910446573731847",
-		"text": "#Reflection from #BLC18 One of the ways people’s thinking changed: “I used to think inquiry is a method. Now I think inquiry is a culture.”",
+		"full_text": "#Reflection from #BLC18 One of the ways people’s thinking changed: “I used to think that my lessons were made up of activities which helped deliver the content or skill I was teaching. Now I think I am developing &amp; using tactics to change brains in my classroom.”",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			267
+		],
 		"entities": {
 			"hashtags": [
 				{
@@ -1788,16 +1674,147 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 6821,
-			"friends_count": 2642,
-			"listed_count": 463,
+			"followers_count": 6835,
+			"friends_count": 2702,
+			"listed_count": 459,
 			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
-			"favourites_count": 401,
+			"favourites_count": 421,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 24848,
+			"statuses_count": 24915,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "67CD67",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "#Reflection from #BLC18 One of the ways people’s thinking changed: “I used to think that my lessons were made up of activities which helped deliver the content or skill I was teaching. Now I think I am developing &amp; using tactics to change brains in my classroom.”"
+	},
+	{
+		"created_at": "Mon Jul 30 12:42:11 +0000 2018",
+		"id": 1023911635617034200,
+		"id_str": "1023911635617034240",
+		"full_text": "@GottTechCoach Thanks for that Chris. Please do keep in touch. I wonder if #LeadingChange should be a pre-con @NLearning #BLC19? I wonder if many ppl would sign up?",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			164
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LeadingChange",
+					"indices": [
+						75,
+						89
+					]
+				},
+				{
+					"text": "BLC19",
+					"indices": [
+						121,
+						127
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GottTechCoach",
+					"name": "Chris Gott",
+					"id": 1248092096,
+					"id_str": "1248092096",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "NLearning",
+					"name": "November Learning",
+					"id": 12042382,
+					"id_str": "12042382",
+					"indices": [
+						110,
+						120
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1023897109119086600,
+		"in_reply_to_status_id_str": "1023897109119086592",
+		"in_reply_to_user_id": 1248092096,
+		"in_reply_to_user_id_str": "1248092096",
+		"in_reply_to_screen_name": "GottTechCoach",
+		"user": {
+			"id": 5634392,
+			"id_str": "5634392",
+			"name": "Darren Kuropatwa",
+			"screen_name": "dkuropatwa",
+			"location": "Winnipeg, Manitoba, Canada",
+			"description": "Educator. Always in beta ∞β.",
+			"url": "https://t.co/FJEo2rIADF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FJEo2rIADF",
+							"expanded_url": "http://adifference.blogspot.com",
+							"display_url": "adifference.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6835,
+			"friends_count": 2702,
+			"listed_count": 459,
+			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
+			"favourites_count": 421,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 24915,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1828,17 +1845,132 @@ Grailbird.data.tweets_2018_07 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@GottTechCoach Thanks for that Chris. Please do keep in touch. I wonder if #LeadingChange should be a pre-con @NLearning #BLC19? I wonder if many ppl would sign up?"
+	},
+	{
+		"created_at": "Mon Jul 30 12:37:28 +0000 2018",
+		"id": 1023910446573731800,
+		"id_str": "1023910446573731847",
+		"full_text": "#Reflection from #BLC18 One of the ways people’s thinking changed: “I used to think inquiry is a method. Now I think inquiry is a culture.”",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Reflection",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"text": "BLC18",
+					"indices": [
+						17,
+						23
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5634392,
+			"id_str": "5634392",
+			"name": "Darren Kuropatwa",
+			"screen_name": "dkuropatwa",
+			"location": "Winnipeg, Manitoba, Canada",
+			"description": "Educator. Always in beta ∞β.",
+			"url": "https://t.co/FJEo2rIADF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FJEo2rIADF",
+							"expanded_url": "http://adifference.blogspot.com",
+							"display_url": "adifference.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6835,
+			"friends_count": 2702,
+			"listed_count": 459,
+			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
+			"favourites_count": 421,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 24915,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "67CD67",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "#Reflection from #BLC18 One of the ways people’s thinking changed: “I used to think inquiry is a method. Now I think inquiry is a culture.”"
 	},
 	{
 		"created_at": "Mon Jul 30 10:57:54 +0000 2018",
 		"id": 1023885389537439700,
 		"id_str": "1023885389537439744",
-		"text": "Thanks JoAnn. https://t.co/6XmCTtF5lB",
+		"full_text": "Thanks JoAnn. https://t.co/6XmCTtF5lB",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			13
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -1846,8 +1978,8 @@ Grailbird.data.tweets_2018_07 =
 			"urls": [
 				{
 					"url": "https://t.co/6XmCTtF5lB",
-					"expanded_url": "https://twitter.com/joannjacobs68/status/1023772384178753536",
-					"display_url": "twitter.com/joannjacobs68/…",
+					"expanded_url": "https://twitter.com/JoAnnJacobs68/status/1023772384178753536",
+					"display_url": "twitter.com/JoAnnJacobs68/…",
 					"indices": [
 						14,
 						37
@@ -1888,16 +2020,16 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 6821,
-			"friends_count": 2642,
-			"listed_count": 463,
+			"followers_count": 6835,
+			"friends_count": 2702,
+			"listed_count": 459,
 			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
-			"favourites_count": 401,
+			"favourites_count": 421,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 24845,
+			"statuses_count": 24915,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1929,12 +2061,21 @@ Grailbird.data.tweets_2018_07 =
 		"is_quote_status": true,
 		"quoted_status_id": 1023772384178753500,
 		"quoted_status_id_str": "1023772384178753536",
+		"quoted_status_permalink": {
+			"url": "https://t.co/6XmCTtF5lB",
+			"expanded": "https://twitter.com/JoAnnJacobs68/status/1023772384178753536",
+			"display": "twitter.com/JoAnnJacobs68/…"
+		},
 		"quoted_status": {
 			"created_at": "Mon Jul 30 03:28:51 +0000 2018",
 			"id": 1023772384178753500,
 			"id_str": "1023772384178753536",
-			"text": "@dkuropatwa What really resonated with me from Behind Their Eyes was \"Feedback given at the end of learning is judg… https://t.co/Okf2g1IP3D",
-			"truncated": true,
+			"full_text": "@dkuropatwa What really resonated with me from Behind Their Eyes was \"Feedback given at the end of learning is judgement not feedback.\" So true, there is no chance to improve which is the purpose of feedback.",
+			"truncated": false,
+			"display_text_range": [
+				12,
+				208
+			],
 			"entities": {
 				"hashtags": [],
 				"symbols": [],
@@ -1950,17 +2091,7 @@ Grailbird.data.tweets_2018_07 =
 						]
 					}
 				],
-				"urls": [
-					{
-						"url": "https://t.co/Okf2g1IP3D",
-						"expanded_url": "https://twitter.com/i/web/status/1023772384178753536",
-						"display_url": "twitter.com/i/web/status/1…",
-						"indices": [
-							117,
-							140
-						]
-					}
-				]
+				"urls": []
 			},
 			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
 			"in_reply_to_status_id": 1023600338316734500,
@@ -1974,7 +2105,7 @@ Grailbird.data.tweets_2018_07 =
 				"name": "JoAnn Jacobs",
 				"screen_name": "JoAnnJacobs68",
 				"location": "Aiea, Hawaii",
-				"description": "6th gr, social studies @midpac #flipgridcertified believer in #stuvoice #stuchoice #sel #globallearning Loves books, dogs, photography, basketball, & life",
+				"description": "6th gr, social studies @midpac #flipgridcertified Mystery \nSkype Master #stuvoice  #globallearning Loves books, dogs, photography, basketball, & life",
 				"url": null,
 				"entities": {
 					"description": {
@@ -1982,16 +2113,16 @@ Grailbird.data.tweets_2018_07 =
 					}
 				},
 				"protected": false,
-				"followers_count": 5838,
-				"friends_count": 5631,
-				"listed_count": 399,
+				"followers_count": 5917,
+				"friends_count": 5837,
+				"listed_count": 389,
 				"created_at": "Tue Jun 08 23:16:57 +0000 2010",
-				"favourites_count": 5476,
+				"favourites_count": 7044,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": false,
-				"statuses_count": 26709,
+				"statuses_count": 27504,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -2028,18 +2159,23 @@ Grailbird.data.tweets_2018_07 =
 			"lang": "en"
 		},
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Thanks JoAnn. https://t.co/6XmCTtF5lB"
 	},
 	{
 		"created_at": "Mon Jul 30 02:39:37 +0000 2018",
 		"id": 1023759993034682400,
 		"id_str": "1023759993034682369",
-		"text": "@paulbogush Thanks for the heads up Paul. I’ve been putting that off, now it’s crunch time. :-)",
+		"full_text": "@paulbogush Thanks for the heads up Paul. I’ve been putting that off, now it’s crunch time. :-)",
 		"truncated": false,
+		"display_text_range": [
+			12,
+			95
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -2090,16 +2226,16 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 6820,
-			"friends_count": 2643,
-			"listed_count": 463,
+			"followers_count": 6835,
+			"friends_count": 2702,
+			"listed_count": 459,
 			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
-			"favourites_count": 401,
+			"favourites_count": 421,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 24844,
+			"statuses_count": 24915,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2133,14 +2269,19 @@ Grailbird.data.tweets_2018_07 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@paulbogush Thanks for the heads up Paul. I’ve been putting that off, now it’s crunch time. :-)"
 	},
 	{
 		"created_at": "Mon Jul 30 02:38:10 +0000 2018",
 		"id": 1023759629757702100,
 		"id_str": "1023759629757702146",
-		"text": "Towards a #Pedagogy for Everyone (Not Just the \"Oppressed\"): The Engaged Classroom Today https://t.co/0lsZtnX7tP",
+		"full_text": "Towards a #Pedagogy for Everyone (Not Just the \"Oppressed\"): The Engaged Classroom Today https://t.co/0lsZtnX7tP",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
 		"entities": {
 			"hashtags": [
 				{
@@ -2198,16 +2339,16 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 6820,
-			"friends_count": 2643,
-			"listed_count": 463,
+			"followers_count": 6835,
+			"friends_count": 2702,
+			"listed_count": 459,
 			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
-			"favourites_count": 401,
+			"favourites_count": 421,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 24844,
+			"statuses_count": 24915,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2242,14 +2383,19 @@ Grailbird.data.tweets_2018_07 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Towards a #Pedagogy for Everyone (Not Just the \"Oppressed\"): The Engaged Classroom Today https://t.co/0lsZtnX7tP"
 	},
 	{
 		"created_at": "Mon Jul 30 02:14:37 +0000 2018",
 		"id": 1023753699611603000,
 		"id_str": "1023753699611602944",
-		"text": "#Learning The first 20 hours -- how to learn anything | Josh Kaufman | TEDxCSU  https://t.co/RPL2mbkWnh",
+		"full_text": "#Learning The first 20 hours -- how to learn anything | Josh Kaufman | TEDxCSU  https://t.co/RPL2mbkWnh",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
 		"entities": {
 			"hashtags": [
 				{
@@ -2307,16 +2453,16 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 6820,
-			"friends_count": 2643,
-			"listed_count": 463,
+			"followers_count": 6835,
+			"friends_count": 2702,
+			"listed_count": 459,
 			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
-			"favourites_count": 401,
+			"favourites_count": 421,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 24842,
+			"statuses_count": 24915,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2351,14 +2497,19 @@ Grailbird.data.tweets_2018_07 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "#Learning The first 20 hours -- how to learn anything | Josh Kaufman | TEDxCSU  https://t.co/RPL2mbkWnh"
 	},
 	{
 		"created_at": "Mon Jul 30 02:06:14 +0000 2018",
 		"id": 1023751592942678000,
 		"id_str": "1023751592942678016",
-		"text": "How Real Leaders Melt The Iceberg of Ignorance With Humility  https://t.co/koYV3IxNXr #leadership",
+		"full_text": "How Real Leaders Melt The Iceberg of Ignorance With Humility  https://t.co/koYV3IxNXr #leadership",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
 		"entities": {
 			"hashtags": [
 				{
@@ -2416,16 +2567,16 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 6820,
-			"friends_count": 2643,
-			"listed_count": 463,
+			"followers_count": 6835,
+			"friends_count": 2702,
+			"listed_count": 459,
 			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
-			"favourites_count": 401,
+			"favourites_count": 421,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 24842,
+			"statuses_count": 24915,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2455,19 +2606,24 @@ Grailbird.data.tweets_2018_07 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 0,
+		"retweet_count": 1,
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "How Real Leaders Melt The Iceberg of Ignorance With Humility  https://t.co/koYV3IxNXr #leadership"
 	},
 	{
 		"created_at": "Sun Jul 29 17:55:02 +0000 2018",
 		"id": 1023627975206596600,
 		"id_str": "1023627975206596608",
-		"text": "@JoyKirr @tsocko Thanks Joy. :-) Glad to bandy about ideas with you too. Anytime. I’m your huckleberry.",
+		"full_text": "@JoyKirr @tsocko Thanks Joy. :-) Glad to bandy about ideas with you too. Anytime. I’m your huckleberry.",
 		"truncated": false,
+		"display_text_range": [
+			17,
+			103
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -2528,16 +2684,16 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 6817,
-			"friends_count": 2640,
-			"listed_count": 463,
+			"followers_count": 6835,
+			"friends_count": 2702,
+			"listed_count": 459,
 			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
-			"favourites_count": 401,
+			"favourites_count": 421,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 24840,
+			"statuses_count": 24915,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2571,14 +2727,19 @@ Grailbird.data.tweets_2018_07 =
 		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@JoyKirr @tsocko Thanks Joy. :-) Glad to bandy about ideas with you too. Anytime. I’m your huckleberry."
 	},
 	{
 		"created_at": "Sun Jul 29 17:53:04 +0000 2018",
 		"id": 1023627481767653400,
 		"id_str": "1023627481767653376",
-		"text": "@tsocko @JoyKirr @rlfreedm @lainierowell @paulbogush @SamMandeville @nbartley6 @Stefanowicz135 @cjgosselin Put it i… https://t.co/MCJgRXP8yT",
-		"truncated": true,
+		"full_text": "@tsocko @JoyKirr @rlfreedm @lainierowell @paulbogush @SamMandeville @nbartley6 @Stefanowicz135 @cjgosselin Put it in your calendar. We’ll bandy about some ideas. Mon or Tue work for you? :-)",
+		"truncated": false,
+		"display_text_range": [
+			107,
+			190
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -2635,7 +2796,7 @@ Grailbird.data.tweets_2018_07 =
 				},
 				{
 					"screen_name": "SamMandeville",
-					"name": "Sam Mandeville",
+					"name": "Sam Mandeville 🌎",
 					"id": 756167413637517300,
 					"id_str": "756167413637517312",
 					"indices": [
@@ -2674,17 +2835,7 @@ Grailbird.data.tweets_2018_07 =
 					]
 				}
 			],
-			"urls": [
-				{
-					"url": "https://t.co/MCJgRXP8yT",
-					"expanded_url": "https://twitter.com/i/web/status/1023627481767653376",
-					"display_url": "twitter.com/i/web/status/1…",
-					"indices": [
-						117,
-						140
-					]
-				}
-			]
+			"urls": []
 		},
 		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
 		"in_reply_to_status_id": 1023614081083863000,
@@ -2719,16 +2870,16 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 6817,
-			"friends_count": 2640,
-			"listed_count": 463,
+			"followers_count": 6835,
+			"friends_count": 2702,
+			"listed_count": 459,
 			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
-			"favourites_count": 401,
+			"favourites_count": 421,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 24840,
+			"statuses_count": 24915,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2762,109 +2913,185 @@ Grailbird.data.tweets_2018_07 =
 		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@tsocko @JoyKirr @rlfreedm @lainierowell @paulbogush @SamMandeville @nbartley6 @Stefanowicz135 @cjgosselin Put it in your calendar. We’ll bandy about some ideas. Mon or Tue work for you? :-)"
 	},
 	{
-		"created_at": "Sun Jul 29 16:26:05 +0000 2018",
-		"id": 1023605593557409800,
-		"id_str": "1023605593557409793",
-		"text": "RT @MrsYav: Finally getting around to posting this last #sketchnote from #BLC18! 🙈 so much wonderful stuff to process!\n\nHow do we build a c…",
+		"created_at": "Sun Jul 29 14:31:15 +0000 2018",
+		"id": 1023576693926256600,
+		"id_str": "1023576693926256640",
+		"full_text": "Finally getting around to posting this last #sketchnote from #BLC18! 🙈 so much wonderful stuff to process!\n\nHow do we build a culture of inquiry 🧐 &amp; curiosity 🤔? Because that’s what #learning is all about. Always a joy to learn from ⁦@dkuropatwa⁩ https://t.co/JEbrqZ9L1R",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			250
+		],
 		"entities": {
 			"hashtags": [
 				{
 					"text": "sketchnote",
 					"indices": [
-						56,
-						67
+						44,
+						55
 					]
 				},
 				{
 					"text": "BLC18",
 					"indices": [
-						73,
-						79
+						61,
+						67
+					]
+				},
+				{
+					"text": "learning",
+					"indices": [
+						186,
+						195
 					]
 				}
 			],
 			"symbols": [],
 			"user_mentions": [
 				{
-					"screen_name": "MrsYav",
-					"name": "Bianca Yavelak",
-					"id": 453508069,
-					"id_str": "453508069",
+					"screen_name": "dkuropatwa",
+					"name": "Darren Kuropatwa",
+					"id": 5634392,
+					"id_str": "5634392",
 					"indices": [
-						3,
-						10
+						238,
+						249
 					]
 				}
 			],
-			"urls": []
+			"urls": [],
+			"media": [
+				{
+					"id": 1023576692055531500,
+					"id_str": "1023576692055531522",
+					"indices": [
+						251,
+						274
+					],
+					"media_url": "http://pbs.twimg.com/media/DjR5lApW4AIgmQ8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DjR5lApW4AIgmQ8.jpg",
+					"url": "https://t.co/JEbrqZ9L1R",
+					"display_url": "pic.twitter.com/JEbrqZ9L1R",
+					"expanded_url": "https://twitter.com/MrsYav/status/1023576693926256640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 899,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1535,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
 		},
-		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1023576692055531500,
+					"id_str": "1023576692055531522",
+					"indices": [
+						251,
+						274
+					],
+					"media_url": "http://pbs.twimg.com/media/DjR5lApW4AIgmQ8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DjR5lApW4AIgmQ8.jpg",
+					"url": "https://t.co/JEbrqZ9L1R",
+					"display_url": "pic.twitter.com/JEbrqZ9L1R",
+					"expanded_url": "https://twitter.com/MrsYav/status/1023576693926256640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 899,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1535,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
 		"in_reply_to_status_id": null,
 		"in_reply_to_status_id_str": null,
 		"in_reply_to_user_id": null,
 		"in_reply_to_user_id_str": null,
 		"in_reply_to_screen_name": null,
 		"user": {
-			"id": 5634392,
-			"id_str": "5634392",
-			"name": "Darren Kuropatwa",
-			"screen_name": "dkuropatwa",
-			"location": "Winnipeg, Manitoba, Canada",
-			"description": "Educator. Always in beta ∞β.",
-			"url": "https://t.co/FJEo2rIADF",
+			"id": 453508069,
+			"id_str": "453508069",
+			"name": "Bianca Yavelak",
+			"screen_name": "MrsYav",
+			"location": "Gastonia NC",
+			"description": "Mom 👨‍👩‍👦‍👦 Educator 🔍 Nerd extraordinaire 🧝🏻‍♀️👩🏻‍🚀👩🏼‍🏫 (aka #science #sketchnotes & #popculture, oh my!)",
+			"url": null,
 			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/FJEo2rIADF",
-							"expanded_url": "http://adifference.blogspot.com",
-							"display_url": "adifference.blogspot.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
 				"description": {
 					"urls": []
 				}
 			},
 			"protected": false,
-			"followers_count": 6815,
-			"friends_count": 2640,
-			"listed_count": 463,
-			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
-			"favourites_count": 401,
+			"followers_count": 410,
+			"friends_count": 269,
+			"listed_count": 14,
+			"created_at": "Tue Jan 03 00:32:11 +0000 2012",
+			"favourites_count": 943,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
-			"verified": true,
-			"statuses_count": 24838,
+			"verified": false,
+			"statuses_count": 2845,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
-			"profile_background_color": "9AE4E8",
+			"profile_background_color": "C0DEED",
 			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": true,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
-			"profile_link_color": "0000FF",
-			"profile_sidebar_border_color": "FFFFFF",
-			"profile_sidebar_fill_color": "67CD67",
-			"profile_text_color": "000000",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3527539394/98a8cfe4255c64a89b0ffb409fbded11_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3527539394/98a8cfe4255c64a89b0ffb409fbded11_normal.jpeg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
 			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": false,
+			"has_extended_profile": false,
+			"default_profile": true,
 			"default_profile_image": false,
-			"following": false,
+			"following": true,
 			"follow_request_sent": false,
 			"notifications": false,
 			"translator_type": "none"
@@ -2873,121 +3100,25 @@ Grailbird.data.tweets_2018_07 =
 		"coordinates": null,
 		"place": null,
 		"contributors": null,
-		"retweeted_status": {
-			"created_at": "Sun Jul 29 14:31:15 +0000 2018",
-			"id": 1023576693926256600,
-			"id_str": "1023576693926256640",
-			"text": "Finally getting around to posting this last #sketchnote from #BLC18! 🙈 so much wonderful stuff to process!\n\nHow do… https://t.co/A7wW7jrt3z",
-			"truncated": true,
-			"entities": {
-				"hashtags": [
-					{
-						"text": "sketchnote",
-						"indices": [
-							44,
-							55
-						]
-					},
-					{
-						"text": "BLC18",
-						"indices": [
-							61,
-							67
-						]
-					}
-				],
-				"symbols": [],
-				"user_mentions": [],
-				"urls": [
-					{
-						"url": "https://t.co/A7wW7jrt3z",
-						"expanded_url": "https://twitter.com/i/web/status/1023576693926256640",
-						"display_url": "twitter.com/i/web/status/1…",
-						"indices": [
-							116,
-							139
-						]
-					}
-				]
-			},
-			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
-			"in_reply_to_status_id": null,
-			"in_reply_to_status_id_str": null,
-			"in_reply_to_user_id": null,
-			"in_reply_to_user_id_str": null,
-			"in_reply_to_screen_name": null,
-			"user": {
-				"id": 453508069,
-				"id_str": "453508069",
-				"name": "Bianca Yavelak",
-				"screen_name": "MrsYav",
-				"location": "Gastonia NC",
-				"description": "Mom. Teacher. Nerd extraordinaire.",
-				"url": null,
-				"entities": {
-					"description": {
-						"urls": []
-					}
-				},
-				"protected": false,
-				"followers_count": 401,
-				"friends_count": 253,
-				"listed_count": 15,
-				"created_at": "Tue Jan 03 00:32:11 +0000 2012",
-				"favourites_count": 764,
-				"utc_offset": null,
-				"time_zone": null,
-				"geo_enabled": false,
-				"verified": false,
-				"statuses_count": 2763,
-				"lang": "en",
-				"contributors_enabled": false,
-				"is_translator": false,
-				"is_translation_enabled": false,
-				"profile_background_color": "C0DEED",
-				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-				"profile_background_tile": false,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/3527539394/98a8cfe4255c64a89b0ffb409fbded11_normal.jpeg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3527539394/98a8cfe4255c64a89b0ffb409fbded11_normal.jpeg",
-				"profile_link_color": "1DA1F2",
-				"profile_sidebar_border_color": "C0DEED",
-				"profile_sidebar_fill_color": "DDEEF6",
-				"profile_text_color": "333333",
-				"profile_use_background_image": true,
-				"has_extended_profile": false,
-				"default_profile": true,
-				"default_profile_image": false,
-				"following": true,
-				"follow_request_sent": false,
-				"notifications": false,
-				"translator_type": "none"
-			},
-			"geo": null,
-			"coordinates": null,
-			"place": null,
-			"contributors": null,
-			"is_quote_status": false,
-			"retweet_count": 2,
-			"favorite_count": 7,
-			"favorited": true,
-			"retweeted": true,
-			"possibly_sensitive": false,
-			"lang": "en"
-		},
 		"is_quote_status": false,
-		"retweet_count": 2,
-		"favorite_count": 0,
+		"retweet_count": 6,
+		"favorite_count": 15,
 		"favorited": true,
 		"retweeted": true,
-		"lang": "en"
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Finally getting around to posting this last #sketchnote from #BLC18! 🙈 so much wonderful stuff to process!\n\nHow do we build a culture of inquiry 🧐 &amp; curiosity 🤔? Because that’s what #learning is all about. Always a joy to learn from ⁦@dkuropatwa⁩ https://t.co/JEbrqZ9L1R"
 	},
 	{
 		"created_at": "Sun Jul 29 16:25:38 +0000 2018",
 		"id": 1023605479338123300,
 		"id_str": "1023605479338123265",
-		"text": "@MrsYav Wow! This is a truly fabulous sketchnote of the workshop, thanks so much for sharing this! It’s beautiful too. :-)",
+		"full_text": "@MrsYav Wow! This is a truly fabulous sketchnote of the workshop, thanks so much for sharing this! It’s beautiful too. :-)",
 		"truncated": false,
+		"display_text_range": [
+			8,
+			122
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -3038,16 +3169,16 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 6815,
-			"friends_count": 2640,
-			"listed_count": 463,
+			"followers_count": 6835,
+			"friends_count": 2702,
+			"listed_count": 459,
 			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
-			"favourites_count": 401,
+			"favourites_count": 421,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 24838,
+			"statuses_count": 24915,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -3081,14 +3212,19 @@ Grailbird.data.tweets_2018_07 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@MrsYav Wow! This is a truly fabulous sketchnote of the workshop, thanks so much for sharing this! It’s beautiful too. :-)"
 	},
 	{
 		"created_at": "Sun Jul 29 16:22:26 +0000 2018",
 		"id": 1023604674778357800,
 		"id_str": "1023604674778357760",
-		"text": "@tsocko @JoyKirr @rlfreedm @lainierowell @paulbogush @SamMandeville @nbartley6 @Stefanowicz135 @cjgosselin Thanks f… https://t.co/ECyKzpn4ed",
-		"truncated": true,
+		"full_text": "@tsocko @JoyKirr @rlfreedm @lainierowell @paulbogush @SamMandeville @nbartley6 @Stefanowicz135 @cjgosselin Thanks for this post Tracy. It was a fabulous blog post. You gave me lots to think about. We should Hangout soon, I’ve got some ideas I love to bandy about with you. :-)",
+		"truncated": false,
+		"display_text_range": [
+			107,
+			276
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -3145,7 +3281,7 @@ Grailbird.data.tweets_2018_07 =
 				},
 				{
 					"screen_name": "SamMandeville",
-					"name": "Sam Mandeville",
+					"name": "Sam Mandeville 🌎",
 					"id": 756167413637517300,
 					"id_str": "756167413637517312",
 					"indices": [
@@ -3184,17 +3320,7 @@ Grailbird.data.tweets_2018_07 =
 					]
 				}
 			],
-			"urls": [
-				{
-					"url": "https://t.co/ECyKzpn4ed",
-					"expanded_url": "https://twitter.com/i/web/status/1023604674778357760",
-					"display_url": "twitter.com/i/web/status/1…",
-					"indices": [
-						117,
-						140
-					]
-				}
-			]
+			"urls": []
 		},
 		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
 		"in_reply_to_status_id": 1023574602583302100,
@@ -3229,16 +3355,16 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 6815,
-			"friends_count": 2640,
-			"listed_count": 463,
+			"followers_count": 6835,
+			"friends_count": 2702,
+			"listed_count": 459,
 			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
-			"favourites_count": 401,
+			"favourites_count": 421,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 24838,
+			"statuses_count": 24915,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -3272,14 +3398,19 @@ Grailbird.data.tweets_2018_07 =
 		"favorite_count": 3,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@tsocko @JoyKirr @rlfreedm @lainierowell @paulbogush @SamMandeville @nbartley6 @Stefanowicz135 @cjgosselin Thanks for this post Tracy. It was a fabulous blog post. You gave me lots to think about. We should Hangout soon, I’ve got some ideas I love to bandy about with you. :-)"
 	},
 	{
 		"created_at": "Sun Jul 29 16:09:49 +0000 2018",
 		"id": 1023601498817798100,
 		"id_str": "1023601498817798146",
-		"text": "#Reflection from #BLC18 One of the ways people’s thinking changed: “I used to think learning happened even if stude… https://t.co/G0iT0MG5zb",
-		"truncated": true,
+		"full_text": "#Reflection from #BLC18 One of the ways people’s thinking changed: “I used to think learning happened even if students didn't engage with the topic. Now I think learning only happens when there is reflection on what is learned with doable action &amp; we've ‘changed the brain’.”",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
 		"entities": {
 			"hashtags": [
 				{
@@ -3299,17 +3430,7 @@ Grailbird.data.tweets_2018_07 =
 			],
 			"symbols": [],
 			"user_mentions": [],
-			"urls": [
-				{
-					"url": "https://t.co/G0iT0MG5zb",
-					"expanded_url": "https://twitter.com/i/web/status/1023601498817798146",
-					"display_url": "twitter.com/i/web/status/1…",
-					"indices": [
-						117,
-						140
-					]
-				}
-			]
+			"urls": []
 		},
 		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
 		"in_reply_to_status_id": null,
@@ -3344,16 +3465,16 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 6815,
-			"friends_count": 2636,
-			"listed_count": 463,
+			"followers_count": 6835,
+			"friends_count": 2702,
+			"listed_count": 459,
 			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
-			"favourites_count": 400,
+			"favourites_count": 421,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 24835,
+			"statuses_count": 24915,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -3362,8 +3483,8 @@ Grailbird.data.tweets_2018_07 =
 			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": true,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
 			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
 			"profile_link_color": "0000FF",
 			"profile_sidebar_border_color": "FFFFFF",
@@ -3383,18 +3504,23 @@ Grailbird.data.tweets_2018_07 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 1,
-		"favorite_count": 0,
+		"retweet_count": 5,
+		"favorite_count": 8,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "#Reflection from #BLC18 One of the ways people’s thinking changed: “I used to think learning happened even if students didn't engage with the topic. Now I think learning only happens when there is reflection on what is learned with doable action &amp; we've ‘changed the brain’.”"
 	},
 	{
 		"created_at": "Sun Jul 29 16:05:12 +0000 2018",
 		"id": 1023600338316734500,
 		"id_str": "1023600338316734469",
-		"text": "#Reflection from #BLC18 Some of the ways thinking changed after learning with me: Behind Their Eyes(making thinking… https://t.co/CuqeREuYqs",
-		"truncated": true,
+		"full_text": "#Reflection from #BLC18 Some of the ways thinking changed after learning with me: Behind Their Eyes(making thinking visible isn’t enough): “I used to think metacognition (reflecting on thinking) was of average value. Now I think it should be more intentional in my lesson design.”",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
 		"entities": {
 			"hashtags": [
 				{
@@ -3414,17 +3540,7 @@ Grailbird.data.tweets_2018_07 =
 			],
 			"symbols": [],
 			"user_mentions": [],
-			"urls": [
-				{
-					"url": "https://t.co/CuqeREuYqs",
-					"expanded_url": "https://twitter.com/i/web/status/1023600338316734469",
-					"display_url": "twitter.com/i/web/status/1…",
-					"indices": [
-						117,
-						140
-					]
-				}
-			]
+			"urls": []
 		},
 		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
 		"in_reply_to_status_id": null,
@@ -3459,16 +3575,16 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 6815,
-			"friends_count": 2636,
-			"listed_count": 463,
+			"followers_count": 6835,
+			"friends_count": 2702,
+			"listed_count": 459,
 			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
-			"favourites_count": 400,
+			"favourites_count": 421,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 24835,
+			"statuses_count": 24915,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -3477,8 +3593,8 @@ Grailbird.data.tweets_2018_07 =
 			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": true,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
 			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
 			"profile_link_color": "0000FF",
 			"profile_sidebar_border_color": "FFFFFF",
@@ -3498,92 +3614,171 @@ Grailbird.data.tweets_2018_07 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 1,
-		"favorite_count": 0,
+		"retweet_count": 2,
+		"favorite_count": 2,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "#Reflection from #BLC18 Some of the ways thinking changed after learning with me: Behind Their Eyes(making thinking visible isn’t enough): “I used to think metacognition (reflecting on thinking) was of average value. Now I think it should be more intentional in my lesson design.”"
 	},
 	{
-		"created_at": "Sun Jul 29 11:55:39 +0000 2018",
-		"id": 1023537535216177200,
-		"id_str": "1023537535216177152",
-		"text": "RT @MindWise_CK: \"The soul never thinks without an image.\" - Aristotle #ArtOfNoticing #BLC18 #creativity #mindfulness #mindfulmoment #amome…",
+		"created_at": "Sat Jul 28 22:54:45 +0000 2018",
+		"id": 1023341017469251600,
+		"id_str": "1023341017469251584",
+		"full_text": "\"The soul never thinks without an image.\" - Aristotle #ArtOfNoticing #BLC18 #creativity #mindfulness #mindfulmoment #amomentofwonder https://t.co/nYISr6yw6W",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
 		"entities": {
 			"hashtags": [
 				{
 					"text": "ArtOfNoticing",
 					"indices": [
-						71,
-						85
+						54,
+						68
 					]
 				},
 				{
 					"text": "BLC18",
 					"indices": [
-						86,
-						92
+						69,
+						75
 					]
 				},
 				{
 					"text": "creativity",
 					"indices": [
-						93,
-						104
+						76,
+						87
 					]
 				},
 				{
 					"text": "mindfulness",
 					"indices": [
-						105,
-						117
+						88,
+						100
 					]
 				},
 				{
 					"text": "mindfulmoment",
 					"indices": [
-						118,
+						101,
+						115
+					]
+				},
+				{
+					"text": "amomentofwonder",
+					"indices": [
+						116,
 						132
 					]
 				}
 			],
 			"symbols": [],
-			"user_mentions": [
+			"user_mentions": [],
+			"urls": [],
+			"media": [
 				{
-					"screen_name": "MindWise_CK",
-					"name": "Caitlin E. Krause",
-					"id": 23375706,
-					"id_str": "23375706",
+					"id": 1023341002529038300,
+					"id_str": "1023341002529038337",
 					"indices": [
-						3,
-						15
-					]
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/DjOjOEvV4AEQnMt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DjOjOEvV4AEQnMt.jpg",
+					"url": "https://t.co/nYISr6yw6W",
+					"display_url": "pic.twitter.com/nYISr6yw6W",
+					"expanded_url": "https://twitter.com/MindWise_CK/status/1023341017469251584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
 				}
-			],
-			"urls": []
+			]
 		},
-		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1023341002529038300,
+					"id_str": "1023341002529038337",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/DjOjOEvV4AEQnMt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DjOjOEvV4AEQnMt.jpg",
+					"url": "https://t.co/nYISr6yw6W",
+					"display_url": "pic.twitter.com/nYISr6yw6W",
+					"expanded_url": "https://twitter.com/MindWise_CK/status/1023341017469251584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
 		"in_reply_to_status_id": null,
 		"in_reply_to_status_id_str": null,
 		"in_reply_to_user_id": null,
 		"in_reply_to_user_id_str": null,
 		"in_reply_to_screen_name": null,
 		"user": {
-			"id": 5634392,
-			"id_str": "5634392",
-			"name": "Darren Kuropatwa",
-			"screen_name": "dkuropatwa",
-			"location": "Winnipeg, Manitoba, Canada",
-			"description": "Educator. Always in beta ∞β.",
-			"url": "https://t.co/FJEo2rIADF",
+			"id": 23375706,
+			"id_str": "23375706",
+			"name": "Caitlin Krause",
+			"screen_name": "MindWise_CK",
+			"location": "Zürich 🇨🇭 • NYC 🇺🇸",
+			"description": "immersive story. design. mindfulness. #MindWise connection and wise leadership with AI VR AR in mind #AIforGood #MindfulbyDesign",
+			"url": "https://t.co/tgbNzs72s1",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/FJEo2rIADF",
-							"expanded_url": "http://adifference.blogspot.com",
-							"display_url": "adifference.blogspot.com",
+							"url": "https://t.co/tgbNzs72s1",
+							"expanded_url": "http://www.mindwise.pro",
+							"display_url": "mindwise.pro",
 							"indices": [
 								0,
 								23
@@ -3596,227 +3791,96 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 6815,
-			"friends_count": 2636,
-			"listed_count": 463,
-			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
-			"favourites_count": 400,
+			"followers_count": 2971,
+			"friends_count": 3344,
+			"listed_count": 342,
+			"created_at": "Mon Mar 09 00:16:54 +0000 2009",
+			"favourites_count": 8004,
 			"utc_offset": null,
 			"time_zone": null,
-			"geo_enabled": false,
-			"verified": true,
-			"statuses_count": 24833,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8812,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
-			"profile_background_color": "9AE4E8",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": true,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
-			"profile_link_color": "0000FF",
+			"profile_background_color": "020812",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1049998769662676994/owLwf2uE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1049998769662676994/owLwf2uE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/23375706/1512866473",
+			"profile_link_color": "0020C2",
 			"profile_sidebar_border_color": "FFFFFF",
-			"profile_sidebar_fill_color": "67CD67",
-			"profile_text_color": "000000",
+			"profile_sidebar_fill_color": "020812",
+			"profile_text_color": "17406C",
 			"profile_use_background_image": true,
 			"has_extended_profile": true,
 			"default_profile": false,
 			"default_profile_image": false,
-			"following": false,
+			"following": true,
 			"follow_request_sent": false,
 			"notifications": false,
 			"translator_type": "none"
 		},
 		"geo": null,
 		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"retweeted_status": {
-			"created_at": "Sat Jul 28 22:54:45 +0000 2018",
-			"id": 1023341017469251600,
-			"id_str": "1023341017469251584",
-			"text": "\"The soul never thinks without an image.\" - Aristotle #ArtOfNoticing #BLC18 #creativity #mindfulness #mindfulmoment… https://t.co/QVEKWwgIU1",
-			"truncated": true,
-			"entities": {
-				"hashtags": [
-					{
-						"text": "ArtOfNoticing",
-						"indices": [
-							54,
-							68
-						]
-					},
-					{
-						"text": "BLC18",
-						"indices": [
-							69,
-							75
-						]
-					},
-					{
-						"text": "creativity",
-						"indices": [
-							76,
-							87
-						]
-					},
-					{
-						"text": "mindfulness",
-						"indices": [
-							88,
-							100
-						]
-					},
-					{
-						"text": "mindfulmoment",
-						"indices": [
-							101,
-							115
-						]
-					}
-				],
-				"symbols": [],
-				"user_mentions": [],
-				"urls": [
-					{
-						"url": "https://t.co/QVEKWwgIU1",
-						"expanded_url": "https://twitter.com/i/web/status/1023341017469251584",
-						"display_url": "twitter.com/i/web/status/1…",
-						"indices": [
-							117,
-							140
-						]
-					}
-				]
-			},
-			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-			"in_reply_to_status_id": null,
-			"in_reply_to_status_id_str": null,
-			"in_reply_to_user_id": null,
-			"in_reply_to_user_id_str": null,
-			"in_reply_to_screen_name": null,
-			"user": {
-				"id": 23375706,
-				"id_str": "23375706",
-				"name": "Caitlin E. Krause",
-				"screen_name": "MindWise_CK",
-				"location": "Zürich 🇨🇭 & Boston 🇺🇸",
-				"description": "immersive story. design. mindfulness. #MindWise creative leadership design VR AR AI empathic edtech globalized #curiouscollab #robotmeetshuman #mindfulbydesign",
-				"url": "https://t.co/tgbNzs72s1",
-				"entities": {
-					"url": {
-						"urls": [
-							{
-								"url": "https://t.co/tgbNzs72s1",
-								"expanded_url": "http://www.mindwise.pro",
-								"display_url": "mindwise.pro",
-								"indices": [
-									0,
-									23
-								]
-							}
-						]
-					},
-					"description": {
-						"urls": []
-					}
-				},
-				"protected": false,
-				"followers_count": 2850,
-				"friends_count": 3058,
-				"listed_count": 337,
-				"created_at": "Mon Mar 09 00:16:54 +0000 2009",
-				"favourites_count": 7318,
-				"utc_offset": null,
-				"time_zone": null,
-				"geo_enabled": true,
-				"verified": false,
-				"statuses_count": 8530,
-				"lang": "en",
-				"contributors_enabled": false,
-				"is_translator": false,
-				"is_translation_enabled": false,
-				"profile_background_color": "020812",
-				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
-				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
-				"profile_background_tile": false,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/939653405932380160/mq9pKtKq_normal.jpg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/939653405932380160/mq9pKtKq_normal.jpg",
-				"profile_banner_url": "https://pbs.twimg.com/profile_banners/23375706/1512866473",
-				"profile_link_color": "0020C2",
-				"profile_sidebar_border_color": "FFFFFF",
-				"profile_sidebar_fill_color": "020812",
-				"profile_text_color": "17406C",
-				"profile_use_background_image": true,
-				"has_extended_profile": true,
-				"default_profile": false,
-				"default_profile_image": false,
-				"following": true,
-				"follow_request_sent": false,
-				"notifications": false,
-				"translator_type": "none"
-			},
-			"geo": null,
-			"coordinates": null,
-			"place": {
-				"id": "07d9c92916c84002",
-				"url": "https://api.twitter.com/1.1/geo/id/07d9c92916c84002.json",
-				"place_type": "poi",
-				"name": "Boston Public Garden",
-				"full_name": "Boston Public Garden",
-				"country_code": "",
-				"country": "",
-				"contained_within": [],
-				"bounding_box": {
-					"type": "Polygon",
-					"coordinates": [
+		"place": {
+			"id": "07d9c92916c84002",
+			"url": "https://api.twitter.com/1.1/geo/id/07d9c92916c84002.json",
+			"place_type": "poi",
+			"name": "Boston Public Garden",
+			"full_name": "Boston Public Garden",
+			"country_code": "",
+			"country": "",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
 						[
-							[
-								-71.06991291046143,
-								42.35411597423369
-							],
-							[
-								-71.06991291046143,
-								42.35411597423369
-							],
-							[
-								-71.06991291046143,
-								42.35411597423369
-							],
-							[
-								-71.06991291046143,
-								42.35411597423369
-							]
+							-71.06991291046143,
+							42.35411597423369
+						],
+						[
+							-71.06991291046143,
+							42.35411597423369
+						],
+						[
+							-71.06991291046143,
+							42.35411597423369
+						],
+						[
+							-71.06991291046143,
+							42.35411597423369
 						]
 					]
-				},
-				"attributes": {}
+				]
 			},
-			"contributors": null,
-			"is_quote_status": false,
-			"retweet_count": 3,
-			"favorite_count": 14,
-			"favorited": false,
-			"retweeted": true,
-			"possibly_sensitive": false,
-			"lang": "en"
+			"attributes": {}
 		},
+		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 3,
-		"favorite_count": 0,
+		"favorite_count": 21,
 		"favorited": false,
 		"retweeted": true,
-		"lang": "en"
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"The soul never thinks without an image.\" - Aristotle #ArtOfNoticing #BLC18 #creativity #mindfulness #mindfulmoment #amomentofwonder https://t.co/nYISr6yw6W"
 	},
 	{
 		"created_at": "Sat Jul 28 12:50:45 +0000 2018",
 		"id": 1023189012884987900,
 		"id_str": "1023189012884987904",
-		"text": "@ProfessorMike1 @flipyrthinking @MindWise_CK @rlfreedm @tsocko @BrianJMull @lainierowell @NLearning @VersoApp Welcome home buddy.",
+		"full_text": "@ProfessorMike1 @flipyrthinking @MindWise_CK @rlfreedm @tsocko @BrianJMull @lainierowell @NLearning @VersoApp Welcome home buddy.",
 		"truncated": false,
+		"display_text_range": [
+			110,
+			129
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -3843,7 +3907,7 @@ Grailbird.data.tweets_2018_07 =
 				},
 				{
 					"screen_name": "MindWise_CK",
-					"name": "Caitlin E. Krause",
+					"name": "Caitlin Krause",
 					"id": 23375706,
 					"id_str": "23375706",
 					"indices": [
@@ -3947,16 +4011,16 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 6815,
-			"friends_count": 2635,
-			"listed_count": 463,
+			"followers_count": 6835,
+			"friends_count": 2702,
+			"listed_count": 459,
 			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
-			"favourites_count": 399,
+			"favourites_count": 421,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 24832,
+			"statuses_count": 24915,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -3965,8 +4029,8 @@ Grailbird.data.tweets_2018_07 =
 			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": true,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
 			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
 			"profile_link_color": "0000FF",
 			"profile_sidebar_border_color": "FFFFFF",
@@ -3990,36 +4054,46 @@ Grailbird.data.tweets_2018_07 =
 		"favorite_count": 2,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@ProfessorMike1 @flipyrthinking @MindWise_CK @rlfreedm @tsocko @BrianJMull @lainierowell @NLearning @VersoApp Welcome home buddy."
 	},
 	{
-		"created_at": "Sat Jul 28 04:14:40 +0000 2018",
-		"id": 1023059138165858300,
-		"id_str": "1023059138165858304",
-		"text": "RT @barnillas: @dkuropatwa Pedagogy is OUR strategic framework. Pedagogical tactics are activities tied to our pedagogical framework. #visi…",
+		"created_at": "Thu Jul 26 18:15:01 +0000 2018",
+		"id": 1022545841310052400,
+		"id_str": "1022545841310052358",
+		"full_text": "@dkuropatwa Pedagogy is OUR strategic framework. Pedagogical tactics are activities tied to our pedagogical framework. #visiblethinking is important but not enough. Feedback must be actionable, otherwise it is judgement. We learn from reflection upon experience (Dewey) #BLC18",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
 		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [
+			"hashtags": [
 				{
-					"screen_name": "barnillas",
-					"name": "Beatriz Arnillas",
-					"id": 65504675,
-					"id_str": "65504675",
+					"text": "visiblethinking",
 					"indices": [
-						3,
-						13
+						119,
+						135
 					]
 				},
+				{
+					"text": "BLC18",
+					"indices": [
+						270,
+						276
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
 				{
 					"screen_name": "dkuropatwa",
 					"name": "Darren Kuropatwa",
 					"id": 5634392,
 					"id_str": "5634392",
 					"indices": [
-						15,
-						26
+						0,
+						11
 					]
 				}
 			],
@@ -4028,24 +4102,24 @@ Grailbird.data.tweets_2018_07 =
 		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
 		"in_reply_to_status_id": null,
 		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
+		"in_reply_to_user_id": 5634392,
+		"in_reply_to_user_id_str": "5634392",
+		"in_reply_to_screen_name": "dkuropatwa",
 		"user": {
-			"id": 5634392,
-			"id_str": "5634392",
-			"name": "Darren Kuropatwa",
-			"screen_name": "dkuropatwa",
-			"location": "Winnipeg, Manitoba, Canada",
-			"description": "Educator. Always in beta ∞β.",
-			"url": "https://t.co/FJEo2rIADF",
+			"id": 65504675,
+			"id_str": "65504675",
+			"name": "Beatriz Arnillas",
+			"screen_name": "barnillas",
+			"location": "Palm Beach, FL",
+			"description": "#EdTech and visual artist. Good design holds true for both. Interested in #k12 #LearningEcosystems #design #travel gardening #ISTEMLN",
+			"url": "https://t.co/9U56r9IOQL",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/FJEo2rIADF",
-							"expanded_url": "http://adifference.blogspot.com",
-							"display_url": "adifference.blogspot.com",
+							"url": "https://t.co/9U56r9IOQL",
+							"expanded_url": "http://itslearning.com",
+							"display_url": "itslearning.com",
 							"indices": [
 								0,
 								23
@@ -4058,32 +4132,32 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 6813,
-			"friends_count": 2635,
-			"listed_count": 463,
-			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
-			"favourites_count": 399,
+			"followers_count": 1904,
+			"friends_count": 2057,
+			"listed_count": 107,
+			"created_at": "Thu Aug 13 23:50:18 +0000 2009",
+			"favourites_count": 1877,
 			"utc_offset": null,
 			"time_zone": null,
-			"geo_enabled": false,
-			"verified": true,
-			"statuses_count": 24831,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3358,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
-			"profile_background_color": "9AE4E8",
+			"profile_background_color": "000000",
 			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": true,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
-			"profile_link_color": "0000FF",
-			"profile_sidebar_border_color": "FFFFFF",
-			"profile_sidebar_fill_color": "67CD67",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/903296112085356548/jNN1MkuS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/903296112085356548/jNN1MkuS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/65504675/1504198135",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
 			"profile_text_color": "000000",
-			"profile_use_background_image": true,
+			"profile_use_background_image": false,
 			"has_extended_profile": true,
 			"default_profile": false,
 			"default_profile_image": false,
@@ -4096,130 +4170,24 @@ Grailbird.data.tweets_2018_07 =
 		"coordinates": null,
 		"place": null,
 		"contributors": null,
-		"retweeted_status": {
-			"created_at": "Thu Jul 26 18:15:01 +0000 2018",
-			"id": 1022545841310052400,
-			"id_str": "1022545841310052358",
-			"text": "@dkuropatwa Pedagogy is OUR strategic framework. Pedagogical tactics are activities tied to our pedagogical framewo… https://t.co/YK2Ow1RqK1",
-			"truncated": true,
-			"entities": {
-				"hashtags": [],
-				"symbols": [],
-				"user_mentions": [
-					{
-						"screen_name": "dkuropatwa",
-						"name": "Darren Kuropatwa",
-						"id": 5634392,
-						"id_str": "5634392",
-						"indices": [
-							0,
-							11
-						]
-					}
-				],
-				"urls": [
-					{
-						"url": "https://t.co/YK2Ow1RqK1",
-						"expanded_url": "https://twitter.com/i/web/status/1022545841310052358",
-						"display_url": "twitter.com/i/web/status/1…",
-						"indices": [
-							117,
-							140
-						]
-					}
-				]
-			},
-			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-			"in_reply_to_status_id": null,
-			"in_reply_to_status_id_str": null,
-			"in_reply_to_user_id": 5634392,
-			"in_reply_to_user_id_str": "5634392",
-			"in_reply_to_screen_name": "dkuropatwa",
-			"user": {
-				"id": 65504675,
-				"id_str": "65504675",
-				"name": "Beatriz Arnillas",
-				"screen_name": "barnillas",
-				"location": "Palm Beach, FL",
-				"description": "#EdTech and visual artist. Good design holds true for both. Interested in #k12 #LearningEcosystems #design #travel gardening #ISTEMLN",
-				"url": "https://t.co/9U56r9IOQL",
-				"entities": {
-					"url": {
-						"urls": [
-							{
-								"url": "https://t.co/9U56r9IOQL",
-								"expanded_url": "http://itslearning.com",
-								"display_url": "itslearning.com",
-								"indices": [
-									0,
-									23
-								]
-							}
-						]
-					},
-					"description": {
-						"urls": []
-					}
-				},
-				"protected": false,
-				"followers_count": 1845,
-				"friends_count": 2231,
-				"listed_count": 107,
-				"created_at": "Thu Aug 13 23:50:18 +0000 2009",
-				"favourites_count": 1602,
-				"utc_offset": null,
-				"time_zone": null,
-				"geo_enabled": true,
-				"verified": false,
-				"statuses_count": 3187,
-				"lang": "en",
-				"contributors_enabled": false,
-				"is_translator": false,
-				"is_translation_enabled": false,
-				"profile_background_color": "000000",
-				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-				"profile_background_tile": false,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/903296112085356548/jNN1MkuS_normal.jpg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/903296112085356548/jNN1MkuS_normal.jpg",
-				"profile_banner_url": "https://pbs.twimg.com/profile_banners/65504675/1504198135",
-				"profile_link_color": "ABB8C2",
-				"profile_sidebar_border_color": "000000",
-				"profile_sidebar_fill_color": "000000",
-				"profile_text_color": "000000",
-				"profile_use_background_image": false,
-				"has_extended_profile": true,
-				"default_profile": false,
-				"default_profile_image": false,
-				"following": false,
-				"follow_request_sent": false,
-				"notifications": false,
-				"translator_type": "none"
-			},
-			"geo": null,
-			"coordinates": null,
-			"place": null,
-			"contributors": null,
-			"is_quote_status": false,
-			"retweet_count": 1,
-			"favorite_count": 1,
-			"favorited": false,
-			"retweeted": true,
-			"lang": "en"
-		},
 		"is_quote_status": false,
 		"retweet_count": 1,
-		"favorite_count": 0,
+		"favorite_count": 3,
 		"favorited": false,
 		"retweeted": true,
-		"lang": "en"
+		"lang": "en",
+		"text": "@dkuropatwa Pedagogy is OUR strategic framework. Pedagogical tactics are activities tied to our pedagogical framework. #visiblethinking is important but not enough. Feedback must be actionable, otherwise it is judgement. We learn from reflection upon experience (Dewey) #BLC18"
 	},
 	{
 		"created_at": "Sat Jul 28 04:14:16 +0000 2018",
 		"id": 1023059036797890600,
 		"id_str": "1023059036797890560",
-		"text": "@weltyteaching Thanks Dan!",
+		"full_text": "@weltyteaching Thanks Dan!",
 		"truncated": false,
+		"display_text_range": [
+			15,
+			26
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -4270,16 +4238,16 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 6813,
-			"friends_count": 2635,
-			"listed_count": 463,
+			"followers_count": 6835,
+			"friends_count": 2702,
+			"listed_count": 459,
 			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
-			"favourites_count": 399,
+			"favourites_count": 421,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 24831,
+			"statuses_count": 24915,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -4288,8 +4256,8 @@ Grailbird.data.tweets_2018_07 =
 			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": true,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
 			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
 			"profile_link_color": "0000FF",
 			"profile_sidebar_border_color": "FFFFFF",
@@ -4310,17 +4278,22 @@ Grailbird.data.tweets_2018_07 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@weltyteaching Thanks Dan!"
 	},
 	{
 		"created_at": "Sat Jul 28 04:02:36 +0000 2018",
 		"id": 1023056100193648600,
 		"id_str": "1023056100193648640",
-		"text": "@tsocko @JoyKirr @mrmattnuttall I’m in!",
+		"full_text": "@tsocko @JoyKirr @mrmattnuttall I’m in!",
 		"truncated": false,
+		"display_text_range": [
+			32,
+			39
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -4391,16 +4364,16 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 6813,
-			"friends_count": 2635,
-			"listed_count": 463,
+			"followers_count": 6835,
+			"friends_count": 2702,
+			"listed_count": 459,
 			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
-			"favourites_count": 399,
+			"favourites_count": 421,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 24831,
+			"statuses_count": 24915,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -4409,8 +4382,8 @@ Grailbird.data.tweets_2018_07 =
 			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": true,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
 			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
 			"profile_link_color": "0000FF",
 			"profile_sidebar_border_color": "FFFFFF",
@@ -4431,17 +4404,22 @@ Grailbird.data.tweets_2018_07 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 2,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@tsocko @JoyKirr @mrmattnuttall I’m in!"
 	},
 	{
 		"created_at": "Sat Jul 28 00:17:04 +0000 2018",
 		"id": 1022999341299056600,
 		"id_str": "1022999341299056640",
-		"text": "@tsocko @NLearning Looking forward to it!",
+		"full_text": "@tsocko @NLearning Looking forward to it!",
 		"truncated": false,
+		"display_text_range": [
+			19,
+			41
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -4502,16 +4480,16 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 6811,
-			"friends_count": 2635,
-			"listed_count": 463,
+			"followers_count": 6835,
+			"friends_count": 2702,
+			"listed_count": 459,
 			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
-			"favourites_count": 399,
+			"favourites_count": 421,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 24828,
+			"statuses_count": 24915,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -4520,8 +4498,8 @@ Grailbird.data.tweets_2018_07 =
 			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": true,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
 			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
 			"profile_link_color": "0000FF",
 			"profile_sidebar_border_color": "FFFFFF",
@@ -4542,17 +4520,22 @@ Grailbird.data.tweets_2018_07 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 1,
+		"favorite_count": 2,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@tsocko @NLearning Looking forward to it!"
 	},
 	{
 		"created_at": "Fri Jul 27 19:34:34 +0000 2018",
 		"id": 1022928251285581800,
 		"id_str": "1022928251285581826",
-		"text": "Slides from my #BLC18 presentations are available in my slidespace here https://t.co/yZkwxCAvyy",
+		"full_text": "Slides from my #BLC18 presentations are available in my slidespace here https://t.co/yZkwxCAvyy",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
 		"entities": {
 			"hashtags": [
 				{
@@ -4610,16 +4593,16 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 6805,
-			"friends_count": 2635,
-			"listed_count": 463,
+			"followers_count": 6835,
+			"friends_count": 2702,
+			"listed_count": 459,
 			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
-			"favourites_count": 399,
+			"favourites_count": 421,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 24827,
+			"statuses_count": 24915,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -4628,8 +4611,8 @@ Grailbird.data.tweets_2018_07 =
 			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": true,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
 			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
 			"profile_link_color": "0000FF",
 			"profile_sidebar_border_color": "FFFFFF",
@@ -4649,50 +4632,44 @@ Grailbird.data.tweets_2018_07 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 1,
+		"retweet_count": 7,
+		"favorite_count": 19,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Slides from my #BLC18 presentations are available in my slidespace here https://t.co/yZkwxCAvyy"
 	},
 	{
-		"created_at": "Fri Jul 27 19:02:58 +0000 2018",
-		"id": 1022920298482622500,
-		"id_str": "1022920298482622465",
-		"text": "RT @NLearning: Thank you for a fantastic #BLC18\nSafe travels home! https://t.co/N2DamYkezI",
+		"created_at": "Fri Jul 27 19:00:26 +0000 2018",
+		"id": 1022919661111976000,
+		"id_str": "1022919661111975937",
+		"full_text": "Thank you for a fantastic #BLC18\nSafe travels home! https://t.co/N2DamYkezI",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
 		"entities": {
 			"hashtags": [
 				{
 					"text": "BLC18",
 					"indices": [
-						41,
-						47
+						26,
+						32
 					]
 				}
 			],
 			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "NLearning",
-					"name": "November Learning",
-					"id": 12042382,
-					"id_str": "12042382",
-					"indices": [
-						3,
-						13
-					]
-				}
-			],
+			"user_mentions": [],
 			"urls": [],
 			"media": [
 				{
 					"id": 1022919659299848200,
 					"id_str": "1022919659299848192",
 					"indices": [
-						67,
-						90
+						52,
+						75
 					],
 					"media_url": "http://pbs.twimg.com/media/DjIkAq5UwAATWbq.jpg",
 					"media_url_https": "https://pbs.twimg.com/media/DjIkAq5UwAATWbq.jpg",
@@ -4721,11 +4698,7 @@ Grailbird.data.tweets_2018_07 =
 							"h": 380,
 							"resize": "fit"
 						}
-					},
-					"source_status_id": 1022919661111976000,
-					"source_status_id_str": "1022919661111975937",
-					"source_user_id": 12042382,
-					"source_user_id_str": "12042382"
+					}
 				}
 			]
 		},
@@ -4735,8 +4708,8 @@ Grailbird.data.tweets_2018_07 =
 					"id": 1022919659299848200,
 					"id_str": "1022919659299848192",
 					"indices": [
-						67,
-						90
+						52,
+						75
 					],
 					"media_url": "http://pbs.twimg.com/media/DjIkAq5UwAATWbq.jpg",
 					"media_url_https": "https://pbs.twimg.com/media/DjIkAq5UwAATWbq.jpg",
@@ -4765,35 +4738,31 @@ Grailbird.data.tweets_2018_07 =
 							"h": 380,
 							"resize": "fit"
 						}
-					},
-					"source_status_id": 1022919661111976000,
-					"source_status_id_str": "1022919661111975937",
-					"source_user_id": 12042382,
-					"source_user_id_str": "12042382"
+					}
 				}
 			]
 		},
-		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
 		"in_reply_to_status_id": null,
 		"in_reply_to_status_id_str": null,
 		"in_reply_to_user_id": null,
 		"in_reply_to_user_id_str": null,
 		"in_reply_to_screen_name": null,
 		"user": {
-			"id": 5634392,
-			"id_str": "5634392",
-			"name": "Darren Kuropatwa",
-			"screen_name": "dkuropatwa",
-			"location": "Winnipeg, Manitoba, Canada",
-			"description": "Educator. Always in beta ∞β.",
-			"url": "https://t.co/FJEo2rIADF",
+			"id": 12042382,
+			"id_str": "12042382",
+			"name": "November Learning",
+			"screen_name": "NLearning",
+			"location": "Marblehead, MA",
+			"description": "Led by @globalearner, we proudly hosts the Building Learning Communities Conference. Learn more about our consulting services, workshops, and rich resources.",
+			"url": "https://t.co/JuJJcEE3uN",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/FJEo2rIADF",
-							"expanded_url": "http://adifference.blogspot.com",
-							"display_url": "adifference.blogspot.com",
+							"url": "https://t.co/JuJJcEE3uN",
+							"expanded_url": "http://www.novemberlearning.com",
+							"display_url": "novemberlearning.com",
 							"indices": [
 								0,
 								23
@@ -4806,36 +4775,35 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 6804,
-			"friends_count": 2635,
-			"listed_count": 463,
-			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
-			"favourites_count": 397,
+			"followers_count": 15485,
+			"friends_count": 618,
+			"listed_count": 503,
+			"created_at": "Wed Jan 09 20:17:16 +0000 2008",
+			"favourites_count": 229,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
-			"verified": true,
-			"statuses_count": 24826,
+			"verified": false,
+			"statuses_count": 8340,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
-			"profile_background_color": "9AE4E8",
+			"profile_background_color": "2A65B4",
 			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": true,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
-			"profile_link_color": "0000FF",
-			"profile_sidebar_border_color": "FFFFFF",
-			"profile_sidebar_fill_color": "67CD67",
-			"profile_text_color": "000000",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/73380919/nlicon_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/73380919/nlicon_normal.jpg",
+			"profile_link_color": "2A65B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "EEEEEE",
+			"profile_text_color": "333333",
 			"profile_use_background_image": true,
-			"has_extended_profile": true,
+			"has_extended_profile": false,
 			"default_profile": false,
 			"default_profile_image": false,
-			"following": false,
+			"following": true,
 			"follow_request_sent": false,
 			"notifications": false,
 			"translator_type": "none"
@@ -4844,196 +4812,25 @@ Grailbird.data.tweets_2018_07 =
 		"coordinates": null,
 		"place": null,
 		"contributors": null,
-		"retweeted_status": {
-			"created_at": "Fri Jul 27 19:00:26 +0000 2018",
-			"id": 1022919661111976000,
-			"id_str": "1022919661111975937",
-			"text": "Thank you for a fantastic #BLC18\nSafe travels home! https://t.co/N2DamYkezI",
-			"truncated": false,
-			"entities": {
-				"hashtags": [
-					{
-						"text": "BLC18",
-						"indices": [
-							26,
-							32
-						]
-					}
-				],
-				"symbols": [],
-				"user_mentions": [],
-				"urls": [],
-				"media": [
-					{
-						"id": 1022919659299848200,
-						"id_str": "1022919659299848192",
-						"indices": [
-							52,
-							75
-						],
-						"media_url": "http://pbs.twimg.com/media/DjIkAq5UwAATWbq.jpg",
-						"media_url_https": "https://pbs.twimg.com/media/DjIkAq5UwAATWbq.jpg",
-						"url": "https://t.co/N2DamYkezI",
-						"display_url": "pic.twitter.com/N2DamYkezI",
-						"expanded_url": "https://twitter.com/NLearning/status/1022919661111975937/photo/1",
-						"type": "photo",
-						"sizes": {
-							"thumb": {
-								"w": 150,
-								"h": 150,
-								"resize": "crop"
-							},
-							"large": {
-								"w": 1200,
-								"h": 670,
-								"resize": "fit"
-							},
-							"medium": {
-								"w": 1200,
-								"h": 670,
-								"resize": "fit"
-							},
-							"small": {
-								"w": 680,
-								"h": 380,
-								"resize": "fit"
-							}
-						}
-					}
-				]
-			},
-			"extended_entities": {
-				"media": [
-					{
-						"id": 1022919659299848200,
-						"id_str": "1022919659299848192",
-						"indices": [
-							52,
-							75
-						],
-						"media_url": "http://pbs.twimg.com/media/DjIkAq5UwAATWbq.jpg",
-						"media_url_https": "https://pbs.twimg.com/media/DjIkAq5UwAATWbq.jpg",
-						"url": "https://t.co/N2DamYkezI",
-						"display_url": "pic.twitter.com/N2DamYkezI",
-						"expanded_url": "https://twitter.com/NLearning/status/1022919661111975937/photo/1",
-						"type": "photo",
-						"sizes": {
-							"thumb": {
-								"w": 150,
-								"h": 150,
-								"resize": "crop"
-							},
-							"large": {
-								"w": 1200,
-								"h": 670,
-								"resize": "fit"
-							},
-							"medium": {
-								"w": 1200,
-								"h": 670,
-								"resize": "fit"
-							},
-							"small": {
-								"w": 680,
-								"h": 380,
-								"resize": "fit"
-							}
-						}
-					}
-				]
-			},
-			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
-			"in_reply_to_status_id": null,
-			"in_reply_to_status_id_str": null,
-			"in_reply_to_user_id": null,
-			"in_reply_to_user_id_str": null,
-			"in_reply_to_screen_name": null,
-			"user": {
-				"id": 12042382,
-				"id_str": "12042382",
-				"name": "November Learning",
-				"screen_name": "NLearning",
-				"location": "Marblehead, MA",
-				"description": "Led by @globalearner, we proudly hosts the Building Learning Communities Conference. Learn more about our consulting services, workshops, and rich resources.",
-				"url": "https://t.co/JuJJcEE3uN",
-				"entities": {
-					"url": {
-						"urls": [
-							{
-								"url": "https://t.co/JuJJcEE3uN",
-								"expanded_url": "http://www.novemberlearning.com",
-								"display_url": "novemberlearning.com",
-								"indices": [
-									0,
-									23
-								]
-							}
-						]
-					},
-					"description": {
-						"urls": []
-					}
-				},
-				"protected": false,
-				"followers_count": 15397,
-				"friends_count": 575,
-				"listed_count": 501,
-				"created_at": "Wed Jan 09 20:17:16 +0000 2008",
-				"favourites_count": 205,
-				"utc_offset": null,
-				"time_zone": null,
-				"geo_enabled": false,
-				"verified": false,
-				"statuses_count": 8102,
-				"lang": "en",
-				"contributors_enabled": false,
-				"is_translator": false,
-				"is_translation_enabled": false,
-				"profile_background_color": "2A65B4",
-				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-				"profile_background_tile": false,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/73380919/nlicon_normal.jpg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/73380919/nlicon_normal.jpg",
-				"profile_link_color": "2A65B4",
-				"profile_sidebar_border_color": "BDDCAD",
-				"profile_sidebar_fill_color": "EEEEEE",
-				"profile_text_color": "333333",
-				"profile_use_background_image": true,
-				"has_extended_profile": false,
-				"default_profile": false,
-				"default_profile_image": false,
-				"following": true,
-				"follow_request_sent": false,
-				"notifications": false,
-				"translator_type": "none"
-			},
-			"geo": null,
-			"coordinates": null,
-			"place": null,
-			"contributors": null,
-			"is_quote_status": false,
-			"retweet_count": 1,
-			"favorite_count": 1,
-			"favorited": false,
-			"retweeted": true,
-			"possibly_sensitive": false,
-			"lang": "en"
-		},
 		"is_quote_status": false,
 		"retweet_count": 1,
-		"favorite_count": 0,
+		"favorite_count": 14,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Thank you for a fantastic #BLC18\nSafe travels home! https://t.co/N2DamYkezI"
 	},
 	{
 		"created_at": "Fri Jul 27 19:00:01 +0000 2018",
 		"id": 1022919553918165000,
 		"id_str": "1022919553918164992",
-		"text": "Lots to chew on after #BLC18 Some of the ways thinking changed after learning with me: Releflecting on Things That… https://t.co/FbrUYMF3NE",
-		"truncated": true,
+		"full_text": "Lots to chew on after #BLC18 Some of the ways thinking changed after learning with me: Releflecting on Things That Suck About Digital Citizenship: “I used to think media was a medium to entertain people. Now I think it’s a medium to empower ppl to change their lives.”",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			268
+		],
 		"entities": {
 			"hashtags": [
 				{
@@ -5046,17 +4843,7 @@ Grailbird.data.tweets_2018_07 =
 			],
 			"symbols": [],
 			"user_mentions": [],
-			"urls": [
-				{
-					"url": "https://t.co/FbrUYMF3NE",
-					"expanded_url": "https://twitter.com/i/web/status/1022919553918164992",
-					"display_url": "twitter.com/i/web/status/1…",
-					"indices": [
-						116,
-						139
-					]
-				}
-			]
+			"urls": []
 		},
 		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
 		"in_reply_to_status_id": null,
@@ -5091,16 +4878,16 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 6804,
-			"friends_count": 2635,
-			"listed_count": 463,
+			"followers_count": 6835,
+			"friends_count": 2702,
+			"listed_count": 459,
 			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
-			"favourites_count": 397,
+			"favourites_count": 421,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 24826,
+			"statuses_count": 24915,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -5109,8 +4896,8 @@ Grailbird.data.tweets_2018_07 =
 			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": true,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
 			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
 			"profile_link_color": "0000FF",
 			"profile_sidebar_border_color": "FFFFFF",
@@ -5130,18 +4917,23 @@ Grailbird.data.tweets_2018_07 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 1,
+		"retweet_count": 1,
+		"favorite_count": 11,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Lots to chew on after #BLC18 Some of the ways thinking changed after learning with me: Releflecting on Things That Suck About Digital Citizenship: “I used to think media was a medium to entertain people. Now I think it’s a medium to empower ppl to change their lives.”"
 	},
 	{
 		"created_at": "Fri Jul 27 18:17:52 +0000 2018",
 		"id": 1022908949245435900,
 		"id_str": "1022908949245435904",
-		"text": "Really glad you were there Scott! Thanks. https://t.co/ySvFlfENtG",
+		"full_text": "Really glad you were there Scott! Thanks. https://t.co/ySvFlfENtG",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			41
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -5191,16 +4983,16 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 6804,
-			"friends_count": 2635,
-			"listed_count": 463,
+			"followers_count": 6835,
+			"friends_count": 2702,
+			"listed_count": 459,
 			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
-			"favourites_count": 397,
+			"favourites_count": 421,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 24826,
+			"statuses_count": 24915,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -5209,8 +5001,8 @@ Grailbird.data.tweets_2018_07 =
 			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": true,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
 			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
 			"profile_link_color": "0000FF",
 			"profile_sidebar_border_color": "FFFFFF",
@@ -5232,25 +5024,121 @@ Grailbird.data.tweets_2018_07 =
 		"is_quote_status": true,
 		"quoted_status_id": 1022893756805251100,
 		"quoted_status_id_str": "1022893756805251072",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ySvFlfENtG",
+			"expanded": "https://twitter.com/mrhallisb/status/1022893756805251072",
+			"display": "twitter.com/mrhallisb/stat…"
+		},
 		"quoted_status": {
 			"created_at": "Fri Jul 27 17:17:30 +0000 2018",
 			"id": 1022893756805251100,
 			"id_str": "1022893756805251072",
-			"text": "Left thinking about chess, basketball, questioning, inquiry and making thinking visible after thought provoking ses… https://t.co/kzscy6hulq",
-			"truncated": true,
+			"full_text": "Left thinking about chess, basketball, questioning, inquiry and making thinking visible after thought provoking session! Thanks @dkuropatwa #BLC18 https://t.co/ntoREE6DhS",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				146
+			],
 			"entities": {
-				"hashtags": [],
-				"symbols": [],
-				"user_mentions": [],
-				"urls": [
+				"hashtags": [
 					{
-						"url": "https://t.co/kzscy6hulq",
-						"expanded_url": "https://twitter.com/i/web/status/1022893756805251072",
-						"display_url": "twitter.com/i/web/status/1…",
+						"text": "BLC18",
 						"indices": [
-							117,
-							140
+							140,
+							146
 						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "dkuropatwa",
+						"name": "Darren Kuropatwa",
+						"id": 5634392,
+						"id_str": "5634392",
+						"indices": [
+							128,
+							139
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1022893750169808900,
+						"id_str": "1022893750169808902",
+						"indices": [
+							147,
+							170
+						],
+						"media_url": "http://pbs.twimg.com/media/DjIMcj3WsAYdQFE.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DjIMcj3WsAYdQFE.jpg",
+						"url": "https://t.co/ntoREE6DhS",
+						"display_url": "pic.twitter.com/ntoREE6DhS",
+						"expanded_url": "https://twitter.com/mrhallisb/status/1022893756805251072/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1022893750169808900,
+						"id_str": "1022893750169808902",
+						"indices": [
+							147,
+							170
+						],
+						"media_url": "http://pbs.twimg.com/media/DjIMcj3WsAYdQFE.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DjIMcj3WsAYdQFE.jpg",
+						"url": "https://t.co/ntoREE6DhS",
+						"display_url": "pic.twitter.com/ntoREE6DhS",
+						"expanded_url": "https://twitter.com/mrhallisb/status/1022893756805251072/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
 					}
 				]
 			},
@@ -5274,16 +5162,16 @@ Grailbird.data.tweets_2018_07 =
 					}
 				},
 				"protected": false,
-				"followers_count": 117,
-				"friends_count": 10,
-				"listed_count": 11,
+				"followers_count": 131,
+				"friends_count": 11,
+				"listed_count": 13,
 				"created_at": "Sat Feb 13 21:49:36 +0000 2016",
-				"favourites_count": 210,
+				"favourites_count": 244,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": false,
-				"statuses_count": 198,
+				"statuses_count": 212,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -5325,14 +5213,19 @@ Grailbird.data.tweets_2018_07 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Really glad you were there Scott! Thanks. https://t.co/ySvFlfENtG"
 	},
 	{
 		"created_at": "Fri Jul 27 18:17:13 +0000 2018",
 		"id": 1022908783553638400,
 		"id_str": "1022908783553638406",
-		"text": "@BryceBeilman Thanks Bryce! And keep in touch. Cheers!",
+		"full_text": "@BryceBeilman Thanks Bryce! And keep in touch. Cheers!",
 		"truncated": false,
+		"display_text_range": [
+			14,
+			54
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -5383,16 +5276,16 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 6804,
-			"friends_count": 2635,
-			"listed_count": 463,
+			"followers_count": 6835,
+			"friends_count": 2702,
+			"listed_count": 459,
 			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
-			"favourites_count": 397,
+			"favourites_count": 421,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 24826,
+			"statuses_count": 24915,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -5401,8 +5294,8 @@ Grailbird.data.tweets_2018_07 =
 			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": true,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
 			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
 			"profile_link_color": "0000FF",
 			"profile_sidebar_border_color": "FFFFFF",
@@ -5426,58 +5319,53 @@ Grailbird.data.tweets_2018_07 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@BryceBeilman Thanks Bryce! And keep in touch. Cheers!"
 	},
 	{
-		"created_at": "Fri Jul 27 18:16:24 +0000 2018",
-		"id": 1022908576900280300,
-		"id_str": "1022908576900280320",
-		"text": "RT @cspencerNC: As always, challenged in my practice by @dkuropatwa in the best possible way. #BLC18 #sketchED #sketchnote @GCSHighSchools…",
+		"created_at": "Thu Jul 26 18:18:46 +0000 2018",
+		"id": 1022546787867996200,
+		"id_str": "1022546787867996161",
+		"full_text": "As always, challenged in my practice by @dkuropatwa in the best possible way. #BLC18 #sketchED #sketchnote @GCSHighSchools https://t.co/KSrWcWtBqq",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
 		"entities": {
 			"hashtags": [
 				{
 					"text": "BLC18",
 					"indices": [
-						94,
-						100
+						78,
+						84
 					]
 				},
 				{
 					"text": "sketchED",
 					"indices": [
-						101,
-						110
+						85,
+						94
 					]
 				},
 				{
 					"text": "sketchnote",
 					"indices": [
-						111,
-						122
+						95,
+						106
 					]
 				}
 			],
 			"symbols": [],
 			"user_mentions": [
 				{
-					"screen_name": "cspencerNC",
-					"name": "Carolyn Spencer",
-					"id": 753734744,
-					"id_str": "753734744",
-					"indices": [
-						3,
-						14
-					]
-				},
-				{
 					"screen_name": "dkuropatwa",
 					"name": "Darren Kuropatwa",
 					"id": 5634392,
 					"id_str": "5634392",
 					"indices": [
-						56,
-						67
+						40,
+						51
 					]
 				},
 				{
@@ -5486,34 +5374,112 @@ Grailbird.data.tweets_2018_07 =
 					"id": 766082425336242200,
 					"id_str": "766082425336242176",
 					"indices": [
-						123,
-						138
+						107,
+						122
 					]
 				}
 			],
-			"urls": []
+			"urls": [],
+			"media": [
+				{
+					"id": 1022546762811277300,
+					"id_str": "1022546762811277313",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/DjDQ3POXgAEKEnx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DjDQ3POXgAEKEnx.jpg",
+					"url": "https://t.co/KSrWcWtBqq",
+					"display_url": "pic.twitter.com/KSrWcWtBqq",
+					"expanded_url": "https://twitter.com/cspencerNC/status/1022546787867996161/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 899,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1534,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 509,
+							"resize": "fit"
+						}
+					}
+				}
+			]
 		},
-		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1022546762811277300,
+					"id_str": "1022546762811277313",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/DjDQ3POXgAEKEnx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DjDQ3POXgAEKEnx.jpg",
+					"url": "https://t.co/KSrWcWtBqq",
+					"display_url": "pic.twitter.com/KSrWcWtBqq",
+					"expanded_url": "https://twitter.com/cspencerNC/status/1022546787867996161/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 899,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1534,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 509,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
 		"in_reply_to_status_id": null,
 		"in_reply_to_status_id_str": null,
 		"in_reply_to_user_id": null,
 		"in_reply_to_user_id_str": null,
 		"in_reply_to_screen_name": null,
 		"user": {
-			"id": 5634392,
-			"id_str": "5634392",
-			"name": "Darren Kuropatwa",
-			"screen_name": "dkuropatwa",
-			"location": "Winnipeg, Manitoba, Canada",
-			"description": "Educator. Always in beta ∞β.",
-			"url": "https://t.co/FJEo2rIADF",
+			"id": 753734744,
+			"id_str": "753734744",
+			"name": "Carolyn Spencer",
+			"screen_name": "cspencerNC",
+			"location": "NC",
+			"description": "Secondary math curriculum facilitator & proud math geek | Blog:LearningWithTape | #MTBoS #iteachmath #sketchnotes #NCCTM #MTBoSNC #edtech #sketchPLC #sketchED",
+			"url": "https://t.co/iOTNJa90RM",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/FJEo2rIADF",
-							"expanded_url": "http://adifference.blogspot.com",
-							"display_url": "adifference.blogspot.com",
+							"url": "https://t.co/iOTNJa90RM",
+							"expanded_url": "http://learningwithtape.blogspot.com",
+							"display_url": "learningwithtape.blogspot.com",
 							"indices": [
 								0,
 								23
@@ -5526,36 +5492,36 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 6804,
-			"friends_count": 2635,
-			"listed_count": 463,
-			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
-			"favourites_count": 397,
+			"followers_count": 442,
+			"friends_count": 982,
+			"listed_count": 30,
+			"created_at": "Sun Aug 12 20:31:27 +0000 2012",
+			"favourites_count": 1342,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
-			"verified": true,
-			"statuses_count": 24826,
+			"verified": false,
+			"statuses_count": 711,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
-			"profile_background_color": "9AE4E8",
+			"profile_background_color": "C0DEED",
 			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": true,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
-			"profile_link_color": "0000FF",
-			"profile_sidebar_border_color": "FFFFFF",
-			"profile_sidebar_fill_color": "67CD67",
-			"profile_text_color": "000000",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/971884658676944896/zG0_nbcv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/971884658676944896/zG0_nbcv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/753734744/1520550335",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
 			"profile_use_background_image": true,
 			"has_extended_profile": true,
-			"default_profile": false,
+			"default_profile": true,
 			"default_profile_image": false,
-			"following": false,
+			"following": true,
 			"follow_request_sent": false,
 			"notifications": false,
 			"translator_type": "none"
@@ -5564,458 +5530,98 @@ Grailbird.data.tweets_2018_07 =
 		"coordinates": null,
 		"place": null,
 		"contributors": null,
-		"retweeted_status": {
-			"created_at": "Thu Jul 26 18:18:46 +0000 2018",
-			"id": 1022546787867996200,
-			"id_str": "1022546787867996161",
-			"text": "As always, challenged in my practice by @dkuropatwa in the best possible way. #BLC18 #sketchED #sketchnote… https://t.co/ahtbZOWh1F",
-			"truncated": true,
-			"entities": {
-				"hashtags": [
-					{
-						"text": "BLC18",
-						"indices": [
-							78,
-							84
-						]
-					},
-					{
-						"text": "sketchED",
-						"indices": [
-							85,
-							94
-						]
-					},
-					{
-						"text": "sketchnote",
-						"indices": [
-							95,
-							106
-						]
-					}
-				],
-				"symbols": [],
-				"user_mentions": [
-					{
-						"screen_name": "dkuropatwa",
-						"name": "Darren Kuropatwa",
-						"id": 5634392,
-						"id_str": "5634392",
-						"indices": [
-							40,
-							51
-						]
-					}
-				],
-				"urls": [
-					{
-						"url": "https://t.co/ahtbZOWh1F",
-						"expanded_url": "https://twitter.com/i/web/status/1022546787867996161",
-						"display_url": "twitter.com/i/web/status/1…",
-						"indices": [
-							108,
-							131
-						]
-					}
-				]
-			},
-			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
-			"in_reply_to_status_id": null,
-			"in_reply_to_status_id_str": null,
-			"in_reply_to_user_id": null,
-			"in_reply_to_user_id_str": null,
-			"in_reply_to_screen_name": null,
-			"user": {
-				"id": 753734744,
-				"id_str": "753734744",
-				"name": "Carolyn Spencer",
-				"screen_name": "cspencerNC",
-				"location": "NC",
-				"description": "Secondary math curriculum facilitator & proud math geek | Blog:LearningWithTape | #MTBoS #iteachmath #sketchnotes #NCCTM #MTBoSNC #edtech #sketchPLC #sketchED",
-				"url": "https://t.co/iOTNJa90RM",
-				"entities": {
-					"url": {
-						"urls": [
-							{
-								"url": "https://t.co/iOTNJa90RM",
-								"expanded_url": "http://learningwithtape.blogspot.com",
-								"display_url": "learningwithtape.blogspot.com",
-								"indices": [
-									0,
-									23
-								]
-							}
-						]
-					},
-					"description": {
-						"urls": []
-					}
-				},
-				"protected": false,
-				"followers_count": 413,
-				"friends_count": 974,
-				"listed_count": 30,
-				"created_at": "Sun Aug 12 20:31:27 +0000 2012",
-				"favourites_count": 1223,
-				"utc_offset": null,
-				"time_zone": null,
-				"geo_enabled": false,
-				"verified": false,
-				"statuses_count": 674,
-				"lang": "en",
-				"contributors_enabled": false,
-				"is_translator": false,
-				"is_translation_enabled": false,
-				"profile_background_color": "C0DEED",
-				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-				"profile_background_tile": false,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/971884658676944896/zG0_nbcv_normal.jpg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/971884658676944896/zG0_nbcv_normal.jpg",
-				"profile_banner_url": "https://pbs.twimg.com/profile_banners/753734744/1520550335",
-				"profile_link_color": "1DA1F2",
-				"profile_sidebar_border_color": "C0DEED",
-				"profile_sidebar_fill_color": "DDEEF6",
-				"profile_text_color": "333333",
-				"profile_use_background_image": true,
-				"has_extended_profile": true,
-				"default_profile": true,
-				"default_profile_image": false,
-				"following": true,
-				"follow_request_sent": false,
-				"notifications": false,
-				"translator_type": "none"
-			},
-			"geo": null,
-			"coordinates": null,
-			"place": null,
-			"contributors": null,
-			"is_quote_status": false,
-			"retweet_count": 2,
-			"favorite_count": 7,
-			"favorited": false,
-			"retweeted": true,
-			"possibly_sensitive": false,
-			"lang": "en"
-		},
 		"is_quote_status": false,
 		"retweet_count": 2,
-		"favorite_count": 0,
-		"favorited": false,
+		"favorite_count": 10,
+		"favorited": true,
 		"retweeted": true,
-		"lang": "en"
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "As always, challenged in my practice by @dkuropatwa in the best possible way. #BLC18 #sketchED #sketchnote @GCSHighSchools https://t.co/KSrWcWtBqq"
 	},
 	{
-		"created_at": "Fri Jul 27 18:15:59 +0000 2018",
-		"id": 1022908471593844700,
-		"id_str": "1022908471593844737",
-		"text": "RT @MissDunwoodie: The person doing the most talking is growing the most dendrites. -Marcia L. Tate, via @dkuropatwa  Definitely something…",
+		"created_at": "Fri Jul 27 16:41:52 +0000 2018",
+		"id": 1022884786866712600,
+		"id_str": "1022884786866712577",
+		"full_text": "The person doing the most talking is growing the most dendrites. -Marcia L. Tate, via @dkuropatwa  Definitely something to reflect upon as we head back to school in the fall. #BLC18",
 		"truncated": false,
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "MissDunwoodie",
-					"name": "Sheila Dunwoodie",
-					"id": 844072399,
-					"id_str": "844072399",
-					"indices": [
-						3,
-						17
-					]
-				},
-				{
-					"screen_name": "dkuropatwa",
-					"name": "Darren Kuropatwa",
-					"id": 5634392,
-					"id_str": "5634392",
-					"indices": [
-						105,
-						116
-					]
-				}
-			],
-			"urls": []
-		},
-		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 5634392,
-			"id_str": "5634392",
-			"name": "Darren Kuropatwa",
-			"screen_name": "dkuropatwa",
-			"location": "Winnipeg, Manitoba, Canada",
-			"description": "Educator. Always in beta ∞β.",
-			"url": "https://t.co/FJEo2rIADF",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/FJEo2rIADF",
-							"expanded_url": "http://adifference.blogspot.com",
-							"display_url": "adifference.blogspot.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 6804,
-			"friends_count": 2634,
-			"listed_count": 463,
-			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
-			"favourites_count": 397,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": false,
-			"verified": true,
-			"statuses_count": 24821,
-			"lang": "en",
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "9AE4E8",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": true,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
-			"profile_link_color": "0000FF",
-			"profile_sidebar_border_color": "FFFFFF",
-			"profile_sidebar_fill_color": "67CD67",
-			"profile_text_color": "000000",
-			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"retweeted_status": {
-			"created_at": "Fri Jul 27 16:41:52 +0000 2018",
-			"id": 1022884786866712600,
-			"id_str": "1022884786866712577",
-			"text": "The person doing the most talking is growing the most dendrites. -Marcia L. Tate, via @dkuropatwa  Definitely somet… https://t.co/G07iArx4ZF",
-			"truncated": true,
-			"entities": {
-				"hashtags": [],
-				"symbols": [],
-				"user_mentions": [
-					{
-						"screen_name": "dkuropatwa",
-						"name": "Darren Kuropatwa",
-						"id": 5634392,
-						"id_str": "5634392",
-						"indices": [
-							86,
-							97
-						]
-					}
-				],
-				"urls": [
-					{
-						"url": "https://t.co/G07iArx4ZF",
-						"expanded_url": "https://twitter.com/i/web/status/1022884786866712577",
-						"display_url": "twitter.com/i/web/status/1…",
-						"indices": [
-							117,
-							140
-						]
-					}
-				]
-			},
-			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-			"in_reply_to_status_id": null,
-			"in_reply_to_status_id_str": null,
-			"in_reply_to_user_id": null,
-			"in_reply_to_user_id_str": null,
-			"in_reply_to_screen_name": null,
-			"user": {
-				"id": 844072399,
-				"id_str": "844072399",
-				"name": "Sheila Dunwoodie",
-				"screen_name": "MissDunwoodie",
-				"location": "Montréal, Québec",
-				"description": "Grade 5 & Media Tech teacher in Kirkland, Québec, Canada/mom to 4 cool kids/life-long learner \n #education tweets and #classroom stuff",
-				"url": null,
-				"entities": {
-					"description": {
-						"urls": []
-					}
-				},
-				"protected": false,
-				"followers_count": 161,
-				"friends_count": 294,
-				"listed_count": 3,
-				"created_at": "Mon Sep 24 18:31:23 +0000 2012",
-				"favourites_count": 266,
-				"utc_offset": null,
-				"time_zone": null,
-				"geo_enabled": true,
-				"verified": false,
-				"statuses_count": 440,
-				"lang": "en",
-				"contributors_enabled": false,
-				"is_translator": false,
-				"is_translation_enabled": false,
-				"profile_background_color": "C0DEED",
-				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-				"profile_background_tile": false,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/985124569114652673/9EHjHmnC_normal.jpg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/985124569114652673/9EHjHmnC_normal.jpg",
-				"profile_banner_url": "https://pbs.twimg.com/profile_banners/844072399/1523706940",
-				"profile_link_color": "1DA1F2",
-				"profile_sidebar_border_color": "C0DEED",
-				"profile_sidebar_fill_color": "DDEEF6",
-				"profile_text_color": "333333",
-				"profile_use_background_image": true,
-				"has_extended_profile": false,
-				"default_profile": true,
-				"default_profile_image": false,
-				"following": false,
-				"follow_request_sent": false,
-				"notifications": false,
-				"translator_type": "none"
-			},
-			"geo": null,
-			"coordinates": null,
-			"place": null,
-			"contributors": null,
-			"is_quote_status": false,
-			"retweet_count": 1,
-			"favorite_count": 0,
-			"favorited": false,
-			"retweeted": true,
-			"lang": "en"
-		},
-		"is_quote_status": false,
-		"retweet_count": 1,
-		"favorite_count": 0,
-		"favorited": false,
-		"retweeted": true,
-		"lang": "en"
-	},
-	{
-		"created_at": "Fri Jul 27 18:15:52 +0000 2018",
-		"id": 1022908445488500700,
-		"id_str": "1022908445488500737",
-		"text": "RT @MissDunwoodie: If you can't do it or remember it in a month's time, you haven't learned it. \n@dkuropatwa at #BLC18",
-		"truncated": false,
+		"display_text_range": [
+			0,
+			181
+		],
 		"entities": {
 			"hashtags": [
 				{
 					"text": "BLC18",
 					"indices": [
-						112,
-						118
+						175,
+						181
 					]
 				}
 			],
 			"symbols": [],
 			"user_mentions": [
 				{
-					"screen_name": "MissDunwoodie",
-					"name": "Sheila Dunwoodie",
-					"id": 844072399,
-					"id_str": "844072399",
-					"indices": [
-						3,
-						17
-					]
-				},
-				{
 					"screen_name": "dkuropatwa",
 					"name": "Darren Kuropatwa",
 					"id": 5634392,
 					"id_str": "5634392",
 					"indices": [
-						97,
-						108
+						86,
+						97
 					]
 				}
 			],
 			"urls": []
 		},
-		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
 		"in_reply_to_status_id": null,
 		"in_reply_to_status_id_str": null,
 		"in_reply_to_user_id": null,
 		"in_reply_to_user_id_str": null,
 		"in_reply_to_screen_name": null,
 		"user": {
-			"id": 5634392,
-			"id_str": "5634392",
-			"name": "Darren Kuropatwa",
-			"screen_name": "dkuropatwa",
-			"location": "Winnipeg, Manitoba, Canada",
-			"description": "Educator. Always in beta ∞β.",
-			"url": "https://t.co/FJEo2rIADF",
+			"id": 844072399,
+			"id_str": "844072399",
+			"name": "Sheila Dunwoodie",
+			"screen_name": "MissDunwoodie",
+			"location": "Montréal, Québec",
+			"description": "Grade 4 & Media Tech teacher in Kirkland, Québec/mom to 4 cool kids/life-long learner/music lover/\n #education  tweets and #classroom stuff Personal: @sheesh33",
+			"url": null,
 			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/FJEo2rIADF",
-							"expanded_url": "http://adifference.blogspot.com",
-							"display_url": "adifference.blogspot.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
 				"description": {
 					"urls": []
 				}
 			},
 			"protected": false,
-			"followers_count": 6804,
-			"friends_count": 2634,
-			"listed_count": 463,
-			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
-			"favourites_count": 397,
+			"followers_count": 201,
+			"friends_count": 358,
+			"listed_count": 3,
+			"created_at": "Mon Sep 24 18:31:23 +0000 2012",
+			"favourites_count": 476,
 			"utc_offset": null,
 			"time_zone": null,
-			"geo_enabled": false,
-			"verified": true,
-			"statuses_count": 24821,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 516,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
-			"profile_background_color": "9AE4E8",
+			"profile_background_color": "C0DEED",
 			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": true,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
-			"profile_link_color": "0000FF",
-			"profile_sidebar_border_color": "FFFFFF",
-			"profile_sidebar_fill_color": "67CD67",
-			"profile_text_color": "000000",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/985124569114652673/9EHjHmnC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/985124569114652673/9EHjHmnC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/844072399/1523706940",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
 			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": false,
+			"has_extended_profile": false,
+			"default_profile": true,
 			"default_profile_image": false,
 			"following": false,
 			"follow_request_sent": false,
@@ -6026,115 +5632,125 @@ Grailbird.data.tweets_2018_07 =
 		"coordinates": null,
 		"place": null,
 		"contributors": null,
-		"retweeted_status": {
-			"created_at": "Fri Jul 27 16:38:44 +0000 2018",
-			"id": 1022883999671373800,
-			"id_str": "1022883999671373825",
-			"text": "If you can't do it or remember it in a month's time, you haven't learned it. \n@dkuropatwa at #BLC18",
-			"truncated": false,
-			"entities": {
-				"hashtags": [
-					{
-						"text": "BLC18",
-						"indices": [
-							93,
-							99
-						]
-					}
-				],
-				"symbols": [],
-				"user_mentions": [
-					{
-						"screen_name": "dkuropatwa",
-						"name": "Darren Kuropatwa",
-						"id": 5634392,
-						"id_str": "5634392",
-						"indices": [
-							78,
-							89
-						]
-					}
-				],
-				"urls": []
-			},
-			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-			"in_reply_to_status_id": null,
-			"in_reply_to_status_id_str": null,
-			"in_reply_to_user_id": null,
-			"in_reply_to_user_id_str": null,
-			"in_reply_to_screen_name": null,
-			"user": {
-				"id": 844072399,
-				"id_str": "844072399",
-				"name": "Sheila Dunwoodie",
-				"screen_name": "MissDunwoodie",
-				"location": "Montréal, Québec",
-				"description": "Grade 5 & Media Tech teacher in Kirkland, Québec, Canada/mom to 4 cool kids/life-long learner \n #education tweets and #classroom stuff",
-				"url": null,
-				"entities": {
-					"description": {
-						"urls": []
-					}
-				},
-				"protected": false,
-				"followers_count": 161,
-				"friends_count": 294,
-				"listed_count": 3,
-				"created_at": "Mon Sep 24 18:31:23 +0000 2012",
-				"favourites_count": 266,
-				"utc_offset": null,
-				"time_zone": null,
-				"geo_enabled": true,
-				"verified": false,
-				"statuses_count": 440,
-				"lang": "en",
-				"contributors_enabled": false,
-				"is_translator": false,
-				"is_translation_enabled": false,
-				"profile_background_color": "C0DEED",
-				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-				"profile_background_tile": false,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/985124569114652673/9EHjHmnC_normal.jpg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/985124569114652673/9EHjHmnC_normal.jpg",
-				"profile_banner_url": "https://pbs.twimg.com/profile_banners/844072399/1523706940",
-				"profile_link_color": "1DA1F2",
-				"profile_sidebar_border_color": "C0DEED",
-				"profile_sidebar_fill_color": "DDEEF6",
-				"profile_text_color": "333333",
-				"profile_use_background_image": true,
-				"has_extended_profile": false,
-				"default_profile": true,
-				"default_profile_image": false,
-				"following": false,
-				"follow_request_sent": false,
-				"notifications": false,
-				"translator_type": "none"
-			},
-			"geo": null,
-			"coordinates": null,
-			"place": null,
-			"contributors": null,
-			"is_quote_status": false,
-			"retweet_count": 2,
-			"favorite_count": 1,
-			"favorited": false,
-			"retweeted": true,
-			"lang": "en"
-		},
 		"is_quote_status": false,
 		"retweet_count": 2,
-		"favorite_count": 0,
+		"favorite_count": 2,
 		"favorited": false,
 		"retweeted": true,
-		"lang": "en"
+		"lang": "en",
+		"text": "The person doing the most talking is growing the most dendrites. -Marcia L. Tate, via @dkuropatwa  Definitely something to reflect upon as we head back to school in the fall. #BLC18"
+	},
+	{
+		"created_at": "Fri Jul 27 16:38:44 +0000 2018",
+		"id": 1022883999671373800,
+		"id_str": "1022883999671373825",
+		"full_text": "If you can't do it or remember it in a month's time, you haven't learned it. \n@dkuropatwa at #BLC18",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLC18",
+					"indices": [
+						93,
+						99
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dkuropatwa",
+					"name": "Darren Kuropatwa",
+					"id": 5634392,
+					"id_str": "5634392",
+					"indices": [
+						78,
+						89
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 844072399,
+			"id_str": "844072399",
+			"name": "Sheila Dunwoodie",
+			"screen_name": "MissDunwoodie",
+			"location": "Montréal, Québec",
+			"description": "Grade 4 & Media Tech teacher in Kirkland, Québec/mom to 4 cool kids/life-long learner/music lover/\n #education  tweets and #classroom stuff Personal: @sheesh33",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 201,
+			"friends_count": 358,
+			"listed_count": 3,
+			"created_at": "Mon Sep 24 18:31:23 +0000 2012",
+			"favourites_count": 476,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 516,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/985124569114652673/9EHjHmnC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/985124569114652673/9EHjHmnC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/844072399/1523706940",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "If you can't do it or remember it in a month's time, you haven't learned it. \n@dkuropatwa at #BLC18"
 	},
 	{
 		"created_at": "Fri Jul 27 18:15:34 +0000 2018",
 		"id": 1022908367268982800,
 		"id_str": "1022908367268982785",
-		"text": "@MrsYav Thanks for that too. :-)",
+		"full_text": "@MrsYav Thanks for that too. :-)",
 		"truncated": false,
+		"display_text_range": [
+			8,
+			32
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -6185,16 +5801,16 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 6804,
-			"friends_count": 2634,
-			"listed_count": 463,
+			"followers_count": 6835,
+			"friends_count": 2702,
+			"listed_count": 459,
 			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
-			"favourites_count": 397,
+			"favourites_count": 421,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 24821,
+			"statuses_count": 24915,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -6203,8 +5819,8 @@ Grailbird.data.tweets_2018_07 =
 			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": true,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
 			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
 			"profile_link_color": "0000FF",
 			"profile_sidebar_border_color": "FFFFFF",
@@ -6228,14 +5844,19 @@ Grailbird.data.tweets_2018_07 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@MrsYav Thanks for that too. :-)"
 	},
 	{
 		"created_at": "Fri Jul 27 18:15:05 +0000 2018",
 		"id": 1022908246737256400,
 		"id_str": "1022908246737256449",
-		"text": "Farewell #BLC18 It’s been a blast, as always. Learned loads. Great job by the whole @NLearning team.",
+		"full_text": "Farewell #BLC18 It’s been a blast, as always. Learned loads. Great job by the whole @NLearning team.",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
 		"entities": {
 			"hashtags": [
 				{
@@ -6294,16 +5915,16 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 6804,
-			"friends_count": 2634,
-			"listed_count": 463,
+			"followers_count": 6835,
+			"friends_count": 2702,
+			"listed_count": 459,
 			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
-			"favourites_count": 397,
+			"favourites_count": 421,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 24821,
+			"statuses_count": 24915,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -6312,8 +5933,8 @@ Grailbird.data.tweets_2018_07 =
 			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": true,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
 			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
 			"profile_link_color": "0000FF",
 			"profile_sidebar_border_color": "FFFFFF",
@@ -6333,18 +5954,23 @@ Grailbird.data.tweets_2018_07 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 0,
+		"retweet_count": 1,
+		"favorite_count": 7,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Farewell #BLC18 It’s been a blast, as always. Learned loads. Great job by the whole @NLearning team."
 	},
 	{
 		"created_at": "Fri Jul 27 15:59:46 +0000 2018",
 		"id": 1022874194579730400,
 		"id_str": "1022874194579730437",
-		"text": "Working through the QFT (question formulation technique) w @versoapp #BLC18 https://t.co/FFrpsaxbxy https://t.co/bqhsKoBHPf",
+		"full_text": "Working through the QFT (question formulation technique) w @versoapp #BLC18 https://t.co/FFrpsaxbxy https://t.co/bqhsKoBHPf",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
 		"entities": {
 			"hashtags": [
 				{
@@ -6491,16 +6117,16 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 6803,
-			"friends_count": 2634,
-			"listed_count": 463,
+			"followers_count": 6835,
+			"friends_count": 2702,
+			"listed_count": 459,
 			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
-			"favourites_count": 397,
+			"favourites_count": 421,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 24817,
+			"statuses_count": 24915,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -6509,8 +6135,8 @@ Grailbird.data.tweets_2018_07 =
 			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": true,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
 			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
 			"profile_link_color": "0000FF",
 			"profile_sidebar_border_color": "FFFFFF",
@@ -6530,19 +6156,24 @@ Grailbird.data.tweets_2018_07 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 2,
-		"favorite_count": 4,
+		"retweet_count": 4,
+		"favorite_count": 21,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Working through the QFT (question formulation technique) w @versoapp #BLC18 https://t.co/FFrpsaxbxy https://t.co/bqhsKoBHPf"
 	},
 	{
 		"created_at": "Fri Jul 27 15:22:29 +0000 2018",
 		"id": 1022864811493875700,
 		"id_str": "1022864811493875712",
-		"text": "Working through the QFT (question formulation technique) w @versoapp #BLC18 @ Boston Park Plaza https://t.co/KwuGJXhHRq",
+		"full_text": "Working through the QFT (question formulation technique) w @versoapp #BLC18 @ Boston Park Plaza https://t.co/KwuGJXhHRq",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
 		"entities": {
 			"hashtags": [
 				{
@@ -6611,16 +6242,16 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 6803,
-			"friends_count": 2634,
-			"listed_count": 463,
+			"followers_count": 6835,
+			"friends_count": 2702,
+			"listed_count": 459,
 			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
-			"favourites_count": 397,
+			"favourites_count": 421,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 24817,
+			"statuses_count": 24915,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -6629,8 +6260,8 @@ Grailbird.data.tweets_2018_07 =
 			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": true,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
 			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
 			"profile_link_color": "0000FF",
 			"profile_sidebar_border_color": "FFFFFF",
@@ -6651,18 +6282,23 @@ Grailbird.data.tweets_2018_07 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 1,
+		"favorite_count": 2,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Working through the QFT (question formulation technique) w @versoapp #BLC18 @ Boston Park Plaza https://t.co/KwuGJXhHRq"
 	},
 	{
 		"created_at": "Fri Jul 27 14:08:32 +0000 2018",
 		"id": 1022846200372969500,
 		"id_str": "1022846200372969474",
-		"text": "@traceywins @SWorsnup @msmreed @MindWise_CK @jancey5 @globalearner It’s was great seeing you both! A shame we didn’… https://t.co/yCMOrbNS9F",
-		"truncated": true,
+		"full_text": "@traceywins @SWorsnup @msmreed @MindWise_CK @jancey5 @globalearner It’s was great seeing you both! A shame we didn’t get to sit and chat over coffee. Please do keep in touch. Cheers!",
+		"truncated": false,
+		"display_text_range": [
+			67,
+			182
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -6699,7 +6335,7 @@ Grailbird.data.tweets_2018_07 =
 				},
 				{
 					"screen_name": "MindWise_CK",
-					"name": "Caitlin E. Krause",
+					"name": "Caitlin Krause",
 					"id": 23375706,
 					"id_str": "23375706",
 					"indices": [
@@ -6728,17 +6364,7 @@ Grailbird.data.tweets_2018_07 =
 					]
 				}
 			],
-			"urls": [
-				{
-					"url": "https://t.co/yCMOrbNS9F",
-					"expanded_url": "https://twitter.com/i/web/status/1022846200372969474",
-					"display_url": "twitter.com/i/web/status/1…",
-					"indices": [
-						117,
-						140
-					]
-				}
-			]
+			"urls": []
 		},
 		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
 		"in_reply_to_status_id": 1022610876602433500,
@@ -6773,16 +6399,16 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 6803,
-			"friends_count": 2634,
-			"listed_count": 463,
+			"followers_count": 6835,
+			"friends_count": 2702,
+			"listed_count": 459,
 			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
-			"favourites_count": 397,
+			"favourites_count": 421,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 24815,
+			"statuses_count": 24915,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -6791,8 +6417,8 @@ Grailbird.data.tweets_2018_07 =
 			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": true,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
 			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
 			"profile_link_color": "0000FF",
 			"profile_sidebar_border_color": "FFFFFF",
@@ -6813,17 +6439,22 @@ Grailbird.data.tweets_2018_07 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 2,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@traceywins @SWorsnup @msmreed @MindWise_CK @jancey5 @globalearner It’s was great seeing you both! A shame we didn’t get to sit and chat over coffee. Please do keep in touch. Cheers!"
 	},
 	{
 		"created_at": "Fri Jul 27 14:06:33 +0000 2018",
 		"id": 1022845701552787500,
 		"id_str": "1022845701552787456",
-		"text": "Thanks again Carolyn! Your sketch notes are beautiful. :-) https://t.co/okzlGXZcvi",
+		"full_text": "Thanks again Carolyn! Your sketch notes are beautiful. :-) https://t.co/okzlGXZcvi",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			58
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -6831,8 +6462,8 @@ Grailbird.data.tweets_2018_07 =
 			"urls": [
 				{
 					"url": "https://t.co/okzlGXZcvi",
-					"expanded_url": "https://twitter.com/cspencernc/status/1022546787867996161",
-					"display_url": "twitter.com/cspencernc/sta…",
+					"expanded_url": "https://twitter.com/cspencerNC/status/1022546787867996161",
+					"display_url": "twitter.com/cspencerNC/sta…",
 					"indices": [
 						59,
 						82
@@ -6873,16 +6504,16 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 6803,
-			"friends_count": 2634,
-			"listed_count": 463,
+			"followers_count": 6835,
+			"friends_count": 2702,
+			"listed_count": 459,
 			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
-			"favourites_count": 397,
+			"favourites_count": 421,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 24815,
+			"statuses_count": 24915,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -6891,8 +6522,8 @@ Grailbird.data.tweets_2018_07 =
 			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": true,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
 			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
 			"profile_link_color": "0000FF",
 			"profile_sidebar_border_color": "FFFFFF",
@@ -6914,12 +6545,21 @@ Grailbird.data.tweets_2018_07 =
 		"is_quote_status": true,
 		"quoted_status_id": 1022546787867996200,
 		"quoted_status_id_str": "1022546787867996161",
+		"quoted_status_permalink": {
+			"url": "https://t.co/okzlGXZcvi",
+			"expanded": "https://twitter.com/cspencerNC/status/1022546787867996161",
+			"display": "twitter.com/cspencerNC/sta…"
+		},
 		"quoted_status": {
 			"created_at": "Thu Jul 26 18:18:46 +0000 2018",
 			"id": 1022546787867996200,
 			"id_str": "1022546787867996161",
-			"text": "As always, challenged in my practice by @dkuropatwa in the best possible way. #BLC18 #sketchED #sketchnote… https://t.co/ahtbZOWh1F",
-			"truncated": true,
+			"full_text": "As always, challenged in my practice by @dkuropatwa in the best possible way. #BLC18 #sketchED #sketchnote @GCSHighSchools https://t.co/KSrWcWtBqq",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				122
+			],
 			"entities": {
 				"hashtags": [
 					{
@@ -6955,17 +6595,95 @@ Grailbird.data.tweets_2018_07 =
 							40,
 							51
 						]
+					},
+					{
+						"screen_name": "GCSHighSchools",
+						"name": "HS Academic Services",
+						"id": 766082425336242200,
+						"id_str": "766082425336242176",
+						"indices": [
+							107,
+							122
+						]
 					}
 				],
-				"urls": [
+				"urls": [],
+				"media": [
 					{
-						"url": "https://t.co/ahtbZOWh1F",
-						"expanded_url": "https://twitter.com/i/web/status/1022546787867996161",
-						"display_url": "twitter.com/i/web/status/1…",
+						"id": 1022546762811277300,
+						"id_str": "1022546762811277313",
 						"indices": [
-							108,
-							131
-						]
+							123,
+							146
+						],
+						"media_url": "http://pbs.twimg.com/media/DjDQ3POXgAEKEnx.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DjDQ3POXgAEKEnx.jpg",
+						"url": "https://t.co/KSrWcWtBqq",
+						"display_url": "pic.twitter.com/KSrWcWtBqq",
+						"expanded_url": "https://twitter.com/cspencerNC/status/1022546787867996161/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 899,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1534,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 509,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1022546762811277300,
+						"id_str": "1022546762811277313",
+						"indices": [
+							123,
+							146
+						],
+						"media_url": "http://pbs.twimg.com/media/DjDQ3POXgAEKEnx.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DjDQ3POXgAEKEnx.jpg",
+						"url": "https://t.co/KSrWcWtBqq",
+						"display_url": "pic.twitter.com/KSrWcWtBqq",
+						"expanded_url": "https://twitter.com/cspencerNC/status/1022546787867996161/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 899,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1534,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 509,
+								"resize": "fit"
+							}
+						}
 					}
 				]
 			},
@@ -7002,16 +6720,16 @@ Grailbird.data.tweets_2018_07 =
 					}
 				},
 				"protected": false,
-				"followers_count": 410,
-				"friends_count": 973,
+				"followers_count": 442,
+				"friends_count": 982,
 				"listed_count": 30,
 				"created_at": "Sun Aug 12 20:31:27 +0000 2012",
-				"favourites_count": 1219,
+				"favourites_count": 1342,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": false,
-				"statuses_count": 673,
+				"statuses_count": 711,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -7031,7 +6749,7 @@ Grailbird.data.tweets_2018_07 =
 				"has_extended_profile": true,
 				"default_profile": true,
 				"default_profile_image": false,
-				"following": false,
+				"following": true,
 				"follow_request_sent": false,
 				"notifications": false,
 				"translator_type": "none"
@@ -7041,56 +6759,51 @@ Grailbird.data.tweets_2018_07 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 1,
-			"favorite_count": 6,
+			"retweet_count": 2,
+			"favorite_count": 10,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
 			"lang": "en"
 		},
 		"retweet_count": 0,
-		"favorite_count": 2,
+		"favorite_count": 4,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Thanks again Carolyn! Your sketch notes are beautiful. :-) https://t.co/okzlGXZcvi"
 	},
 	{
-		"created_at": "Fri Jul 27 14:05:26 +0000 2018",
-		"id": 1022845421679468500,
-		"id_str": "1022845421679468544",
-		"text": "RT @NLearning: “Making thinking visible is not the end goal, it is part of the process.”By @dkuropatwa #blc18 https://t.co/cVBQrKhohQ",
+		"created_at": "Thu Jul 26 18:00:38 +0000 2018",
+		"id": 1022542224750456800,
+		"id_str": "1022542224750456837",
+		"full_text": "“Making thinking visible is not the end goal, it is part of the process.”By @dkuropatwa #blc18 https://t.co/cVBQrKhohQ",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
 		"entities": {
 			"hashtags": [
 				{
 					"text": "blc18",
 					"indices": [
-						103,
-						109
+						88,
+						94
 					]
 				}
 			],
 			"symbols": [],
 			"user_mentions": [
 				{
-					"screen_name": "NLearning",
-					"name": "November Learning",
-					"id": 12042382,
-					"id_str": "12042382",
-					"indices": [
-						3,
-						13
-					]
-				},
-				{
 					"screen_name": "dkuropatwa",
 					"name": "Darren Kuropatwa",
 					"id": 5634392,
 					"id_str": "5634392",
 					"indices": [
-						91,
-						102
+						76,
+						87
 					]
 				}
 			],
@@ -7100,8 +6813,8 @@ Grailbird.data.tweets_2018_07 =
 					"id": 1022542222682718200,
 					"id_str": "1022542222682718210",
 					"indices": [
-						110,
-						133
+						95,
+						118
 					],
 					"media_url": "http://pbs.twimg.com/media/DjDMu97XgAIrdRI.jpg",
 					"media_url_https": "https://pbs.twimg.com/media/DjDMu97XgAIrdRI.jpg",
@@ -7130,11 +6843,7 @@ Grailbird.data.tweets_2018_07 =
 							"h": 670,
 							"resize": "fit"
 						}
-					},
-					"source_status_id": 1022542224750456800,
-					"source_status_id_str": "1022542224750456837",
-					"source_user_id": 12042382,
-					"source_user_id_str": "12042382"
+					}
 				}
 			]
 		},
@@ -7144,8 +6853,8 @@ Grailbird.data.tweets_2018_07 =
 					"id": 1022542222682718200,
 					"id_str": "1022542222682718210",
 					"indices": [
-						110,
-						133
+						95,
+						118
 					],
 					"media_url": "http://pbs.twimg.com/media/DjDMu97XgAIrdRI.jpg",
 					"media_url_https": "https://pbs.twimg.com/media/DjDMu97XgAIrdRI.jpg",
@@ -7174,35 +6883,31 @@ Grailbird.data.tweets_2018_07 =
 							"h": 670,
 							"resize": "fit"
 						}
-					},
-					"source_status_id": 1022542224750456800,
-					"source_status_id_str": "1022542224750456837",
-					"source_user_id": 12042382,
-					"source_user_id_str": "12042382"
+					}
 				}
 			]
 		},
-		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
 		"in_reply_to_status_id": null,
 		"in_reply_to_status_id_str": null,
 		"in_reply_to_user_id": null,
 		"in_reply_to_user_id_str": null,
 		"in_reply_to_screen_name": null,
 		"user": {
-			"id": 5634392,
-			"id_str": "5634392",
-			"name": "Darren Kuropatwa",
-			"screen_name": "dkuropatwa",
-			"location": "Winnipeg, Manitoba, Canada",
-			"description": "Educator. Always in beta ∞β.",
-			"url": "https://t.co/FJEo2rIADF",
+			"id": 12042382,
+			"id_str": "12042382",
+			"name": "November Learning",
+			"screen_name": "NLearning",
+			"location": "Marblehead, MA",
+			"description": "Led by @globalearner, we proudly hosts the Building Learning Communities Conference. Learn more about our consulting services, workshops, and rich resources.",
+			"url": "https://t.co/JuJJcEE3uN",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/FJEo2rIADF",
-							"expanded_url": "http://adifference.blogspot.com",
-							"display_url": "adifference.blogspot.com",
+							"url": "https://t.co/JuJJcEE3uN",
+							"expanded_url": "http://www.novemberlearning.com",
+							"display_url": "novemberlearning.com",
 							"indices": [
 								0,
 								23
@@ -7215,36 +6920,35 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 6803,
-			"friends_count": 2634,
-			"listed_count": 463,
-			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
-			"favourites_count": 397,
+			"followers_count": 15485,
+			"friends_count": 618,
+			"listed_count": 503,
+			"created_at": "Wed Jan 09 20:17:16 +0000 2008",
+			"favourites_count": 229,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
-			"verified": true,
-			"statuses_count": 24815,
+			"verified": false,
+			"statuses_count": 8340,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
-			"profile_background_color": "9AE4E8",
+			"profile_background_color": "2A65B4",
 			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": true,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
-			"profile_link_color": "0000FF",
-			"profile_sidebar_border_color": "FFFFFF",
-			"profile_sidebar_fill_color": "67CD67",
-			"profile_text_color": "000000",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/73380919/nlicon_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/73380919/nlicon_normal.jpg",
+			"profile_link_color": "2A65B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "EEEEEE",
+			"profile_text_color": "333333",
 			"profile_use_background_image": true,
-			"has_extended_profile": true,
+			"has_extended_profile": false,
 			"default_profile": false,
 			"default_profile_image": false,
-			"following": false,
+			"following": true,
 			"follow_request_sent": false,
 			"notifications": false,
 			"translator_type": "none"
@@ -7253,219 +6957,621 @@ Grailbird.data.tweets_2018_07 =
 		"coordinates": null,
 		"place": null,
 		"contributors": null,
-		"retweeted_status": {
-			"created_at": "Thu Jul 26 18:00:38 +0000 2018",
-			"id": 1022542224750456800,
-			"id_str": "1022542224750456837",
-			"text": "“Making thinking visible is not the end goal, it is part of the process.”By @dkuropatwa #blc18 https://t.co/cVBQrKhohQ",
-			"truncated": false,
-			"entities": {
-				"hashtags": [
-					{
-						"text": "blc18",
-						"indices": [
-							88,
-							94
-						]
-					}
-				],
-				"symbols": [],
-				"user_mentions": [
-					{
-						"screen_name": "dkuropatwa",
-						"name": "Darren Kuropatwa",
-						"id": 5634392,
-						"id_str": "5634392",
-						"indices": [
-							76,
-							87
-						]
-					}
-				],
-				"urls": [],
-				"media": [
-					{
-						"id": 1022542222682718200,
-						"id_str": "1022542222682718210",
-						"indices": [
-							95,
-							118
-						],
-						"media_url": "http://pbs.twimg.com/media/DjDMu97XgAIrdRI.jpg",
-						"media_url_https": "https://pbs.twimg.com/media/DjDMu97XgAIrdRI.jpg",
-						"url": "https://t.co/cVBQrKhohQ",
-						"display_url": "pic.twitter.com/cVBQrKhohQ",
-						"expanded_url": "https://twitter.com/NLearning/status/1022542224750456837/photo/1",
-						"type": "photo",
-						"sizes": {
-							"thumb": {
-								"w": 150,
-								"h": 150,
-								"resize": "crop"
-							},
-							"medium": {
-								"w": 1200,
-								"h": 670,
-								"resize": "fit"
-							},
-							"small": {
-								"w": 680,
-								"h": 380,
-								"resize": "fit"
-							},
-							"large": {
-								"w": 1200,
-								"h": 670,
-								"resize": "fit"
-							}
-						}
-					}
-				]
-			},
-			"extended_entities": {
-				"media": [
-					{
-						"id": 1022542222682718200,
-						"id_str": "1022542222682718210",
-						"indices": [
-							95,
-							118
-						],
-						"media_url": "http://pbs.twimg.com/media/DjDMu97XgAIrdRI.jpg",
-						"media_url_https": "https://pbs.twimg.com/media/DjDMu97XgAIrdRI.jpg",
-						"url": "https://t.co/cVBQrKhohQ",
-						"display_url": "pic.twitter.com/cVBQrKhohQ",
-						"expanded_url": "https://twitter.com/NLearning/status/1022542224750456837/photo/1",
-						"type": "photo",
-						"sizes": {
-							"thumb": {
-								"w": 150,
-								"h": 150,
-								"resize": "crop"
-							},
-							"medium": {
-								"w": 1200,
-								"h": 670,
-								"resize": "fit"
-							},
-							"small": {
-								"w": 680,
-								"h": 380,
-								"resize": "fit"
-							},
-							"large": {
-								"w": 1200,
-								"h": 670,
-								"resize": "fit"
-							}
-						}
-					}
-				]
-			},
-			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
-			"in_reply_to_status_id": null,
-			"in_reply_to_status_id_str": null,
-			"in_reply_to_user_id": null,
-			"in_reply_to_user_id_str": null,
-			"in_reply_to_screen_name": null,
-			"user": {
-				"id": 12042382,
-				"id_str": "12042382",
-				"name": "November Learning",
-				"screen_name": "NLearning",
-				"location": "Marblehead, MA",
-				"description": "Led by @globalearner, we proudly hosts the Building Learning Communities Conference. Learn more about our consulting services, workshops, and rich resources.",
-				"url": "https://t.co/JuJJcEE3uN",
-				"entities": {
-					"url": {
-						"urls": [
-							{
-								"url": "https://t.co/JuJJcEE3uN",
-								"expanded_url": "http://www.novemberlearning.com",
-								"display_url": "novemberlearning.com",
-								"indices": [
-									0,
-									23
-								]
-							}
-						]
-					},
-					"description": {
-						"urls": []
-					}
-				},
-				"protected": false,
-				"followers_count": 15393,
-				"friends_count": 574,
-				"listed_count": 501,
-				"created_at": "Wed Jan 09 20:17:16 +0000 2008",
-				"favourites_count": 200,
-				"utc_offset": null,
-				"time_zone": null,
-				"geo_enabled": false,
-				"verified": false,
-				"statuses_count": 8094,
-				"lang": "en",
-				"contributors_enabled": false,
-				"is_translator": false,
-				"is_translation_enabled": false,
-				"profile_background_color": "2A65B4",
-				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-				"profile_background_tile": false,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/73380919/nlicon_normal.jpg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/73380919/nlicon_normal.jpg",
-				"profile_link_color": "2A65B4",
-				"profile_sidebar_border_color": "BDDCAD",
-				"profile_sidebar_fill_color": "EEEEEE",
-				"profile_text_color": "333333",
-				"profile_use_background_image": true,
-				"has_extended_profile": false,
-				"default_profile": false,
-				"default_profile_image": false,
-				"following": true,
-				"follow_request_sent": false,
-				"notifications": false,
-				"translator_type": "none"
-			},
-			"geo": null,
-			"coordinates": null,
-			"place": null,
-			"contributors": null,
-			"is_quote_status": false,
-			"retweet_count": 2,
-			"favorite_count": 4,
-			"favorited": false,
-			"retweeted": true,
-			"possibly_sensitive": false,
-			"lang": "en"
-		},
 		"is_quote_status": false,
 		"retweet_count": 2,
-		"favorite_count": 0,
+		"favorite_count": 6,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "“Making thinking visible is not the end goal, it is part of the process.”By @dkuropatwa #blc18 https://t.co/cVBQrKhohQ"
 	},
 	{
-		"created_at": "Fri Jul 27 14:04:14 +0000 2018",
-		"id": 1022845120331300900,
-		"id_str": "1022845120331300866",
-		"text": "RT @NLearning: “Teachers do not cause learning. Learning is something that comes out of the mind of the learner... a permanent change in kn…",
+		"created_at": "Thu Jul 26 17:42:29 +0000 2018",
+		"id": 1022537656629166100,
+		"id_str": "1022537656629166080",
+		"full_text": "“Teachers do not cause learning. Learning is something that comes out of the mind of the learner... a permanent change in knowledge or behavior.” @dkuropatwa #blc18 https://t.co/jbby6DeZZJ",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
 		"entities": {
-			"hashtags": [],
+			"hashtags": [
+				{
+					"text": "blc18",
+					"indices": [
+						158,
+						164
+					]
+				}
+			],
 			"symbols": [],
 			"user_mentions": [
 				{
-					"screen_name": "NLearning",
-					"name": "November Learning",
-					"id": 12042382,
-					"id_str": "12042382",
+					"screen_name": "dkuropatwa",
+					"name": "Darren Kuropatwa",
+					"id": 5634392,
+					"id_str": "5634392",
 					"indices": [
-						3,
-						13
+						146,
+						157
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1022537654800449500,
+					"id_str": "1022537654800449537",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/DjDIlFPXgAEISv8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DjDIlFPXgAEISv8.jpg",
+					"url": "https://t.co/jbby6DeZZJ",
+					"display_url": "pic.twitter.com/jbby6DeZZJ",
+					"expanded_url": "https://twitter.com/NLearning/status/1022537656629166080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 670,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 670,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 380,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1022537654800449500,
+					"id_str": "1022537654800449537",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/DjDIlFPXgAEISv8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DjDIlFPXgAEISv8.jpg",
+					"url": "https://t.co/jbby6DeZZJ",
+					"display_url": "pic.twitter.com/jbby6DeZZJ",
+					"expanded_url": "https://twitter.com/NLearning/status/1022537656629166080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 670,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 670,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 380,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 12042382,
+			"id_str": "12042382",
+			"name": "November Learning",
+			"screen_name": "NLearning",
+			"location": "Marblehead, MA",
+			"description": "Led by @globalearner, we proudly hosts the Building Learning Communities Conference. Learn more about our consulting services, workshops, and rich resources.",
+			"url": "https://t.co/JuJJcEE3uN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/JuJJcEE3uN",
+							"expanded_url": "http://www.novemberlearning.com",
+							"display_url": "novemberlearning.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15485,
+			"friends_count": 618,
+			"listed_count": 503,
+			"created_at": "Wed Jan 09 20:17:16 +0000 2008",
+			"favourites_count": 229,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8340,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "2A65B4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/73380919/nlicon_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/73380919/nlicon_normal.jpg",
+			"profile_link_color": "2A65B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "EEEEEE",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“Teachers do not cause learning. Learning is something that comes out of the mind of the learner... a permanent change in knowledge or behavior.” @dkuropatwa #blc18 https://t.co/jbby6DeZZJ"
+	},
+	{
+		"created_at": "Thu Jul 26 17:34:10 +0000 2018",
+		"id": 1022535561674940400,
+		"id_str": "1022535561674940416",
+		"full_text": "Pedagogical Strategies “Everything works sometimes... nothing works every time” @dkuropatwa #blc18 https://t.co/HNeQ7JTc4c",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "blc18",
+					"indices": [
+						92,
+						98
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dkuropatwa",
+					"name": "Darren Kuropatwa",
+					"id": 5634392,
+					"id_str": "5634392",
+					"indices": [
+						80,
+						91
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1022535559737172000,
+					"id_str": "1022535559737171970",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/DjDGrIhW4AIngFS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DjDGrIhW4AIngFS.jpg",
+					"url": "https://t.co/HNeQ7JTc4c",
+					"display_url": "pic.twitter.com/HNeQ7JTc4c",
+					"expanded_url": "https://twitter.com/NLearning/status/1022535561674940416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 670,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 380,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 670,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1022535559737172000,
+					"id_str": "1022535559737171970",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/DjDGrIhW4AIngFS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DjDGrIhW4AIngFS.jpg",
+					"url": "https://t.co/HNeQ7JTc4c",
+					"display_url": "pic.twitter.com/HNeQ7JTc4c",
+					"expanded_url": "https://twitter.com/NLearning/status/1022535561674940416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 670,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 380,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 670,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 12042382,
+			"id_str": "12042382",
+			"name": "November Learning",
+			"screen_name": "NLearning",
+			"location": "Marblehead, MA",
+			"description": "Led by @globalearner, we proudly hosts the Building Learning Communities Conference. Learn more about our consulting services, workshops, and rich resources.",
+			"url": "https://t.co/JuJJcEE3uN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/JuJJcEE3uN",
+							"expanded_url": "http://www.novemberlearning.com",
+							"display_url": "novemberlearning.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15485,
+			"friends_count": 618,
+			"listed_count": 503,
+			"created_at": "Wed Jan 09 20:17:16 +0000 2008",
+			"favourites_count": 229,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8340,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "2A65B4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/73380919/nlicon_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/73380919/nlicon_normal.jpg",
+			"profile_link_color": "2A65B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "EEEEEE",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Pedagogical Strategies “Everything works sometimes... nothing works every time” @dkuropatwa #blc18 https://t.co/HNeQ7JTc4c"
+	},
+	{
+		"created_at": "Thu Jul 26 17:26:55 +0000 2018",
+		"id": 1022533739665154000,
+		"id_str": "1022533739665154048",
+		"full_text": "@dkuropatwa challenges #BLC18 to think about: What is pedagogy? \nWhat is a pedagogical goal? https://t.co/jEJT0k9YN3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLC18",
+					"indices": [
+						23,
+						29
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dkuropatwa",
+					"name": "Darren Kuropatwa",
+					"id": 5634392,
+					"id_str": "5634392",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1022533737962262500,
+					"id_str": "1022533737962262528",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/DjDFBF4X0AAGuLd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DjDFBF4X0AAGuLd.jpg",
+					"url": "https://t.co/jEJT0k9YN3",
+					"display_url": "pic.twitter.com/jEJT0k9YN3",
+					"expanded_url": "https://twitter.com/NLearning/status/1022533739665154048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 380,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 670,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 670,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1022533737962262500,
+					"id_str": "1022533737962262528",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/DjDFBF4X0AAGuLd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DjDFBF4X0AAGuLd.jpg",
+					"url": "https://t.co/jEJT0k9YN3",
+					"display_url": "pic.twitter.com/jEJT0k9YN3",
+					"expanded_url": "https://twitter.com/NLearning/status/1022533739665154048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 380,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 670,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 670,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 5634392,
+		"in_reply_to_user_id_str": "5634392",
+		"in_reply_to_screen_name": "dkuropatwa",
+		"user": {
+			"id": 12042382,
+			"id_str": "12042382",
+			"name": "November Learning",
+			"screen_name": "NLearning",
+			"location": "Marblehead, MA",
+			"description": "Led by @globalearner, we proudly hosts the Building Learning Communities Conference. Learn more about our consulting services, workshops, and rich resources.",
+			"url": "https://t.co/JuJJcEE3uN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/JuJJcEE3uN",
+							"expanded_url": "http://www.novemberlearning.com",
+							"display_url": "novemberlearning.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15485,
+			"friends_count": 618,
+			"listed_count": 503,
+			"created_at": "Wed Jan 09 20:17:16 +0000 2008",
+			"favourites_count": 229,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8340,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "2A65B4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/73380919/nlicon_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/73380919/nlicon_normal.jpg",
+			"profile_link_color": "2A65B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "EEEEEE",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@dkuropatwa challenges #BLC18 to think about: What is pedagogy? \nWhat is a pedagogical goal? https://t.co/jEJT0k9YN3"
+	},
+	{
+		"created_at": "Fri Jul 27 14:02:33 +0000 2018",
+		"id": 1022844693707739100,
+		"id_str": "1022844693707739136",
+		"full_text": "“Organizations don’t #change by dwelling on the negative, the change by focusing on what they do well and doing more of that.” via @Edu21Century @ BLC18",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "change",
+					"indices": [
+						21,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Edu21Century",
+					"name": "Ted Dintersmith",
+					"id": 627938744,
+					"id_str": "627938744",
+					"indices": [
+						131,
+						144
 					]
 				}
 			],
@@ -7504,16 +7610,16 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 6803,
-			"friends_count": 2634,
-			"listed_count": 463,
+			"followers_count": 6835,
+			"friends_count": 2702,
+			"listed_count": 459,
 			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
-			"favourites_count": 397,
+			"favourites_count": 421,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 24815,
+			"statuses_count": 24915,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -7522,1002 +7628,8 @@ Grailbird.data.tweets_2018_07 =
 			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": true,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
-			"profile_link_color": "0000FF",
-			"profile_sidebar_border_color": "FFFFFF",
-			"profile_sidebar_fill_color": "67CD67",
-			"profile_text_color": "000000",
-			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"retweeted_status": {
-			"created_at": "Thu Jul 26 17:42:29 +0000 2018",
-			"id": 1022537656629166100,
-			"id_str": "1022537656629166080",
-			"text": "“Teachers do not cause learning. Learning is something that comes out of the mind of the learner... a permanent cha… https://t.co/eHtNCmkslc",
-			"truncated": true,
-			"entities": {
-				"hashtags": [],
-				"symbols": [],
-				"user_mentions": [],
-				"urls": [
-					{
-						"url": "https://t.co/eHtNCmkslc",
-						"expanded_url": "https://twitter.com/i/web/status/1022537656629166080",
-						"display_url": "twitter.com/i/web/status/1…",
-						"indices": [
-							117,
-							140
-						]
-					}
-				]
-			},
-			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
-			"in_reply_to_status_id": null,
-			"in_reply_to_status_id_str": null,
-			"in_reply_to_user_id": null,
-			"in_reply_to_user_id_str": null,
-			"in_reply_to_screen_name": null,
-			"user": {
-				"id": 12042382,
-				"id_str": "12042382",
-				"name": "November Learning",
-				"screen_name": "NLearning",
-				"location": "Marblehead, MA",
-				"description": "Led by @globalearner, we proudly hosts the Building Learning Communities Conference. Learn more about our consulting services, workshops, and rich resources.",
-				"url": "https://t.co/JuJJcEE3uN",
-				"entities": {
-					"url": {
-						"urls": [
-							{
-								"url": "https://t.co/JuJJcEE3uN",
-								"expanded_url": "http://www.novemberlearning.com",
-								"display_url": "novemberlearning.com",
-								"indices": [
-									0,
-									23
-								]
-							}
-						]
-					},
-					"description": {
-						"urls": []
-					}
-				},
-				"protected": false,
-				"followers_count": 15393,
-				"friends_count": 574,
-				"listed_count": 501,
-				"created_at": "Wed Jan 09 20:17:16 +0000 2008",
-				"favourites_count": 200,
-				"utc_offset": null,
-				"time_zone": null,
-				"geo_enabled": false,
-				"verified": false,
-				"statuses_count": 8094,
-				"lang": "en",
-				"contributors_enabled": false,
-				"is_translator": false,
-				"is_translation_enabled": false,
-				"profile_background_color": "2A65B4",
-				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-				"profile_background_tile": false,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/73380919/nlicon_normal.jpg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/73380919/nlicon_normal.jpg",
-				"profile_link_color": "2A65B4",
-				"profile_sidebar_border_color": "BDDCAD",
-				"profile_sidebar_fill_color": "EEEEEE",
-				"profile_text_color": "333333",
-				"profile_use_background_image": true,
-				"has_extended_profile": false,
-				"default_profile": false,
-				"default_profile_image": false,
-				"following": true,
-				"follow_request_sent": false,
-				"notifications": false,
-				"translator_type": "none"
-			},
-			"geo": null,
-			"coordinates": null,
-			"place": null,
-			"contributors": null,
-			"is_quote_status": false,
-			"retweet_count": 2,
-			"favorite_count": 9,
-			"favorited": false,
-			"retweeted": true,
-			"possibly_sensitive": false,
-			"lang": "en"
-		},
-		"is_quote_status": false,
-		"retweet_count": 2,
-		"favorite_count": 0,
-		"favorited": false,
-		"retweeted": true,
-		"lang": "en"
-	},
-	{
-		"created_at": "Fri Jul 27 14:04:07 +0000 2018",
-		"id": 1022845087313809400,
-		"id_str": "1022845087313809410",
-		"text": "RT @NLearning: Pedagogical Strategies “Everything works sometimes... nothing works every time” @dkuropatwa #blc18 https://t.co/HNeQ7JTc4c",
-		"truncated": false,
-		"entities": {
-			"hashtags": [
-				{
-					"text": "blc18",
-					"indices": [
-						107,
-						113
-					]
-				}
-			],
-			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "NLearning",
-					"name": "November Learning",
-					"id": 12042382,
-					"id_str": "12042382",
-					"indices": [
-						3,
-						13
-					]
-				},
-				{
-					"screen_name": "dkuropatwa",
-					"name": "Darren Kuropatwa",
-					"id": 5634392,
-					"id_str": "5634392",
-					"indices": [
-						95,
-						106
-					]
-				}
-			],
-			"urls": [],
-			"media": [
-				{
-					"id": 1022535559737172000,
-					"id_str": "1022535559737171970",
-					"indices": [
-						114,
-						137
-					],
-					"media_url": "http://pbs.twimg.com/media/DjDGrIhW4AIngFS.jpg",
-					"media_url_https": "https://pbs.twimg.com/media/DjDGrIhW4AIngFS.jpg",
-					"url": "https://t.co/HNeQ7JTc4c",
-					"display_url": "pic.twitter.com/HNeQ7JTc4c",
-					"expanded_url": "https://twitter.com/NLearning/status/1022535561674940416/photo/1",
-					"type": "photo",
-					"sizes": {
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"medium": {
-							"w": 1200,
-							"h": 670,
-							"resize": "fit"
-						},
-						"small": {
-							"w": 680,
-							"h": 380,
-							"resize": "fit"
-						},
-						"large": {
-							"w": 1200,
-							"h": 670,
-							"resize": "fit"
-						}
-					},
-					"source_status_id": 1022535561674940400,
-					"source_status_id_str": "1022535561674940416",
-					"source_user_id": 12042382,
-					"source_user_id_str": "12042382"
-				}
-			]
-		},
-		"extended_entities": {
-			"media": [
-				{
-					"id": 1022535559737172000,
-					"id_str": "1022535559737171970",
-					"indices": [
-						114,
-						137
-					],
-					"media_url": "http://pbs.twimg.com/media/DjDGrIhW4AIngFS.jpg",
-					"media_url_https": "https://pbs.twimg.com/media/DjDGrIhW4AIngFS.jpg",
-					"url": "https://t.co/HNeQ7JTc4c",
-					"display_url": "pic.twitter.com/HNeQ7JTc4c",
-					"expanded_url": "https://twitter.com/NLearning/status/1022535561674940416/photo/1",
-					"type": "photo",
-					"sizes": {
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"medium": {
-							"w": 1200,
-							"h": 670,
-							"resize": "fit"
-						},
-						"small": {
-							"w": 680,
-							"h": 380,
-							"resize": "fit"
-						},
-						"large": {
-							"w": 1200,
-							"h": 670,
-							"resize": "fit"
-						}
-					},
-					"source_status_id": 1022535561674940400,
-					"source_status_id_str": "1022535561674940416",
-					"source_user_id": 12042382,
-					"source_user_id_str": "12042382"
-				}
-			]
-		},
-		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 5634392,
-			"id_str": "5634392",
-			"name": "Darren Kuropatwa",
-			"screen_name": "dkuropatwa",
-			"location": "Winnipeg, Manitoba, Canada",
-			"description": "Educator. Always in beta ∞β.",
-			"url": "https://t.co/FJEo2rIADF",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/FJEo2rIADF",
-							"expanded_url": "http://adifference.blogspot.com",
-							"display_url": "adifference.blogspot.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 6803,
-			"friends_count": 2634,
-			"listed_count": 463,
-			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
-			"favourites_count": 397,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": false,
-			"verified": true,
-			"statuses_count": 24815,
-			"lang": "en",
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "9AE4E8",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": true,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
-			"profile_link_color": "0000FF",
-			"profile_sidebar_border_color": "FFFFFF",
-			"profile_sidebar_fill_color": "67CD67",
-			"profile_text_color": "000000",
-			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"retweeted_status": {
-			"created_at": "Thu Jul 26 17:34:10 +0000 2018",
-			"id": 1022535561674940400,
-			"id_str": "1022535561674940416",
-			"text": "Pedagogical Strategies “Everything works sometimes... nothing works every time” @dkuropatwa #blc18 https://t.co/HNeQ7JTc4c",
-			"truncated": false,
-			"entities": {
-				"hashtags": [
-					{
-						"text": "blc18",
-						"indices": [
-							92,
-							98
-						]
-					}
-				],
-				"symbols": [],
-				"user_mentions": [
-					{
-						"screen_name": "dkuropatwa",
-						"name": "Darren Kuropatwa",
-						"id": 5634392,
-						"id_str": "5634392",
-						"indices": [
-							80,
-							91
-						]
-					}
-				],
-				"urls": [],
-				"media": [
-					{
-						"id": 1022535559737172000,
-						"id_str": "1022535559737171970",
-						"indices": [
-							99,
-							122
-						],
-						"media_url": "http://pbs.twimg.com/media/DjDGrIhW4AIngFS.jpg",
-						"media_url_https": "https://pbs.twimg.com/media/DjDGrIhW4AIngFS.jpg",
-						"url": "https://t.co/HNeQ7JTc4c",
-						"display_url": "pic.twitter.com/HNeQ7JTc4c",
-						"expanded_url": "https://twitter.com/NLearning/status/1022535561674940416/photo/1",
-						"type": "photo",
-						"sizes": {
-							"thumb": {
-								"w": 150,
-								"h": 150,
-								"resize": "crop"
-							},
-							"medium": {
-								"w": 1200,
-								"h": 670,
-								"resize": "fit"
-							},
-							"small": {
-								"w": 680,
-								"h": 380,
-								"resize": "fit"
-							},
-							"large": {
-								"w": 1200,
-								"h": 670,
-								"resize": "fit"
-							}
-						}
-					}
-				]
-			},
-			"extended_entities": {
-				"media": [
-					{
-						"id": 1022535559737172000,
-						"id_str": "1022535559737171970",
-						"indices": [
-							99,
-							122
-						],
-						"media_url": "http://pbs.twimg.com/media/DjDGrIhW4AIngFS.jpg",
-						"media_url_https": "https://pbs.twimg.com/media/DjDGrIhW4AIngFS.jpg",
-						"url": "https://t.co/HNeQ7JTc4c",
-						"display_url": "pic.twitter.com/HNeQ7JTc4c",
-						"expanded_url": "https://twitter.com/NLearning/status/1022535561674940416/photo/1",
-						"type": "photo",
-						"sizes": {
-							"thumb": {
-								"w": 150,
-								"h": 150,
-								"resize": "crop"
-							},
-							"medium": {
-								"w": 1200,
-								"h": 670,
-								"resize": "fit"
-							},
-							"small": {
-								"w": 680,
-								"h": 380,
-								"resize": "fit"
-							},
-							"large": {
-								"w": 1200,
-								"h": 670,
-								"resize": "fit"
-							}
-						}
-					}
-				]
-			},
-			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
-			"in_reply_to_status_id": null,
-			"in_reply_to_status_id_str": null,
-			"in_reply_to_user_id": null,
-			"in_reply_to_user_id_str": null,
-			"in_reply_to_screen_name": null,
-			"user": {
-				"id": 12042382,
-				"id_str": "12042382",
-				"name": "November Learning",
-				"screen_name": "NLearning",
-				"location": "Marblehead, MA",
-				"description": "Led by @globalearner, we proudly hosts the Building Learning Communities Conference. Learn more about our consulting services, workshops, and rich resources.",
-				"url": "https://t.co/JuJJcEE3uN",
-				"entities": {
-					"url": {
-						"urls": [
-							{
-								"url": "https://t.co/JuJJcEE3uN",
-								"expanded_url": "http://www.novemberlearning.com",
-								"display_url": "novemberlearning.com",
-								"indices": [
-									0,
-									23
-								]
-							}
-						]
-					},
-					"description": {
-						"urls": []
-					}
-				},
-				"protected": false,
-				"followers_count": 15393,
-				"friends_count": 574,
-				"listed_count": 501,
-				"created_at": "Wed Jan 09 20:17:16 +0000 2008",
-				"favourites_count": 200,
-				"utc_offset": null,
-				"time_zone": null,
-				"geo_enabled": false,
-				"verified": false,
-				"statuses_count": 8094,
-				"lang": "en",
-				"contributors_enabled": false,
-				"is_translator": false,
-				"is_translation_enabled": false,
-				"profile_background_color": "2A65B4",
-				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-				"profile_background_tile": false,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/73380919/nlicon_normal.jpg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/73380919/nlicon_normal.jpg",
-				"profile_link_color": "2A65B4",
-				"profile_sidebar_border_color": "BDDCAD",
-				"profile_sidebar_fill_color": "EEEEEE",
-				"profile_text_color": "333333",
-				"profile_use_background_image": true,
-				"has_extended_profile": false,
-				"default_profile": false,
-				"default_profile_image": false,
-				"following": true,
-				"follow_request_sent": false,
-				"notifications": false,
-				"translator_type": "none"
-			},
-			"geo": null,
-			"coordinates": null,
-			"place": null,
-			"contributors": null,
-			"is_quote_status": false,
-			"retweet_count": 2,
-			"favorite_count": 3,
-			"favorited": false,
-			"retweeted": true,
-			"possibly_sensitive": false,
-			"lang": "en"
-		},
-		"is_quote_status": false,
-		"retweet_count": 2,
-		"favorite_count": 0,
-		"favorited": false,
-		"retweeted": true,
-		"possibly_sensitive": false,
-		"lang": "en"
-	},
-	{
-		"created_at": "Fri Jul 27 14:04:00 +0000 2018",
-		"id": 1022845060898074600,
-		"id_str": "1022845060898074626",
-		"text": "RT @NLearning: @dkuropatwa challenges #BLC18 to think about: What is pedagogy? \nWhat is a pedagogical goal? https://t.co/jEJT0k9YN3",
-		"truncated": false,
-		"entities": {
-			"hashtags": [
-				{
-					"text": "BLC18",
-					"indices": [
-						38,
-						44
-					]
-				}
-			],
-			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "NLearning",
-					"name": "November Learning",
-					"id": 12042382,
-					"id_str": "12042382",
-					"indices": [
-						3,
-						13
-					]
-				},
-				{
-					"screen_name": "dkuropatwa",
-					"name": "Darren Kuropatwa",
-					"id": 5634392,
-					"id_str": "5634392",
-					"indices": [
-						15,
-						26
-					]
-				}
-			],
-			"urls": [],
-			"media": [
-				{
-					"id": 1022533737962262500,
-					"id_str": "1022533737962262528",
-					"indices": [
-						108,
-						131
-					],
-					"media_url": "http://pbs.twimg.com/media/DjDFBF4X0AAGuLd.jpg",
-					"media_url_https": "https://pbs.twimg.com/media/DjDFBF4X0AAGuLd.jpg",
-					"url": "https://t.co/jEJT0k9YN3",
-					"display_url": "pic.twitter.com/jEJT0k9YN3",
-					"expanded_url": "https://twitter.com/NLearning/status/1022533739665154048/photo/1",
-					"type": "photo",
-					"sizes": {
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"small": {
-							"w": 680,
-							"h": 380,
-							"resize": "fit"
-						},
-						"large": {
-							"w": 1200,
-							"h": 670,
-							"resize": "fit"
-						},
-						"medium": {
-							"w": 1200,
-							"h": 670,
-							"resize": "fit"
-						}
-					},
-					"source_status_id": 1022533739665154000,
-					"source_status_id_str": "1022533739665154048",
-					"source_user_id": 12042382,
-					"source_user_id_str": "12042382"
-				}
-			]
-		},
-		"extended_entities": {
-			"media": [
-				{
-					"id": 1022533737962262500,
-					"id_str": "1022533737962262528",
-					"indices": [
-						108,
-						131
-					],
-					"media_url": "http://pbs.twimg.com/media/DjDFBF4X0AAGuLd.jpg",
-					"media_url_https": "https://pbs.twimg.com/media/DjDFBF4X0AAGuLd.jpg",
-					"url": "https://t.co/jEJT0k9YN3",
-					"display_url": "pic.twitter.com/jEJT0k9YN3",
-					"expanded_url": "https://twitter.com/NLearning/status/1022533739665154048/photo/1",
-					"type": "photo",
-					"sizes": {
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"small": {
-							"w": 680,
-							"h": 380,
-							"resize": "fit"
-						},
-						"large": {
-							"w": 1200,
-							"h": 670,
-							"resize": "fit"
-						},
-						"medium": {
-							"w": 1200,
-							"h": 670,
-							"resize": "fit"
-						}
-					},
-					"source_status_id": 1022533739665154000,
-					"source_status_id_str": "1022533739665154048",
-					"source_user_id": 12042382,
-					"source_user_id_str": "12042382"
-				}
-			]
-		},
-		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 5634392,
-			"id_str": "5634392",
-			"name": "Darren Kuropatwa",
-			"screen_name": "dkuropatwa",
-			"location": "Winnipeg, Manitoba, Canada",
-			"description": "Educator. Always in beta ∞β.",
-			"url": "https://t.co/FJEo2rIADF",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/FJEo2rIADF",
-							"expanded_url": "http://adifference.blogspot.com",
-							"display_url": "adifference.blogspot.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 6803,
-			"friends_count": 2634,
-			"listed_count": 463,
-			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
-			"favourites_count": 397,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": false,
-			"verified": true,
-			"statuses_count": 24815,
-			"lang": "en",
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "9AE4E8",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": true,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
-			"profile_link_color": "0000FF",
-			"profile_sidebar_border_color": "FFFFFF",
-			"profile_sidebar_fill_color": "67CD67",
-			"profile_text_color": "000000",
-			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"retweeted_status": {
-			"created_at": "Thu Jul 26 17:26:55 +0000 2018",
-			"id": 1022533739665154000,
-			"id_str": "1022533739665154048",
-			"text": "@dkuropatwa challenges #BLC18 to think about: What is pedagogy? \nWhat is a pedagogical goal? https://t.co/jEJT0k9YN3",
-			"truncated": false,
-			"entities": {
-				"hashtags": [
-					{
-						"text": "BLC18",
-						"indices": [
-							23,
-							29
-						]
-					}
-				],
-				"symbols": [],
-				"user_mentions": [
-					{
-						"screen_name": "dkuropatwa",
-						"name": "Darren Kuropatwa",
-						"id": 5634392,
-						"id_str": "5634392",
-						"indices": [
-							0,
-							11
-						]
-					}
-				],
-				"urls": [],
-				"media": [
-					{
-						"id": 1022533737962262500,
-						"id_str": "1022533737962262528",
-						"indices": [
-							93,
-							116
-						],
-						"media_url": "http://pbs.twimg.com/media/DjDFBF4X0AAGuLd.jpg",
-						"media_url_https": "https://pbs.twimg.com/media/DjDFBF4X0AAGuLd.jpg",
-						"url": "https://t.co/jEJT0k9YN3",
-						"display_url": "pic.twitter.com/jEJT0k9YN3",
-						"expanded_url": "https://twitter.com/NLearning/status/1022533739665154048/photo/1",
-						"type": "photo",
-						"sizes": {
-							"thumb": {
-								"w": 150,
-								"h": 150,
-								"resize": "crop"
-							},
-							"small": {
-								"w": 680,
-								"h": 380,
-								"resize": "fit"
-							},
-							"large": {
-								"w": 1200,
-								"h": 670,
-								"resize": "fit"
-							},
-							"medium": {
-								"w": 1200,
-								"h": 670,
-								"resize": "fit"
-							}
-						}
-					}
-				]
-			},
-			"extended_entities": {
-				"media": [
-					{
-						"id": 1022533737962262500,
-						"id_str": "1022533737962262528",
-						"indices": [
-							93,
-							116
-						],
-						"media_url": "http://pbs.twimg.com/media/DjDFBF4X0AAGuLd.jpg",
-						"media_url_https": "https://pbs.twimg.com/media/DjDFBF4X0AAGuLd.jpg",
-						"url": "https://t.co/jEJT0k9YN3",
-						"display_url": "pic.twitter.com/jEJT0k9YN3",
-						"expanded_url": "https://twitter.com/NLearning/status/1022533739665154048/photo/1",
-						"type": "photo",
-						"sizes": {
-							"thumb": {
-								"w": 150,
-								"h": 150,
-								"resize": "crop"
-							},
-							"small": {
-								"w": 680,
-								"h": 380,
-								"resize": "fit"
-							},
-							"large": {
-								"w": 1200,
-								"h": 670,
-								"resize": "fit"
-							},
-							"medium": {
-								"w": 1200,
-								"h": 670,
-								"resize": "fit"
-							}
-						}
-					}
-				]
-			},
-			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
-			"in_reply_to_status_id": null,
-			"in_reply_to_status_id_str": null,
-			"in_reply_to_user_id": 5634392,
-			"in_reply_to_user_id_str": "5634392",
-			"in_reply_to_screen_name": "dkuropatwa",
-			"user": {
-				"id": 12042382,
-				"id_str": "12042382",
-				"name": "November Learning",
-				"screen_name": "NLearning",
-				"location": "Marblehead, MA",
-				"description": "Led by @globalearner, we proudly hosts the Building Learning Communities Conference. Learn more about our consulting services, workshops, and rich resources.",
-				"url": "https://t.co/JuJJcEE3uN",
-				"entities": {
-					"url": {
-						"urls": [
-							{
-								"url": "https://t.co/JuJJcEE3uN",
-								"expanded_url": "http://www.novemberlearning.com",
-								"display_url": "novemberlearning.com",
-								"indices": [
-									0,
-									23
-								]
-							}
-						]
-					},
-					"description": {
-						"urls": []
-					}
-				},
-				"protected": false,
-				"followers_count": 15393,
-				"friends_count": 574,
-				"listed_count": 501,
-				"created_at": "Wed Jan 09 20:17:16 +0000 2008",
-				"favourites_count": 200,
-				"utc_offset": null,
-				"time_zone": null,
-				"geo_enabled": false,
-				"verified": false,
-				"statuses_count": 8094,
-				"lang": "en",
-				"contributors_enabled": false,
-				"is_translator": false,
-				"is_translation_enabled": false,
-				"profile_background_color": "2A65B4",
-				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-				"profile_background_tile": false,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/73380919/nlicon_normal.jpg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/73380919/nlicon_normal.jpg",
-				"profile_link_color": "2A65B4",
-				"profile_sidebar_border_color": "BDDCAD",
-				"profile_sidebar_fill_color": "EEEEEE",
-				"profile_text_color": "333333",
-				"profile_use_background_image": true,
-				"has_extended_profile": false,
-				"default_profile": false,
-				"default_profile_image": false,
-				"following": true,
-				"follow_request_sent": false,
-				"notifications": false,
-				"translator_type": "none"
-			},
-			"geo": null,
-			"coordinates": null,
-			"place": null,
-			"contributors": null,
-			"is_quote_status": false,
-			"retweet_count": 1,
-			"favorite_count": 1,
-			"favorited": false,
-			"retweeted": true,
-			"possibly_sensitive": false,
-			"lang": "en"
-		},
-		"is_quote_status": false,
-		"retweet_count": 1,
-		"favorite_count": 0,
-		"favorited": false,
-		"retweeted": true,
-		"possibly_sensitive": false,
-		"lang": "en"
-	},
-	{
-		"created_at": "Fri Jul 27 14:02:33 +0000 2018",
-		"id": 1022844693707739100,
-		"id_str": "1022844693707739136",
-		"text": "“Organizations don’t #change by dwelling on the negative, the change by focusing on what they do well and doing mor… https://t.co/bbHHDI5DKC",
-		"truncated": true,
-		"entities": {
-			"hashtags": [
-				{
-					"text": "change",
-					"indices": [
-						21,
-						28
-					]
-				}
-			],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": [
-				{
-					"url": "https://t.co/bbHHDI5DKC",
-					"expanded_url": "https://twitter.com/i/web/status/1022844693707739136",
-					"display_url": "twitter.com/i/web/status/1…",
-					"indices": [
-						117,
-						140
-					]
-				}
-			]
-		},
-		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 5634392,
-			"id_str": "5634392",
-			"name": "Darren Kuropatwa",
-			"screen_name": "dkuropatwa",
-			"location": "Winnipeg, Manitoba, Canada",
-			"description": "Educator. Always in beta ∞β.",
-			"url": "https://t.co/FJEo2rIADF",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/FJEo2rIADF",
-							"expanded_url": "http://adifference.blogspot.com",
-							"display_url": "adifference.blogspot.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 6803,
-			"friends_count": 2634,
-			"listed_count": 463,
-			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
-			"favourites_count": 397,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": false,
-			"verified": true,
-			"statuses_count": 24815,
-			"lang": "en",
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "9AE4E8",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": true,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
 			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
 			"profile_link_color": "0000FF",
 			"profile_sidebar_border_color": "FFFFFF",
@@ -8538,17 +7650,22 @@ Grailbird.data.tweets_2018_07 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "“Organizations don’t #change by dwelling on the negative, the change by focusing on what they do well and doing more of that.” via @Edu21Century @ BLC18"
 	},
 	{
 		"created_at": "Fri Jul 27 13:59:44 +0000 2018",
 		"id": 1022843986623508500,
 		"id_str": "1022843986623508481",
-		"text": "#BLC18 @teddintersmith @made_tosucceed playlist for how existing schools can #changeschool https://t.co/PmGY9lq0fD https://t.co/0vfGPYRKGm",
+		"full_text": "#BLC18 @teddintersmith @made_tosucceed playlist for how existing schools can #changeschool https://t.co/PmGY9lq0fD https://t.co/0vfGPYRKGm",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
 		"entities": {
 			"hashtags": [
 				{
@@ -8567,7 +7684,18 @@ Grailbird.data.tweets_2018_07 =
 				}
 			],
 			"symbols": [],
-			"user_mentions": [],
+			"user_mentions": [
+				{
+					"screen_name": "Made_toSucceed",
+					"name": "Made.",
+					"id": 1034654137479254000,
+					"id_str": "1034654137479254017",
+					"indices": [
+						23,
+						38
+					]
+				}
+			],
 			"urls": [
 				{
 					"url": "https://t.co/PmGY9lq0fD",
@@ -8691,16 +7819,16 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 6803,
-			"friends_count": 2634,
-			"listed_count": 463,
+			"followers_count": 6835,
+			"friends_count": 2702,
+			"listed_count": 459,
 			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
-			"favourites_count": 397,
+			"favourites_count": 421,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 24815,
+			"statuses_count": 24915,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -8709,8 +7837,8 @@ Grailbird.data.tweets_2018_07 =
 			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": true,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
 			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
 			"profile_link_color": "0000FF",
 			"profile_sidebar_border_color": "FFFFFF",
@@ -8730,19 +7858,24 @@ Grailbird.data.tweets_2018_07 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 0,
+		"retweet_count": 2,
+		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "#BLC18 @teddintersmith @made_tosucceed playlist for how existing schools can #changeschool https://t.co/PmGY9lq0fD https://t.co/0vfGPYRKGm"
 	},
 	{
 		"created_at": "Fri Jul 27 13:59:42 +0000 2018",
 		"id": 1022843979916881900,
 		"id_str": "1022843979916881920",
-		"text": "Closing day #BLC18 keynote by @teddintersmith @made_tosucceed articulates an inspirational shift in vision for educ… https://t.co/58pDXcV1ot",
-		"truncated": true,
+		"full_text": "Closing day #BLC18 keynote by @teddintersmith @made_tosucceed articulates an inspirational shift in vision for education. https://t.co/HHkhxd3Nhu https://t.co/I5CnzG3lti",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
 		"entities": {
 			"hashtags": [
 				{
@@ -8754,16 +7887,105 @@ Grailbird.data.tweets_2018_07 =
 				}
 			],
 			"symbols": [],
-			"user_mentions": [],
+			"user_mentions": [
+				{
+					"screen_name": "Made_toSucceed",
+					"name": "Made.",
+					"id": 1034654137479254000,
+					"id_str": "1034654137479254017",
+					"indices": [
+						46,
+						61
+					]
+				}
+			],
 			"urls": [
 				{
-					"url": "https://t.co/58pDXcV1ot",
-					"expanded_url": "https://twitter.com/i/web/status/1022843979916881920",
-					"display_url": "twitter.com/i/web/status/1…",
+					"url": "https://t.co/HHkhxd3Nhu",
+					"expanded_url": "http://j.mp/2LQNekg",
+					"display_url": "j.mp/2LQNekg",
 					"indices": [
-						117,
-						140
+						122,
+						145
 					]
+				}
+			],
+			"media": [
+				{
+					"id": 1022843978188841000,
+					"id_str": "1022843978188840961",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/DjHfLcyX4AEWD6W.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DjHfLcyX4AEWD6W.jpg",
+					"url": "https://t.co/I5CnzG3lti",
+					"display_url": "pic.twitter.com/I5CnzG3lti",
+					"expanded_url": "https://twitter.com/dkuropatwa/status/1022843979916881920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 479,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 479,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 479,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1022843978188841000,
+					"id_str": "1022843978188840961",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/DjHfLcyX4AEWD6W.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DjHfLcyX4AEWD6W.jpg",
+					"url": "https://t.co/I5CnzG3lti",
+					"display_url": "pic.twitter.com/I5CnzG3lti",
+					"expanded_url": "https://twitter.com/dkuropatwa/status/1022843979916881920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 479,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 479,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 479,
+							"resize": "fit"
+						}
+					}
 				}
 			]
 		},
@@ -8800,16 +8022,16 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 6803,
-			"friends_count": 2634,
-			"listed_count": 463,
+			"followers_count": 6835,
+			"friends_count": 2702,
+			"listed_count": 459,
 			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
-			"favourites_count": 397,
+			"favourites_count": 421,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 24815,
+			"statuses_count": 24915,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -8818,8 +8040,8 @@ Grailbird.data.tweets_2018_07 =
 			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": true,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
 			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
 			"profile_link_color": "0000FF",
 			"profile_sidebar_border_color": "FFFFFF",
@@ -8839,19 +8061,24 @@ Grailbird.data.tweets_2018_07 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 1,
-		"favorite_count": 1,
+		"retweet_count": 3,
+		"favorite_count": 5,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Closing day #BLC18 keynote by @teddintersmith @made_tosucceed articulates an inspirational shift in vision for education. https://t.co/HHkhxd3Nhu https://t.co/I5CnzG3lti"
 	},
 	{
 		"created_at": "Fri Jul 27 13:57:06 +0000 2018",
 		"id": 1022843323684466700,
 		"id_str": "1022843323684466688",
-		"text": "#BLC18 teddintersmith made_tosucceed playlist for how existing schools can #changeschool @ Boston Park Plaza https://t.co/60PwvD4m8Y",
+		"full_text": "#BLC18 teddintersmith made_tosucceed playlist for how existing schools can #changeschool @ Boston Park Plaza https://t.co/60PwvD4m8Y",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
 		"entities": {
 			"hashtags": [
 				{
@@ -8916,16 +8143,16 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 6803,
-			"friends_count": 2634,
-			"listed_count": 463,
+			"followers_count": 6835,
+			"friends_count": 2702,
+			"listed_count": 459,
 			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
-			"favourites_count": 397,
+			"favourites_count": 421,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 24815,
+			"statuses_count": 24915,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -8934,8 +8161,8 @@ Grailbird.data.tweets_2018_07 =
 			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": true,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
 			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
 			"profile_link_color": "0000FF",
 			"profile_sidebar_border_color": "FFFFFF",
@@ -8960,14 +8187,19 @@ Grailbird.data.tweets_2018_07 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "#BLC18 teddintersmith made_tosucceed playlist for how existing schools can #changeschool @ Boston Park Plaza https://t.co/60PwvD4m8Y"
 	},
 	{
 		"created_at": "Fri Jul 27 13:52:20 +0000 2018",
 		"id": 1022842123886850000,
 		"id_str": "1022842123886850048",
-		"text": "Closing day #BLC18 keynote by teddintersmith made_tosucceed articulates an inspirational shift in vision for educat… https://t.co/9tidSJGZF1",
-		"truncated": true,
+		"full_text": "Closing day #BLC18 keynote by teddintersmith made_tosucceed articulates an inspirational shift in vision for education. @ Boston Park Plaza https://t.co/uEtHmatuIb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
 		"entities": {
 			"hashtags": [
 				{
@@ -8982,12 +8214,12 @@ Grailbird.data.tweets_2018_07 =
 			"user_mentions": [],
 			"urls": [
 				{
-					"url": "https://t.co/9tidSJGZF1",
-					"expanded_url": "https://twitter.com/i/web/status/1022842123886850048",
-					"display_url": "twitter.com/i/web/status/1…",
+					"url": "https://t.co/uEtHmatuIb",
+					"expanded_url": "https://www.instagram.com/p/BlvMmOkHL3N/?utm_source=ig_twitter_share&igshid=1h7mxd3f1hq1y",
+					"display_url": "instagram.com/p/BlvMmOkHL3N/…",
 					"indices": [
-						117,
-						140
+						140,
+						163
 					]
 				}
 			]
@@ -9025,16 +8257,16 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 6803,
-			"friends_count": 2634,
-			"listed_count": 463,
+			"followers_count": 6835,
+			"friends_count": 2702,
+			"listed_count": 459,
 			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
-			"favourites_count": 397,
+			"favourites_count": 421,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 24815,
+			"statuses_count": 24915,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -9043,8 +8275,8 @@ Grailbird.data.tweets_2018_07 =
 			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": true,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
 			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
 			"profile_link_color": "0000FF",
 			"profile_sidebar_border_color": "FFFFFF",
@@ -9069,14 +8301,19 @@ Grailbird.data.tweets_2018_07 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Closing day #BLC18 keynote by teddintersmith made_tosucceed articulates an inspirational shift in vision for education. @ Boston Park Plaza https://t.co/uEtHmatuIb"
 	},
 	{
 		"created_at": "Thu Jul 26 13:59:45 +0000 2018",
 		"id": 1022481603606528000,
 		"id_str": "1022481603606528000",
-		"text": "Fascinating example of sensemaking through visual design via @miss_pana #BLC18 https://t.co/mEQHKO2b5a https://t.co/TR1jCyFuEK",
+		"full_text": "Fascinating example of sensemaking through visual design via @miss_pana #BLC18 https://t.co/mEQHKO2b5a https://t.co/TR1jCyFuEK",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
 		"entities": {
 			"hashtags": [
 				{
@@ -9223,16 +8460,16 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 6799,
-			"friends_count": 2635,
-			"listed_count": 462,
+			"followers_count": 6835,
+			"friends_count": 2702,
+			"listed_count": 459,
 			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
-			"favourites_count": 397,
+			"favourites_count": 421,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 24804,
+			"statuses_count": 24915,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -9241,8 +8478,8 @@ Grailbird.data.tweets_2018_07 =
 			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": true,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
 			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
 			"profile_link_color": "0000FF",
 			"profile_sidebar_border_color": "FFFFFF",
@@ -9267,14 +8504,19 @@ Grailbird.data.tweets_2018_07 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Fascinating example of sensemaking through visual design via @miss_pana #BLC18 https://t.co/mEQHKO2b5a https://t.co/TR1jCyFuEK"
 	},
 	{
 		"created_at": "Thu Jul 26 13:59:44 +0000 2018",
 		"id": 1022481598044880900,
 		"id_str": "1022481598044880896",
-		"text": "#BLC18 @miss_pana keynote explores ways to put handles on learning to help kids make sense of their world and decod… https://t.co/uy7YnivMtV",
-		"truncated": true,
+		"full_text": "#BLC18 @miss_pana keynote explores ways to put handles on learning to help kids make sense of their world and decoding digital symbology to read and write. https://t.co/r5mn2Yx24r https://t.co/RLweBY86FK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
 		"entities": {
 			"hashtags": [
 				{
@@ -9300,13 +8542,91 @@ Grailbird.data.tweets_2018_07 =
 			],
 			"urls": [
 				{
-					"url": "https://t.co/uy7YnivMtV",
-					"expanded_url": "https://twitter.com/i/web/status/1022481598044880896",
-					"display_url": "twitter.com/i/web/status/1…",
+					"url": "https://t.co/r5mn2Yx24r",
+					"expanded_url": "http://j.mp/2v9bwPh",
+					"display_url": "j.mp/2v9bwPh",
 					"indices": [
-						117,
-						140
+						156,
+						179
 					]
+				}
+			],
+			"media": [
+				{
+					"id": 1022481596753043500,
+					"id_str": "1022481596753043466",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/DjCVmEvW4AoclTG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DjCVmEvW4AoclTG.jpg",
+					"url": "https://t.co/RLweBY86FK",
+					"display_url": "pic.twitter.com/RLweBY86FK",
+					"expanded_url": "https://twitter.com/dkuropatwa/status/1022481598044880896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1022481596753043500,
+					"id_str": "1022481596753043466",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/DjCVmEvW4AoclTG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DjCVmEvW4AoclTG.jpg",
+					"url": "https://t.co/RLweBY86FK",
+					"display_url": "pic.twitter.com/RLweBY86FK",
+					"expanded_url": "https://twitter.com/dkuropatwa/status/1022481598044880896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
 				}
 			]
 		},
@@ -9343,16 +8663,16 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 6799,
-			"friends_count": 2635,
-			"listed_count": 462,
+			"followers_count": 6835,
+			"friends_count": 2702,
+			"listed_count": 459,
 			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
-			"favourites_count": 397,
+			"favourites_count": 421,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 24804,
+			"statuses_count": 24915,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -9361,8 +8681,8 @@ Grailbird.data.tweets_2018_07 =
 			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": true,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
 			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
 			"profile_link_color": "0000FF",
 			"profile_sidebar_border_color": "FFFFFF",
@@ -9387,27 +8707,125 @@ Grailbird.data.tweets_2018_07 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "#BLC18 @miss_pana keynote explores ways to put handles on learning to help kids make sense of their world and decoding digital symbology to read and write. https://t.co/r5mn2Yx24r https://t.co/RLweBY86FK"
 	},
 	{
 		"created_at": "Thu Jul 26 13:59:42 +0000 2018",
 		"id": 1022481591388516400,
 		"id_str": "1022481591388516353",
-		"text": "Every time I hear @aaronlpolansky speak I cry. He gave us his phone number and lives: If you every need anything, l… https://t.co/1OMrUVoVJi",
-		"truncated": true,
+		"full_text": "Every time I hear @aaronlpolansky speak I cry. He gave us his phone number and lives: If you every need anything, let me know. #BLC18 #BestKeynote https://t.co/39PzSPN8NW https://t.co/OSSxqVu8W4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
 		"entities": {
-			"hashtags": [],
+			"hashtags": [
+				{
+					"text": "BLC18",
+					"indices": [
+						127,
+						133
+					]
+				},
+				{
+					"text": "BestKeynote",
+					"indices": [
+						134,
+						146
+					]
+				}
+			],
 			"symbols": [],
 			"user_mentions": [],
 			"urls": [
 				{
-					"url": "https://t.co/1OMrUVoVJi",
-					"expanded_url": "https://twitter.com/i/web/status/1022481591388516353",
-					"display_url": "twitter.com/i/web/status/1…",
+					"url": "https://t.co/39PzSPN8NW",
+					"expanded_url": "http://j.mp/2Lp93es",
+					"display_url": "j.mp/2Lp93es",
 					"indices": [
-						117,
-						140
+						147,
+						170
 					]
+				}
+			],
+			"media": [
+				{
+					"id": 1022481590054789100,
+					"id_str": "1022481590054789126",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/DjCVlryXoAYBy4R.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DjCVlryXoAYBy4R.jpg",
+					"url": "https://t.co/OSSxqVu8W4",
+					"display_url": "pic.twitter.com/OSSxqVu8W4",
+					"expanded_url": "https://twitter.com/dkuropatwa/status/1022481591388516353/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1022481590054789100,
+					"id_str": "1022481590054789126",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/DjCVlryXoAYBy4R.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DjCVlryXoAYBy4R.jpg",
+					"url": "https://t.co/OSSxqVu8W4",
+					"display_url": "pic.twitter.com/OSSxqVu8W4",
+					"expanded_url": "https://twitter.com/dkuropatwa/status/1022481591388516353/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
 				}
 			]
 		},
@@ -9444,16 +8862,16 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 6799,
-			"friends_count": 2635,
-			"listed_count": 462,
+			"followers_count": 6835,
+			"friends_count": 2702,
+			"listed_count": 459,
 			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
-			"favourites_count": 397,
+			"favourites_count": 421,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 24804,
+			"statuses_count": 24915,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -9462,8 +8880,8 @@ Grailbird.data.tweets_2018_07 =
 			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": true,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
 			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
 			"profile_link_color": "0000FF",
 			"profile_sidebar_border_color": "FFFFFF",
@@ -9483,19 +8901,24 @@ Grailbird.data.tweets_2018_07 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 0,
+		"retweet_count": 4,
+		"favorite_count": 4,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Every time I hear @aaronlpolansky speak I cry. He gave us his phone number and lives: If you every need anything, let me know. #BLC18 #BestKeynote https://t.co/39PzSPN8NW https://t.co/OSSxqVu8W4"
 	},
 	{
 		"created_at": "Thu Jul 26 13:54:09 +0000 2018",
 		"id": 1022480194035019800,
 		"id_str": "1022480194035019776",
-		"text": "Fascinating example of sensemaking through visual design via @PanaAsavavatana #BLC18 @ Boston Park Plaza https://t.co/RU5PqCJA6L",
+		"full_text": "Fascinating example of sensemaking through visual design via @PanaAsavavatana #BLC18 @ Boston Park Plaza https://t.co/RU5PqCJA6L",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
 		"entities": {
 			"hashtags": [
 				{
@@ -9564,16 +8987,16 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 6799,
-			"friends_count": 2635,
-			"listed_count": 462,
+			"followers_count": 6835,
+			"friends_count": 2702,
+			"listed_count": 459,
 			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
-			"favourites_count": 397,
+			"favourites_count": 421,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 24804,
+			"statuses_count": 24915,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -9582,8 +9005,8 @@ Grailbird.data.tweets_2018_07 =
 			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": true,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
 			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
 			"profile_link_color": "0000FF",
 			"profile_sidebar_border_color": "FFFFFF",
@@ -9603,19 +9026,24 @@ Grailbird.data.tweets_2018_07 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 0,
+		"retweet_count": 2,
+		"favorite_count": 2,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Fascinating example of sensemaking through visual design via @PanaAsavavatana #BLC18 @ Boston Park Plaza https://t.co/RU5PqCJA6L"
 	},
 	{
 		"created_at": "Thu Jul 26 13:47:47 +0000 2018",
 		"id": 1022478589734912000,
 		"id_str": "1022478589734912006",
-		"text": "#BLC18 @PanaAsavavatana keynote explores ways to put handles on learning to help kids make sense of their world and… https://t.co/Tovz1dw6SS",
-		"truncated": true,
+		"full_text": "#BLC18 @PanaAsavavatana keynote explores ways to put handles on learning to help kids make sense of their world and decoding digital symbology to read and write. @ Boston Park Plaza https://t.co/eFJCVvuZIy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			205
+		],
 		"entities": {
 			"hashtags": [
 				{
@@ -9641,12 +9069,12 @@ Grailbird.data.tweets_2018_07 =
 			],
 			"urls": [
 				{
-					"url": "https://t.co/Tovz1dw6SS",
-					"expanded_url": "https://twitter.com/i/web/status/1022478589734912006",
-					"display_url": "twitter.com/i/web/status/1…",
+					"url": "https://t.co/eFJCVvuZIy",
+					"expanded_url": "https://www.instagram.com/p/BlsnSSWnEAv/?utm_source=ig_twitter_share&igshid=156d4sm1lrz4f",
+					"display_url": "instagram.com/p/BlsnSSWnEAv/…",
 					"indices": [
-						117,
-						140
+						182,
+						205
 					]
 				}
 			]
@@ -9684,16 +9112,16 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 6799,
-			"friends_count": 2635,
-			"listed_count": 462,
+			"followers_count": 6835,
+			"friends_count": 2702,
+			"listed_count": 459,
 			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
-			"favourites_count": 397,
+			"favourites_count": 421,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 24804,
+			"statuses_count": 24915,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -9702,8 +9130,8 @@ Grailbird.data.tweets_2018_07 =
 			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": true,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
 			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
 			"profile_link_color": "0000FF",
 			"profile_sidebar_border_color": "FFFFFF",
@@ -9723,19 +9151,24 @@ Grailbird.data.tweets_2018_07 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 2,
+		"retweet_count": 1,
+		"favorite_count": 3,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "#BLC18 @PanaAsavavatana keynote explores ways to put handles on learning to help kids make sense of their world and decoding digital symbology to read and write. @ Boston Park Plaza https://t.co/eFJCVvuZIy"
 	},
 	{
 		"created_at": "Thu Jul 26 13:33:29 +0000 2018",
 		"id": 1022474991231750100,
 		"id_str": "1022474991231750144",
-		"text": "#BLC18 @aaronpolansky often says: “A RESPONSE doesn’t make things better. A CONNECTION makes things better.” G-d I love that!",
+		"full_text": "#BLC18 @aaronpolansky often says: “A RESPONSE doesn’t make things better. A CONNECTION makes things better.” G-d I love that!",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
 		"entities": {
 			"hashtags": [
 				{
@@ -9794,16 +9227,16 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 6799,
-			"friends_count": 2635,
-			"listed_count": 462,
+			"followers_count": 6835,
+			"friends_count": 2702,
+			"listed_count": 459,
 			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
-			"favourites_count": 397,
+			"favourites_count": 421,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 24804,
+			"statuses_count": 24915,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -9812,8 +9245,8 @@ Grailbird.data.tweets_2018_07 =
 			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": true,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
 			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
 			"profile_link_color": "0000FF",
 			"profile_sidebar_border_color": "FFFFFF",
@@ -9834,17 +9267,22 @@ Grailbird.data.tweets_2018_07 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 4,
-		"favorite_count": 6,
+		"favorite_count": 11,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "#BLC18 @aaronpolansky often says: “A RESPONSE doesn’t make things better. A CONNECTION makes things better.” G-d I love that!"
 	},
 	{
 		"created_at": "Thu Jul 26 13:28:49 +0000 2018",
 		"id": 1022473817128665100,
 		"id_str": "1022473817128665088",
-		"text": "@JoyKirr You rocked that keynote Joy. :-)",
+		"full_text": "@JoyKirr You rocked that keynote Joy. :-)",
 		"truncated": false,
+		"display_text_range": [
+			9,
+			41
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -9895,16 +9333,16 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 6799,
-			"friends_count": 2635,
-			"listed_count": 462,
+			"followers_count": 6835,
+			"friends_count": 2702,
+			"listed_count": 459,
 			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
-			"favourites_count": 397,
+			"favourites_count": 421,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 24804,
+			"statuses_count": 24915,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -9913,8 +9351,8 @@ Grailbird.data.tweets_2018_07 =
 			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": true,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
 			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
 			"profile_link_color": "0000FF",
 			"profile_sidebar_border_color": "FFFFFF",
@@ -9938,14 +9376,19 @@ Grailbird.data.tweets_2018_07 =
 		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@JoyKirr You rocked that keynote Joy. :-)"
 	},
 	{
 		"created_at": "Thu Jul 26 13:24:52 +0000 2018",
 		"id": 1022472824680865800,
 		"id_str": "1022472824680865795",
-		"text": "Thanks for sharing this @JoyKirr :-) https://t.co/ExKxGUskwA",
+		"full_text": "Thanks for sharing this @JoyKirr :-) https://t.co/ExKxGUskwA",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			36
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -10006,16 +9449,16 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 6799,
-			"friends_count": 2635,
-			"listed_count": 462,
+			"followers_count": 6835,
+			"friends_count": 2702,
+			"listed_count": 459,
 			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
-			"favourites_count": 397,
+			"favourites_count": 421,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 24804,
+			"statuses_count": 24915,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -10024,8 +9467,8 @@ Grailbird.data.tweets_2018_07 =
 			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": true,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
 			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
 			"profile_link_color": "0000FF",
 			"profile_sidebar_border_color": "FFFFFF",
@@ -10047,12 +9490,21 @@ Grailbird.data.tweets_2018_07 =
 		"is_quote_status": true,
 		"quoted_status_id": 1022466671666241500,
 		"quoted_status_id_str": "1022466671666241538",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ExKxGUskwA",
+			"expanded": "https://twitter.com/nlearning/status/1022466671666241538",
+			"display": "twitter.com/nlearning/stat…"
+		},
 		"quoted_status": {
 			"created_at": "Thu Jul 26 13:00:25 +0000 2018",
 			"id": 1022466671666241500,
 			"id_str": "1022466671666241538",
-			"text": "“The job of any leader is to make new leaders” Darren Kuropatwa @dkuropatwa https://t.co/nSFrWtCYS5",
+			"full_text": "“The job of any leader is to make new leaders” Darren Kuropatwa @dkuropatwa https://t.co/nSFrWtCYS5",
 			"truncated": false,
+			"display_text_range": [
+				0,
+				75
+			],
 			"entities": {
 				"hashtags": [],
 				"symbols": [],
@@ -10181,16 +9633,16 @@ Grailbird.data.tweets_2018_07 =
 					}
 				},
 				"protected": false,
-				"followers_count": 15378,
-				"friends_count": 570,
-				"listed_count": 501,
+				"followers_count": 15485,
+				"friends_count": 618,
+				"listed_count": 503,
 				"created_at": "Wed Jan 09 20:17:16 +0000 2008",
-				"favourites_count": 197,
+				"favourites_count": 229,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": false,
-				"statuses_count": 8037,
+				"statuses_count": 8340,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -10219,38 +9671,58 @@ Grailbird.data.tweets_2018_07 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 0,
-			"favorite_count": 1,
+			"retweet_count": 2,
+			"favorite_count": 2,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
 			"lang": "en"
 		},
-		"retweet_count": 0,
-		"favorite_count": 2,
+		"retweet_count": 1,
+		"favorite_count": 4,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Thanks for sharing this @JoyKirr :-) https://t.co/ExKxGUskwA"
 	},
 	{
 		"created_at": "Thu Jul 26 13:23:54 +0000 2018",
 		"id": 1022472582325514200,
 		"id_str": "1022472582325514240",
-		"text": "Every time I hear aaronlpolansky speak I cry. He gave us his phone number and lives: If you every need anything, le… https://t.co/wXO3it5qTV",
-		"truncated": true,
+		"full_text": "Every time I hear aaronlpolansky speak I cry. He gave us his phone number and lives: If you every need anything, let me know. #BLC18 #BestKeynote @ Boston Park Plaza https://t.co/iyisyvETJf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
 		"entities": {
-			"hashtags": [],
+			"hashtags": [
+				{
+					"text": "BLC18",
+					"indices": [
+						126,
+						132
+					]
+				},
+				{
+					"text": "BestKeynote",
+					"indices": [
+						133,
+						145
+					]
+				}
+			],
 			"symbols": [],
 			"user_mentions": [],
 			"urls": [
 				{
-					"url": "https://t.co/wXO3it5qTV",
-					"expanded_url": "https://twitter.com/i/web/status/1022472582325514240",
-					"display_url": "twitter.com/i/web/status/1…",
+					"url": "https://t.co/iyisyvETJf",
+					"expanded_url": "https://www.instagram.com/p/BlskjQ7HEik/?utm_source=ig_twitter_share&igshid=12e9jjog32chf",
+					"display_url": "instagram.com/p/BlskjQ7HEik/…",
 					"indices": [
-						117,
-						140
+						166,
+						189
 					]
 				}
 			]
@@ -10288,16 +9760,16 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 6799,
-			"friends_count": 2635,
-			"listed_count": 462,
+			"followers_count": 6835,
+			"friends_count": 2702,
+			"listed_count": 459,
 			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
-			"favourites_count": 397,
+			"favourites_count": 421,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 24804,
+			"statuses_count": 24915,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -10306,8 +9778,8 @@ Grailbird.data.tweets_2018_07 =
 			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": true,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
 			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
 			"profile_link_color": "0000FF",
 			"profile_sidebar_border_color": "FFFFFF",
@@ -10332,14 +9804,19 @@ Grailbird.data.tweets_2018_07 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Every time I hear aaronlpolansky speak I cry. He gave us his phone number and lives: If you every need anything, let me know. #BLC18 #BestKeynote @ Boston Park Plaza https://t.co/iyisyvETJf"
 	},
 	{
 		"created_at": "Thu Jul 26 12:59:47 +0000 2018",
 		"id": 1022466509862576100,
 		"id_str": "1022466509862576134",
-		"text": "See “resistance” as feedback. Amen. (We can’t teach empathy without practicing empathy ourselves.) @joykirr1 #BLC18… https://t.co/ZukfYwW5YV",
-		"truncated": true,
+		"full_text": "See “resistance” as feedback. Amen. (We can’t teach empathy without practicing empathy ourselves.) @joykirr1 #BLC18 https://t.co/Cir9EMgIzu https://t.co/2u14IQa38g",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
 		"entities": {
 			"hashtags": [
 				{
@@ -10354,13 +9831,91 @@ Grailbird.data.tweets_2018_07 =
 			"user_mentions": [],
 			"urls": [
 				{
-					"url": "https://t.co/ZukfYwW5YV",
-					"expanded_url": "https://twitter.com/i/web/status/1022466509862576134",
-					"display_url": "twitter.com/i/web/status/1…",
+					"url": "https://t.co/Cir9EMgIzu",
+					"expanded_url": "http://j.mp/2AfehnW",
+					"display_url": "j.mp/2AfehnW",
 					"indices": [
-						117,
-						140
+						116,
+						139
 					]
+				}
+			],
+			"media": [
+				{
+					"id": 1022466508180676600,
+					"id_str": "1022466508180676609",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/DjCH3zbX4AEIW1d.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DjCH3zbX4AEIW1d.jpg",
+					"url": "https://t.co/2u14IQa38g",
+					"display_url": "pic.twitter.com/2u14IQa38g",
+					"expanded_url": "https://twitter.com/dkuropatwa/status/1022466509862576134/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1022466508180676600,
+					"id_str": "1022466508180676609",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/DjCH3zbX4AEIW1d.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DjCH3zbX4AEIW1d.jpg",
+					"url": "https://t.co/2u14IQa38g",
+					"display_url": "pic.twitter.com/2u14IQa38g",
+					"expanded_url": "https://twitter.com/dkuropatwa/status/1022466509862576134/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
 				}
 			]
 		},
@@ -10397,16 +9952,16 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 6799,
-			"friends_count": 2635,
-			"listed_count": 462,
+			"followers_count": 6835,
+			"friends_count": 2702,
+			"listed_count": 459,
 			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
-			"favourites_count": 397,
+			"favourites_count": 421,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 24795,
+			"statuses_count": 24915,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -10415,8 +9970,8 @@ Grailbird.data.tweets_2018_07 =
 			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": true,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
 			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
 			"profile_link_color": "0000FF",
 			"profile_sidebar_border_color": "FFFFFF",
@@ -10437,18 +9992,23 @@ Grailbird.data.tweets_2018_07 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "See “resistance” as feedback. Amen. (We can’t teach empathy without practicing empathy ourselves.) @joykirr1 #BLC18 https://t.co/Cir9EMgIzu https://t.co/2u14IQa38g"
 	},
 	{
 		"created_at": "Thu Jul 26 12:59:44 +0000 2018",
 		"id": 1022466500752539600,
 		"id_str": "1022466500752539648",
-		"text": "My buddy @joykirr1 kicking off her #BLC18 keynote. You rock Joy! https://t.co/KkK6FwnVnV https://t.co/N8knMSi85K",
+		"full_text": "My buddy @joykirr1 kicking off her #BLC18 keynote. You rock Joy! https://t.co/KkK6FwnVnV https://t.co/N8knMSi85K",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
 		"entities": {
 			"hashtags": [
 				{
@@ -10584,16 +10144,16 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 6799,
-			"friends_count": 2635,
-			"listed_count": 462,
+			"followers_count": 6835,
+			"friends_count": 2702,
+			"listed_count": 459,
 			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
-			"favourites_count": 397,
+			"favourites_count": 421,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 24795,
+			"statuses_count": 24915,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -10602,8 +10162,8 @@ Grailbird.data.tweets_2018_07 =
 			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": true,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
 			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
 			"profile_link_color": "0000FF",
 			"profile_sidebar_border_color": "FFFFFF",
@@ -10628,14 +10188,19 @@ Grailbird.data.tweets_2018_07 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "My buddy @joykirr1 kicking off her #BLC18 keynote. You rock Joy! https://t.co/KkK6FwnVnV https://t.co/N8knMSi85K"
 	},
 	{
 		"created_at": "Thu Jul 26 12:54:53 +0000 2018",
 		"id": 1022465277043322900,
 		"id_str": "1022465277043322880",
-		"text": "@MrsYav Thanks for doing this and sharing it!",
+		"full_text": "@MrsYav Thanks for doing this and sharing it!",
 		"truncated": false,
+		"display_text_range": [
+			8,
+			45
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -10686,16 +10251,16 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 6799,
-			"friends_count": 2635,
-			"listed_count": 462,
+			"followers_count": 6835,
+			"friends_count": 2702,
+			"listed_count": 459,
 			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
-			"favourites_count": 397,
+			"favourites_count": 421,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 24795,
+			"statuses_count": 24915,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -10704,8 +10269,8 @@ Grailbird.data.tweets_2018_07 =
 			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": true,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
 			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
 			"profile_link_color": "0000FF",
 			"profile_sidebar_border_color": "FFFFFF",
@@ -10729,14 +10294,19 @@ Grailbird.data.tweets_2018_07 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@MrsYav Thanks for doing this and sharing it!"
 	},
 	{
 		"created_at": "Thu Jul 26 12:51:48 +0000 2018",
 		"id": 1022464502435127300,
 		"id_str": "1022464502435127296",
-		"text": "See “resistance” as feedback. Amen. (We can’t teach empathy without practicing empathy ourselves.) @joykirr #BLC18… https://t.co/Zl4CzgACqF",
-		"truncated": true,
+		"full_text": "See “resistance” as feedback. Amen. (We can’t teach empathy without practicing empathy ourselves.) @joykirr #BLC18 @ Boston Park Plaza https://t.co/oBfR1NQyMI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
 		"entities": {
 			"hashtags": [
 				{
@@ -10762,12 +10332,12 @@ Grailbird.data.tweets_2018_07 =
 			],
 			"urls": [
 				{
-					"url": "https://t.co/Zl4CzgACqF",
-					"expanded_url": "https://twitter.com/i/web/status/1022464502435127296",
-					"display_url": "twitter.com/i/web/status/1…",
+					"url": "https://t.co/oBfR1NQyMI",
+					"expanded_url": "https://www.instagram.com/p/Blsg0eEHLZ_/?utm_source=ig_twitter_share&igshid=uhb40srt08vh",
+					"display_url": "instagram.com/p/Blsg0eEHLZ_/…",
 					"indices": [
-						116,
-						139
+						135,
+						158
 					]
 				}
 			]
@@ -10805,16 +10375,16 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 6799,
-			"friends_count": 2635,
-			"listed_count": 462,
+			"followers_count": 6835,
+			"friends_count": 2702,
+			"listed_count": 459,
 			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
-			"favourites_count": 397,
+			"favourites_count": 421,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 24795,
+			"statuses_count": 24915,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -10823,8 +10393,8 @@ Grailbird.data.tweets_2018_07 =
 			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": true,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
 			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
 			"profile_link_color": "0000FF",
 			"profile_sidebar_border_color": "FFFFFF",
@@ -10844,19 +10414,24 @@ Grailbird.data.tweets_2018_07 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 1,
+		"retweet_count": 2,
+		"favorite_count": 6,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "See “resistance” as feedback. Amen. (We can’t teach empathy without practicing empathy ourselves.) @joykirr #BLC18 @ Boston Park Plaza https://t.co/oBfR1NQyMI"
 	},
 	{
 		"created_at": "Thu Jul 26 12:45:19 +0000 2018",
 		"id": 1022462869940707300,
 		"id_str": "1022462869940707335",
-		"text": "My buddy @joykirr kicking off her #BLC18 keynote. You rock Joy! @ Boston Park Plaza https://t.co/79vYCIK8hd",
+		"full_text": "My buddy @joykirr kicking off her #BLC18 keynote. You rock Joy! @ Boston Park Plaza https://t.co/79vYCIK8hd",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
 		"entities": {
 			"hashtags": [
 				{
@@ -10925,16 +10500,16 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 6799,
-			"friends_count": 2635,
-			"listed_count": 462,
+			"followers_count": 6835,
+			"friends_count": 2702,
+			"listed_count": 459,
 			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
-			"favourites_count": 397,
+			"favourites_count": 421,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 24795,
+			"statuses_count": 24915,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -10943,8 +10518,8 @@ Grailbird.data.tweets_2018_07 =
 			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": true,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
 			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
 			"profile_link_color": "0000FF",
 			"profile_sidebar_border_color": "FFFFFF",
@@ -10964,19 +10539,24 @@ Grailbird.data.tweets_2018_07 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 0,
+		"retweet_count": 1,
+		"favorite_count": 2,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "My buddy @joykirr kicking off her #BLC18 keynote. You rock Joy! @ Boston Park Plaza https://t.co/79vYCIK8hd"
 	},
 	{
 		"created_at": "Thu Jul 26 02:44:22 +0000 2018",
 		"id": 1022311637288722400,
 		"id_str": "1022311637288722439",
-		"text": "@cspencerNC This is a really fabulous #sketchnote! (Not just because it's about my session. ;-)) Thanks so much for… https://t.co/Mb6y9ImlE7",
-		"truncated": true,
+		"full_text": "@cspencerNC This is a really fabulous #sketchnote! (Not just because it's about my session. ;-)) Thanks so much for doing this and sharing it! #BLC18",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			149
+		],
 		"entities": {
 			"hashtags": [
 				{
@@ -10984,6 +10564,13 @@ Grailbird.data.tweets_2018_07 =
 					"indices": [
 						38,
 						49
+					]
+				},
+				{
+					"text": "BLC18",
+					"indices": [
+						143,
+						149
 					]
 				}
 			],
@@ -11000,17 +10587,7 @@ Grailbird.data.tweets_2018_07 =
 					]
 				}
 			],
-			"urls": [
-				{
-					"url": "https://t.co/Mb6y9ImlE7",
-					"expanded_url": "https://twitter.com/i/web/status/1022311637288722439",
-					"display_url": "twitter.com/i/web/status/1…",
-					"indices": [
-						117,
-						140
-					]
-				}
-			]
+			"urls": []
 		},
 		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
 		"in_reply_to_status_id": 1022206842276143100,
@@ -11045,16 +10622,16 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 6799,
-			"friends_count": 2634,
-			"listed_count": 462,
+			"followers_count": 6835,
+			"friends_count": 2702,
+			"listed_count": 459,
 			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
-			"favourites_count": 396,
+			"favourites_count": 421,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 24790,
+			"statuses_count": 24915,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -11063,8 +10640,8 @@ Grailbird.data.tweets_2018_07 =
 			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": true,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
 			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
 			"profile_link_color": "0000FF",
 			"profile_sidebar_border_color": "FFFFFF",
@@ -11085,17 +10662,22 @@ Grailbird.data.tweets_2018_07 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 2,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@cspencerNC This is a really fabulous #sketchnote! (Not just because it's about my session. ;-)) Thanks so much for doing this and sharing it! #BLC18"
 	},
 	{
 		"created_at": "Wed Jul 25 17:08:08 +0000 2018",
 		"id": 1022166622411411500,
 		"id_str": "1022166622411411457",
-		"text": "@physicsfuntime @marcbrackett That’s a shame. Thanks for sharing this though. I’ll look up Dr. Lee Brown on YouTube.",
+		"full_text": "@physicsfuntime @marcbrackett That’s a shame. Thanks for sharing this though. I’ll look up Dr. Lee Brown on YouTube.",
 		"truncated": false,
+		"display_text_range": [
+			30,
+			116
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -11156,16 +10738,16 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 6797,
-			"friends_count": 2634,
-			"listed_count": 462,
+			"followers_count": 6835,
+			"friends_count": 2702,
+			"listed_count": 459,
 			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
-			"favourites_count": 395,
+			"favourites_count": 421,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 24789,
+			"statuses_count": 24915,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -11174,8 +10756,8 @@ Grailbird.data.tweets_2018_07 =
 			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": true,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
 			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
 			"profile_link_color": "0000FF",
 			"profile_sidebar_border_color": "FFFFFF",
@@ -11199,14 +10781,19 @@ Grailbird.data.tweets_2018_07 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@physicsfuntime @marcbrackett That’s a shame. Thanks for sharing this though. I’ll look up Dr. Lee Brown on YouTube."
 	},
 	{
 		"created_at": "Wed Jul 25 14:59:47 +0000 2018",
 		"id": 1022134323019952100,
 		"id_str": "1022134323019952128",
-		"text": "Raise your hands if you think emotions matter. @marcbrackett #BLC18 https://t.co/cM1pPV6I8U https://t.co/qMoHaggt36",
+		"full_text": "Raise your hands if you think emotions matter. @marcbrackett #BLC18 https://t.co/cM1pPV6I8U https://t.co/qMoHaggt36",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
 		"entities": {
 			"hashtags": [
 				{
@@ -11353,16 +10940,16 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 6797,
-			"friends_count": 2634,
-			"listed_count": 462,
+			"followers_count": 6835,
+			"friends_count": 2702,
+			"listed_count": 459,
 			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
-			"favourites_count": 395,
+			"favourites_count": 421,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 24788,
+			"statuses_count": 24915,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -11371,8 +10958,8 @@ Grailbird.data.tweets_2018_07 =
 			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": true,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
 			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
 			"profile_link_color": "0000FF",
 			"profile_sidebar_border_color": "FFFFFF",
@@ -11393,18 +10980,23 @@ Grailbird.data.tweets_2018_07 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 1,
+		"favorite_count": 2,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Raise your hands if you think emotions matter. @marcbrackett #BLC18 https://t.co/cM1pPV6I8U https://t.co/qMoHaggt36"
 	},
 	{
 		"created_at": "Wed Jul 25 14:03:28 +0000 2018",
 		"id": 1022120150236102700,
 		"id_str": "1022120150236102656",
-		"text": "Raise your hands if you think emotions matter. @marcbrackett #BLC18 @ Boston Park Plaza https://t.co/w9NVzGcakc",
+		"full_text": "Raise your hands if you think emotions matter. @marcbrackett #BLC18 @ Boston Park Plaza https://t.co/w9NVzGcakc",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
 		"entities": {
 			"hashtags": [
 				{
@@ -11473,16 +11065,16 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 6795,
-			"friends_count": 2633,
-			"listed_count": 462,
+			"followers_count": 6835,
+			"friends_count": 2702,
+			"listed_count": 459,
 			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
-			"favourites_count": 395,
+			"favourites_count": 421,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 24787,
+			"statuses_count": 24915,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -11491,8 +11083,8 @@ Grailbird.data.tweets_2018_07 =
 			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": true,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
 			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
 			"profile_link_color": "0000FF",
 			"profile_sidebar_border_color": "FFFFFF",
@@ -11513,20 +11105,40 @@ Grailbird.data.tweets_2018_07 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 3,
+		"favorite_count": 5,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Raise your hands if you think emotions matter. @marcbrackett #BLC18 @ Boston Park Plaza https://t.co/w9NVzGcakc"
 	},
 	{
 		"created_at": "Wed Jul 25 14:01:11 +0000 2018",
 		"id": 1022119575176003600,
 		"id_str": "1022119575176003586",
-		"text": "“Some of our best ideas come to us while walking ... or doing yoga.” via @marcbrackett (note to self: get back to… https://t.co/ImUfr3pLNn",
-		"truncated": true,
+		"full_text": "“Some of our best ideas come to us while walking ... or doing yoga.” via @marcbrackett (note to self: get back to #whilewalking https://t.co/l0VYfQ273n) #BLC18",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
 		"entities": {
-			"hashtags": [],
+			"hashtags": [
+				{
+					"text": "whilewalking",
+					"indices": [
+						114,
+						127
+					]
+				},
+				{
+					"text": "BLC18",
+					"indices": [
+						153,
+						159
+					]
+				}
+			],
 			"symbols": [],
 			"user_mentions": [
 				{
@@ -11542,12 +11154,12 @@ Grailbird.data.tweets_2018_07 =
 			],
 			"urls": [
 				{
-					"url": "https://t.co/ImUfr3pLNn",
-					"expanded_url": "https://twitter.com/i/web/status/1022119575176003586",
-					"display_url": "twitter.com/i/web/status/1…",
+					"url": "https://t.co/l0VYfQ273n",
+					"expanded_url": "http://j.mp/whilewalking",
+					"display_url": "j.mp/whilewalking",
 					"indices": [
-						115,
-						138
+						128,
+						151
 					]
 				}
 			]
@@ -11585,16 +11197,16 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 6795,
-			"friends_count": 2633,
-			"listed_count": 462,
+			"followers_count": 6835,
+			"friends_count": 2702,
+			"listed_count": 459,
 			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
-			"favourites_count": 395,
+			"favourites_count": 421,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 24787,
+			"statuses_count": 24915,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -11603,8 +11215,8 @@ Grailbird.data.tweets_2018_07 =
 			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": true,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
 			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
 			"profile_link_color": "0000FF",
 			"profile_sidebar_border_color": "FFFFFF",
@@ -11625,56 +11237,198 @@ Grailbird.data.tweets_2018_07 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 2,
+		"favorite_count": 7,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "“Some of our best ideas come to us while walking ... or doing yoga.” via @marcbrackett (note to self: get back to #whilewalking https://t.co/l0VYfQ273n) #BLC18"
 	},
 	{
-		"created_at": "Wed Jul 25 14:00:14 +0000 2018",
-		"id": 1022119334838198300,
-		"id_str": "1022119334838198273",
-		"text": "RT @sewilkie: Its so hard to know what we can’t see… Building capacity for Ruler Skills in our students starts with adult learning. @marcbr…",
+		"created_at": "Wed Jul 25 13:58:10 +0000 2018",
+		"id": 1022118815642083300,
+		"id_str": "1022118815642083333",
+		"full_text": "Its so hard to know what we can’t see… Building capacity for Ruler Skills in our students starts with adult learning. @marcbrackett #blc18 #pceplearns #cpchat #edchat @BalancEdTech @MilwaukeeJDS @dkuropatwa https://t.co/DRU0iLt0Ri",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			206
+		],
 		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [
+			"hashtags": [
 				{
-					"screen_name": "sewilkie",
-					"name": "sara wilkie",
-					"id": 244625496,
-					"id_str": "244625496",
+					"text": "blc18",
 					"indices": [
-						3,
-						12
+						132,
+						138
+					]
+				},
+				{
+					"text": "pceplearns",
+					"indices": [
+						139,
+						150
+					]
+				},
+				{
+					"text": "cpchat",
+					"indices": [
+						151,
+						158
+					]
+				},
+				{
+					"text": "edchat",
+					"indices": [
+						159,
+						166
 					]
 				}
 			],
-			"urls": []
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "marcbrackett",
+					"name": "Marc Brackett",
+					"id": 243030755,
+					"id_str": "243030755",
+					"indices": [
+						118,
+						131
+					]
+				},
+				{
+					"screen_name": "BalancEdTech",
+					"name": "BalancEdTech",
+					"id": 44669023,
+					"id_str": "44669023",
+					"indices": [
+						167,
+						180
+					]
+				},
+				{
+					"screen_name": "MilwaukeeJDS",
+					"name": "MJDS",
+					"id": 339870777,
+					"id_str": "339870777",
+					"indices": [
+						181,
+						194
+					]
+				},
+				{
+					"screen_name": "dkuropatwa",
+					"name": "Darren Kuropatwa",
+					"id": 5634392,
+					"id_str": "5634392",
+					"indices": [
+						195,
+						206
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1022118282575241200,
+					"id_str": "1022118282575241216",
+					"indices": [
+						207,
+						230
+					],
+					"media_url": "http://pbs.twimg.com/media/Di9LKZ9UYAAHQR0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Di9LKZ9UYAAHQR0.jpg",
+					"url": "https://t.co/DRU0iLt0Ri",
+					"display_url": "pic.twitter.com/DRU0iLt0Ri",
+					"expanded_url": "https://twitter.com/sewilkie/status/1022118815642083333/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 541,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 541,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 341,
+							"resize": "fit"
+						}
+					}
+				}
+			]
 		},
-		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1022118282575241200,
+					"id_str": "1022118282575241216",
+					"indices": [
+						207,
+						230
+					],
+					"media_url": "http://pbs.twimg.com/media/Di9LKZ9UYAAHQR0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Di9LKZ9UYAAHQR0.jpg",
+					"url": "https://t.co/DRU0iLt0Ri",
+					"display_url": "pic.twitter.com/DRU0iLt0Ri",
+					"expanded_url": "https://twitter.com/sewilkie/status/1022118815642083333/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 541,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 541,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 341,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
 		"in_reply_to_status_id": null,
 		"in_reply_to_status_id_str": null,
 		"in_reply_to_user_id": null,
 		"in_reply_to_user_id_str": null,
 		"in_reply_to_screen_name": null,
 		"user": {
-			"id": 5634392,
-			"id_str": "5634392",
-			"name": "Darren Kuropatwa",
-			"screen_name": "dkuropatwa",
-			"location": "Winnipeg, Manitoba, Canada",
-			"description": "Educator. Always in beta ∞β.",
-			"url": "https://t.co/FJEo2rIADF",
+			"id": 244625496,
+			"id_str": "244625496",
+			"name": "sara wilkie",
+			"screen_name": "sewilkie",
+			"location": "Beverly Hills, MI",
+			"description": "Learner, Teacher & Mentor of Purposeful Learning & Inquiry Design; Disruptor of a most amazing learning team https://t.co/dAyunwvvfr",
+			"url": "https://t.co/XLyB5ih4DX",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/FJEo2rIADF",
-							"expanded_url": "http://adifference.blogspot.com",
-							"display_url": "adifference.blogspot.com",
+							"url": "https://t.co/XLyB5ih4DX",
+							"expanded_url": "http://balancedtech.org",
+							"display_url": "balancedtech.org",
 							"indices": [
 								0,
 								23
@@ -11683,40 +11437,50 @@ Grailbird.data.tweets_2018_07 =
 					]
 				},
 				"description": {
-					"urls": []
+					"urls": [
+						{
+							"url": "https://t.co/dAyunwvvfr",
+							"expanded_url": "http://BalancEdTech.org",
+							"display_url": "BalancEdTech.org",
+							"indices": [
+								109,
+								132
+							]
+						}
+					]
 				}
 			},
 			"protected": false,
-			"followers_count": 6795,
-			"friends_count": 2633,
-			"listed_count": 462,
-			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
-			"favourites_count": 395,
+			"followers_count": 2479,
+			"friends_count": 831,
+			"listed_count": 136,
+			"created_at": "Sat Jan 29 19:04:54 +0000 2011",
+			"favourites_count": 3016,
 			"utc_offset": null,
 			"time_zone": null,
-			"geo_enabled": false,
-			"verified": true,
-			"statuses_count": 24787,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8108,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
-			"profile_background_color": "9AE4E8",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": true,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
-			"profile_link_color": "0000FF",
-			"profile_sidebar_border_color": "FFFFFF",
-			"profile_sidebar_fill_color": "67CD67",
-			"profile_text_color": "000000",
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1230905137/Sewface_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1230905137/Sewface_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/244625496/1356620067",
+			"profile_link_color": "D02B55",
+			"profile_sidebar_border_color": "829D5E",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
 			"profile_use_background_image": true,
-			"has_extended_profile": true,
+			"has_extended_profile": false,
 			"default_profile": false,
 			"default_profile_image": false,
-			"following": false,
+			"following": true,
 			"follow_request_sent": false,
 			"notifications": false,
 			"translator_type": "none"
@@ -11725,130 +11489,25 @@ Grailbird.data.tweets_2018_07 =
 		"coordinates": null,
 		"place": null,
 		"contributors": null,
-		"retweeted_status": {
-			"created_at": "Wed Jul 25 13:58:10 +0000 2018",
-			"id": 1022118815642083300,
-			"id_str": "1022118815642083333",
-			"text": "Its so hard to know what we can’t see… Building capacity for Ruler Skills in our students starts with adult learnin… https://t.co/tsWFuHhi1W",
-			"truncated": true,
-			"entities": {
-				"hashtags": [],
-				"symbols": [],
-				"user_mentions": [],
-				"urls": [
-					{
-						"url": "https://t.co/tsWFuHhi1W",
-						"expanded_url": "https://twitter.com/i/web/status/1022118815642083333",
-						"display_url": "twitter.com/i/web/status/1…",
-						"indices": [
-							117,
-							140
-						]
-					}
-				]
-			},
-			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-			"in_reply_to_status_id": null,
-			"in_reply_to_status_id_str": null,
-			"in_reply_to_user_id": null,
-			"in_reply_to_user_id_str": null,
-			"in_reply_to_screen_name": null,
-			"user": {
-				"id": 244625496,
-				"id_str": "244625496",
-				"name": "sara wilkie",
-				"screen_name": "sewilkie",
-				"location": "Beverly Hills, MI ",
-				"description": "Head of Learning Design, November Learning Learner, Teacher, Disruptor...of a most amazing learning team https://t.co/lOU096r3mQ header via slackpics",
-				"url": "https://t.co/27T1QlEtPX",
-				"entities": {
-					"url": {
-						"urls": [
-							{
-								"url": "https://t.co/27T1QlEtPX",
-								"expanded_url": "http://balancedtech.wikispaces.com",
-								"display_url": "balancedtech.wikispaces.com",
-								"indices": [
-									0,
-									23
-								]
-							}
-						]
-					},
-					"description": {
-						"urls": [
-							{
-								"url": "https://t.co/lOU096r3mQ",
-								"expanded_url": "http://BalancEdTech.wikispaces.com",
-								"display_url": "BalancEdTech.wikispaces.com",
-								"indices": [
-									105,
-									128
-								]
-							}
-						]
-					}
-				},
-				"protected": false,
-				"followers_count": 2452,
-				"friends_count": 796,
-				"listed_count": 136,
-				"created_at": "Sat Jan 29 19:04:54 +0000 2011",
-				"favourites_count": 2535,
-				"utc_offset": null,
-				"time_zone": null,
-				"geo_enabled": true,
-				"verified": false,
-				"statuses_count": 7857,
-				"lang": "en",
-				"contributors_enabled": false,
-				"is_translator": false,
-				"is_translation_enabled": false,
-				"profile_background_color": "352726",
-				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
-				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
-				"profile_background_tile": false,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/1230905137/Sewface_normal.jpg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1230905137/Sewface_normal.jpg",
-				"profile_banner_url": "https://pbs.twimg.com/profile_banners/244625496/1356620067",
-				"profile_link_color": "D02B55",
-				"profile_sidebar_border_color": "829D5E",
-				"profile_sidebar_fill_color": "99CC33",
-				"profile_text_color": "3E4415",
-				"profile_use_background_image": true,
-				"has_extended_profile": false,
-				"default_profile": false,
-				"default_profile_image": false,
-				"following": true,
-				"follow_request_sent": false,
-				"notifications": false,
-				"translator_type": "none"
-			},
-			"geo": null,
-			"coordinates": null,
-			"place": null,
-			"contributors": null,
-			"is_quote_status": false,
-			"retweet_count": 2,
-			"favorite_count": 1,
-			"favorited": false,
-			"retweeted": true,
-			"possibly_sensitive": false,
-			"lang": "en"
-		},
 		"is_quote_status": false,
-		"retweet_count": 2,
-		"favorite_count": 0,
+		"retweet_count": 6,
+		"favorite_count": 6,
 		"favorited": false,
 		"retweeted": true,
-		"lang": "en"
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Its so hard to know what we can’t see… Building capacity for Ruler Skills in our students starts with adult learning. @marcbrackett #blc18 #pceplearns #cpchat #edchat @BalancEdTech @MilwaukeeJDS @dkuropatwa https://t.co/DRU0iLt0Ri"
 	},
 	{
 		"created_at": "Wed Jul 25 13:59:52 +0000 2018",
 		"id": 1022119245986127900,
 		"id_str": "1022119245986127872",
-		"text": "#BLC18 @marcbrackett’s #socialemotionallearning Theory of Change https://t.co/BnOkLsOJcR https://t.co/T4t1DBcuqE",
+		"full_text": "#BLC18 @marcbrackett’s #socialemotionallearning Theory of Change https://t.co/BnOkLsOJcR https://t.co/T4t1DBcuqE",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
 		"entities": {
 			"hashtags": [
 				{
@@ -12002,16 +11661,16 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 6795,
-			"friends_count": 2633,
-			"listed_count": 462,
+			"followers_count": 6835,
+			"friends_count": 2702,
+			"listed_count": 459,
 			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
-			"favourites_count": 395,
+			"favourites_count": 421,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 24787,
+			"statuses_count": 24915,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -12020,8 +11679,8 @@ Grailbird.data.tweets_2018_07 =
 			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": true,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
 			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
 			"profile_link_color": "0000FF",
 			"profile_sidebar_border_color": "FFFFFF",
@@ -12041,19 +11700,24 @@ Grailbird.data.tweets_2018_07 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 0,
+		"retweet_count": 1,
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "#BLC18 @marcbrackett’s #socialemotionallearning Theory of Change https://t.co/BnOkLsOJcR https://t.co/T4t1DBcuqE"
 	},
 	{
 		"created_at": "Wed Jul 25 13:59:50 +0000 2018",
 		"id": 1022119237077401600,
 		"id_str": "1022119237077401601",
-		"text": "#BLC18 @marcbrackett’s principles for growing #emotionalintelligence Principals with high EI have a dramatically mo… https://t.co/v10gxu5XZ0",
-		"truncated": true,
+		"full_text": "#BLC18 @marcbrackett’s principles for growing #emotionalintelligence Principals with high EI have a dramatically more positive impact on students and teachers. https://t.co/xh2RM01CcE https://t.co/5d3Tvs9R06",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
 		"entities": {
 			"hashtags": [
 				{
@@ -12086,13 +11750,91 @@ Grailbird.data.tweets_2018_07 =
 			],
 			"urls": [
 				{
-					"url": "https://t.co/v10gxu5XZ0",
-					"expanded_url": "https://twitter.com/i/web/status/1022119237077401601",
-					"display_url": "twitter.com/i/web/status/1…",
+					"url": "https://t.co/xh2RM01CcE",
+					"expanded_url": "http://j.mp/2JSBY54",
+					"display_url": "j.mp/2JSBY54",
 					"indices": [
-						117,
-						140
+						160,
+						183
 					]
+				}
+			],
+			"media": [
+				{
+					"id": 1022119235760336900,
+					"id_str": "1022119235760336896",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/Di9MB42WsAAHJov.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Di9MB42WsAAHJov.jpg",
+					"url": "https://t.co/5d3Tvs9R06",
+					"display_url": "pic.twitter.com/5d3Tvs9R06",
+					"expanded_url": "https://twitter.com/dkuropatwa/status/1022119237077401601/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1022119235760336900,
+					"id_str": "1022119235760336896",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/Di9MB42WsAAHJov.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Di9MB42WsAAHJov.jpg",
+					"url": "https://t.co/5d3Tvs9R06",
+					"display_url": "pic.twitter.com/5d3Tvs9R06",
+					"expanded_url": "https://twitter.com/dkuropatwa/status/1022119237077401601/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
 				}
 			]
 		},
@@ -12129,16 +11871,16 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 6795,
-			"friends_count": 2633,
-			"listed_count": 462,
+			"followers_count": 6835,
+			"friends_count": 2702,
+			"listed_count": 459,
 			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
-			"favourites_count": 395,
+			"favourites_count": 421,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 24787,
+			"statuses_count": 24915,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -12147,8 +11889,8 @@ Grailbird.data.tweets_2018_07 =
 			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": true,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
 			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
 			"profile_link_color": "0000FF",
 			"profile_sidebar_border_color": "FFFFFF",
@@ -12169,20 +11911,40 @@ Grailbird.data.tweets_2018_07 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "#BLC18 @marcbrackett’s principles for growing #emotionalintelligence Principals with high EI have a dramatically more positive impact on students and teachers. https://t.co/xh2RM01CcE https://t.co/5d3Tvs9R06"
 	},
 	{
 		"created_at": "Wed Jul 25 13:59:49 +0000 2018",
 		"id": 1022119232237174800,
 		"id_str": "1022119232237174784",
-		"text": "Sharing emotions is generally regarded as a sign of weakness in our culture. cf @brenebrown has lots to say about t… https://t.co/qu724C5KSV",
-		"truncated": true,
+		"full_text": "Sharing emotions is generally regarded as a sign of weakness in our culture. cf @brenebrown has lots to say about that. Learning #selfregulation is a critical skill for all of us. @stuart_shanker #BLC18 https://t.co/fQWnjKjktG https://t.co/Bb0Kl8uqyv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			226
+		],
 		"entities": {
-			"hashtags": [],
+			"hashtags": [
+				{
+					"text": "selfregulation",
+					"indices": [
+						129,
+						144
+					]
+				},
+				{
+					"text": "BLC18",
+					"indices": [
+						196,
+						202
+					]
+				}
+			],
 			"symbols": [],
 			"user_mentions": [
 				{
@@ -12198,13 +11960,91 @@ Grailbird.data.tweets_2018_07 =
 			],
 			"urls": [
 				{
-					"url": "https://t.co/qu724C5KSV",
-					"expanded_url": "https://twitter.com/i/web/status/1022119232237174784",
-					"display_url": "twitter.com/i/web/status/1…",
+					"url": "https://t.co/fQWnjKjktG",
+					"expanded_url": "http://j.mp/2mGhjYD",
+					"display_url": "j.mp/2mGhjYD",
 					"indices": [
-						117,
-						140
+						203,
+						226
 					]
+				}
+			],
+			"media": [
+				{
+					"id": 1022119228277710800,
+					"id_str": "1022119228277710848",
+					"indices": [
+						227,
+						250
+					],
+					"media_url": "http://pbs.twimg.com/media/Di9MBc-W4AAbgye.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Di9MBc-W4AAbgye.jpg",
+					"url": "https://t.co/Bb0Kl8uqyv",
+					"display_url": "pic.twitter.com/Bb0Kl8uqyv",
+					"expanded_url": "https://twitter.com/dkuropatwa/status/1022119232237174784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1022119228277710800,
+					"id_str": "1022119228277710848",
+					"indices": [
+						227,
+						250
+					],
+					"media_url": "http://pbs.twimg.com/media/Di9MBc-W4AAbgye.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Di9MBc-W4AAbgye.jpg",
+					"url": "https://t.co/Bb0Kl8uqyv",
+					"display_url": "pic.twitter.com/Bb0Kl8uqyv",
+					"expanded_url": "https://twitter.com/dkuropatwa/status/1022119232237174784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
 				}
 			]
 		},
@@ -12241,16 +12081,16 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 6795,
-			"friends_count": 2633,
-			"listed_count": 462,
+			"followers_count": 6835,
+			"friends_count": 2702,
+			"listed_count": 459,
 			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
-			"favourites_count": 395,
+			"favourites_count": 421,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 24787,
+			"statuses_count": 24915,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -12259,8 +12099,8 @@ Grailbird.data.tweets_2018_07 =
 			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": true,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
 			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
 			"profile_link_color": "0000FF",
 			"profile_sidebar_border_color": "FFFFFF",
@@ -12280,32 +12120,123 @@ Grailbird.data.tweets_2018_07 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 0,
+		"retweet_count": 1,
+		"favorite_count": 3,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Sharing emotions is generally regarded as a sign of weakness in our culture. cf @brenebrown has lots to say about that. Learning #selfregulation is a critical skill for all of us. @stuart_shanker #BLC18 https://t.co/fQWnjKjktG https://t.co/Bb0Kl8uqyv"
 	},
 	{
 		"created_at": "Wed Jul 25 13:59:47 +0000 2018",
 		"id": 1022119222980358100,
 		"id_str": "1022119222980358147",
-		"text": "Emotions matter. They effect: attention, memory, learning, decision making, relationship quality, physical and ment… https://t.co/VAwCalO47q",
-		"truncated": true,
+		"full_text": "Emotions matter. They effect: attention, memory, learning, decision making, relationship quality, physical and mental health, performance and creativity. #BLC18 https://t.co/319LwFoKHG https://t.co/KjbsyRRXiH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
 		"entities": {
-			"hashtags": [],
+			"hashtags": [
+				{
+					"text": "BLC18",
+					"indices": [
+						154,
+						160
+					]
+				}
+			],
 			"symbols": [],
 			"user_mentions": [],
 			"urls": [
 				{
-					"url": "https://t.co/VAwCalO47q",
-					"expanded_url": "https://twitter.com/i/web/status/1022119222980358147",
-					"display_url": "twitter.com/i/web/status/1…",
+					"url": "https://t.co/319LwFoKHG",
+					"expanded_url": "http://j.mp/2JVi2yp",
+					"display_url": "j.mp/2JVi2yp",
 					"indices": [
-						117,
-						140
+						161,
+						184
 					]
+				}
+			],
+			"media": [
+				{
+					"id": 1022119221659136000,
+					"id_str": "1022119221659136005",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/Di9MBEUXcAUdpjk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Di9MBEUXcAUdpjk.jpg",
+					"url": "https://t.co/KjbsyRRXiH",
+					"display_url": "pic.twitter.com/KjbsyRRXiH",
+					"expanded_url": "https://twitter.com/dkuropatwa/status/1022119222980358147/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1022119221659136000,
+					"id_str": "1022119221659136005",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/Di9MBEUXcAUdpjk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Di9MBEUXcAUdpjk.jpg",
+					"url": "https://t.co/KjbsyRRXiH",
+					"display_url": "pic.twitter.com/KjbsyRRXiH",
+					"expanded_url": "https://twitter.com/dkuropatwa/status/1022119222980358147/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
 				}
 			]
 		},
@@ -12342,16 +12273,16 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 6795,
-			"friends_count": 2633,
-			"listed_count": 462,
+			"followers_count": 6835,
+			"friends_count": 2702,
+			"listed_count": 459,
 			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
-			"favourites_count": 395,
+			"favourites_count": 421,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 24787,
+			"statuses_count": 24915,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -12360,8 +12291,8 @@ Grailbird.data.tweets_2018_07 =
 			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": true,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
 			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
 			"profile_link_color": "0000FF",
 			"profile_sidebar_border_color": "FFFFFF",
@@ -12382,18 +12313,23 @@ Grailbird.data.tweets_2018_07 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 2,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Emotions matter. They effect: attention, memory, learning, decision making, relationship quality, physical and mental health, performance and creativity. #BLC18 https://t.co/319LwFoKHG https://t.co/KjbsyRRXiH"
 	},
 	{
 		"created_at": "Wed Jul 25 13:59:45 +0000 2018",
 		"id": 1022119215858430000,
 		"id_str": "1022119215858429953",
-		"text": "Students feelings matter. #BLC18 https://t.co/bGyLlcNval https://t.co/03f0ByGJBH",
+		"full_text": "Students feelings matter. #BLC18 https://t.co/bGyLlcNval https://t.co/03f0ByGJBH",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
 		"entities": {
 			"hashtags": [
 				{
@@ -12529,16 +12465,16 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 6795,
-			"friends_count": 2633,
-			"listed_count": 462,
+			"followers_count": 6835,
+			"friends_count": 2702,
+			"listed_count": 459,
 			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
-			"favourites_count": 395,
+			"favourites_count": 421,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 24787,
+			"statuses_count": 24915,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -12547,8 +12483,8 @@ Grailbird.data.tweets_2018_07 =
 			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": true,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
 			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
 			"profile_link_color": "0000FF",
 			"profile_sidebar_border_color": "FFFFFF",
@@ -12568,19 +12504,24 @@ Grailbird.data.tweets_2018_07 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 1,
-		"favorite_count": 0,
+		"retweet_count": 3,
+		"favorite_count": 2,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Students feelings matter. #BLC18 https://t.co/bGyLlcNval https://t.co/03f0ByGJBH"
 	},
 	{
 		"created_at": "Wed Jul 25 13:54:39 +0000 2018",
 		"id": 1022117931918884900,
 		"id_str": "1022117931918884864",
-		"text": "#BLC18 @marcbrackett’s #socialemotionallearning Theory of Change @ Boston Park Plaza https://t.co/Jt8eQlFxNa",
+		"full_text": "#BLC18 @marcbrackett’s #socialemotionallearning Theory of Change @ Boston Park Plaza https://t.co/Jt8eQlFxNa",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
 		"entities": {
 			"hashtags": [
 				{
@@ -12656,16 +12597,16 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 6795,
-			"friends_count": 2633,
-			"listed_count": 462,
+			"followers_count": 6835,
+			"friends_count": 2702,
+			"listed_count": 459,
 			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
-			"favourites_count": 395,
+			"favourites_count": 421,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 24787,
+			"statuses_count": 24915,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -12674,8 +12615,8 @@ Grailbird.data.tweets_2018_07 =
 			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": true,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
 			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
 			"profile_link_color": "0000FF",
 			"profile_sidebar_border_color": "FFFFFF",
@@ -12696,18 +12637,23 @@ Grailbird.data.tweets_2018_07 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "#BLC18 @marcbrackett’s #socialemotionallearning Theory of Change @ Boston Park Plaza https://t.co/Jt8eQlFxNa"
 	},
 	{
 		"created_at": "Wed Jul 25 13:52:56 +0000 2018",
 		"id": 1022117497343037400,
 		"id_str": "1022117497343037440",
-		"text": "#BLC18 @marcbrackett’s principles for growing #emotionalintelligence Principals with high EI have a dramatically mo… https://t.co/vWxG3nDkbf",
-		"truncated": true,
+		"full_text": "#BLC18 @marcbrackett’s principles for growing #emotionalintelligence Principals with high EI have a dramatically more positive impact on students and teachers. @ Boston Park Plaza https://t.co/pVHNEoKn43",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			203
+		],
 		"entities": {
 			"hashtags": [
 				{
@@ -12740,12 +12686,12 @@ Grailbird.data.tweets_2018_07 =
 			],
 			"urls": [
 				{
-					"url": "https://t.co/vWxG3nDkbf",
-					"expanded_url": "https://twitter.com/i/web/status/1022117497343037440",
-					"display_url": "twitter.com/i/web/status/1…",
+					"url": "https://t.co/pVHNEoKn43",
+					"expanded_url": "https://www.instagram.com/p/BlqDFBInRb3/?utm_source=ig_twitter_share&igshid=1ikeufan2c6vm",
+					"display_url": "instagram.com/p/BlqDFBInRb3/…",
 					"indices": [
-						117,
-						140
+						180,
+						203
 					]
 				}
 			]
@@ -12783,16 +12729,16 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 6795,
-			"friends_count": 2633,
-			"listed_count": 462,
+			"followers_count": 6835,
+			"friends_count": 2702,
+			"listed_count": 459,
 			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
-			"favourites_count": 395,
+			"favourites_count": 421,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 24787,
+			"statuses_count": 24915,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -12801,8 +12747,228 @@ Grailbird.data.tweets_2018_07 =
 			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": true,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "67CD67",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLC18 @marcbrackett’s principles for growing #emotionalintelligence Principals with high EI have a dramatically more positive impact on students and teachers. @ Boston Park Plaza https://t.co/pVHNEoKn43"
+	},
+	{
+		"created_at": "Wed Jul 25 13:48:46 +0000 2018",
+		"id": 1022116449488445400,
+		"id_str": "1022116449488445442",
+		"full_text": "All segments, kids to adults, across all sectors of our society are overwhelmingly feeling negative emotions daily. “Negative emotions lead to unethical behaviour.” via @markbracket",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			181
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5634392,
+			"id_str": "5634392",
+			"name": "Darren Kuropatwa",
+			"screen_name": "dkuropatwa",
+			"location": "Winnipeg, Manitoba, Canada",
+			"description": "Educator. Always in beta ∞β.",
+			"url": "https://t.co/FJEo2rIADF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FJEo2rIADF",
+							"expanded_url": "http://adifference.blogspot.com",
+							"display_url": "adifference.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6835,
+			"friends_count": 2702,
+			"listed_count": 459,
+			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
+			"favourites_count": 421,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 24915,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "67CD67",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "All segments, kids to adults, across all sectors of our society are overwhelmingly feeling negative emotions daily. “Negative emotions lead to unethical behaviour.” via @markbracket"
+	},
+	{
+		"created_at": "Wed Jul 25 13:48:27 +0000 2018",
+		"id": 1022116371583459300,
+		"id_str": "1022116371583459328",
+		"full_text": "Sharing emotions is generally regarded as a sign of weakness in our culture. cf @brenebrown has lots to say about that. Learning #selfregulation is a critical skill for all of us.… https://t.co/x6DBOJeNRS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			204
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "selfregulation",
+					"indices": [
+						129,
+						144
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BreneBrown",
+					"name": "Brené Brown",
+					"id": 14717311,
+					"id_str": "14717311",
+					"indices": [
+						80,
+						91
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/x6DBOJeNRS",
+					"expanded_url": "https://www.instagram.com/p/BlqCkc-nNr4/?utm_source=ig_twitter_share&igshid=16309zf2x7ftf",
+					"display_url": "instagram.com/p/BlqCkc-nNr4/…",
+					"indices": [
+						181,
+						204
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5634392,
+			"id_str": "5634392",
+			"name": "Darren Kuropatwa",
+			"screen_name": "dkuropatwa",
+			"location": "Winnipeg, Manitoba, Canada",
+			"description": "Educator. Always in beta ∞β.",
+			"url": "https://t.co/FJEo2rIADF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FJEo2rIADF",
+							"expanded_url": "http://adifference.blogspot.com",
+							"display_url": "adifference.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6835,
+			"friends_count": 2702,
+			"listed_count": 459,
+			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
+			"favourites_count": 421,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 24915,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
 			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
 			"profile_link_color": "0000FF",
 			"profile_sidebar_border_color": "FFFFFF",
@@ -12827,226 +12993,19 @@ Grailbird.data.tweets_2018_07 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
-	},
-	{
-		"created_at": "Wed Jul 25 13:48:46 +0000 2018",
-		"id": 1022116449488445400,
-		"id_str": "1022116449488445442",
-		"text": "All segments, kids to adults, across all sectors of our society are overwhelmingly feeling negative emotions daily.… https://t.co/VAtcyFEya8",
-		"truncated": true,
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": [
-				{
-					"url": "https://t.co/VAtcyFEya8",
-					"expanded_url": "https://twitter.com/i/web/status/1022116449488445442",
-					"display_url": "twitter.com/i/web/status/1…",
-					"indices": [
-						117,
-						140
-					]
-				}
-			]
-		},
-		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 5634392,
-			"id_str": "5634392",
-			"name": "Darren Kuropatwa",
-			"screen_name": "dkuropatwa",
-			"location": "Winnipeg, Manitoba, Canada",
-			"description": "Educator. Always in beta ∞β.",
-			"url": "https://t.co/FJEo2rIADF",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/FJEo2rIADF",
-							"expanded_url": "http://adifference.blogspot.com",
-							"display_url": "adifference.blogspot.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 6795,
-			"friends_count": 2633,
-			"listed_count": 462,
-			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
-			"favourites_count": 395,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": false,
-			"verified": true,
-			"statuses_count": 24787,
-			"lang": "en",
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "9AE4E8",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": true,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
-			"profile_link_color": "0000FF",
-			"profile_sidebar_border_color": "FFFFFF",
-			"profile_sidebar_fill_color": "67CD67",
-			"profile_text_color": "000000",
-			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 0,
-		"favorited": false,
-		"retweeted": false,
-		"lang": "en"
-	},
-	{
-		"created_at": "Wed Jul 25 13:48:27 +0000 2018",
-		"id": 1022116371583459300,
-		"id_str": "1022116371583459328",
-		"text": "Sharing emotions is generally regarded as a sign of weakness in our culture. cf @brenebrown has lots to say about t… https://t.co/QbiBGI82UI",
-		"truncated": true,
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "BreneBrown",
-					"name": "Brené Brown",
-					"id": 14717311,
-					"id_str": "14717311",
-					"indices": [
-						80,
-						91
-					]
-				}
-			],
-			"urls": [
-				{
-					"url": "https://t.co/QbiBGI82UI",
-					"expanded_url": "https://twitter.com/i/web/status/1022116371583459328",
-					"display_url": "twitter.com/i/web/status/1…",
-					"indices": [
-						117,
-						140
-					]
-				}
-			]
-		},
-		"source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 5634392,
-			"id_str": "5634392",
-			"name": "Darren Kuropatwa",
-			"screen_name": "dkuropatwa",
-			"location": "Winnipeg, Manitoba, Canada",
-			"description": "Educator. Always in beta ∞β.",
-			"url": "https://t.co/FJEo2rIADF",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/FJEo2rIADF",
-							"expanded_url": "http://adifference.blogspot.com",
-							"display_url": "adifference.blogspot.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 6795,
-			"friends_count": 2633,
-			"listed_count": 462,
-			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
-			"favourites_count": 395,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": false,
-			"verified": true,
-			"statuses_count": 24787,
-			"lang": "en",
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "9AE4E8",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": true,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
-			"profile_link_color": "0000FF",
-			"profile_sidebar_border_color": "FFFFFF",
-			"profile_sidebar_fill_color": "67CD67",
-			"profile_text_color": "000000",
-			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 0,
-		"favorited": false,
-		"retweeted": false,
-		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Sharing emotions is generally regarded as a sign of weakness in our culture. cf @brenebrown has lots to say about that. Learning #selfregulation is a critical skill for all of us.… https://t.co/x6DBOJeNRS"
 	},
 	{
 		"created_at": "Wed Jul 25 13:40:04 +0000 2018",
 		"id": 1022114262226018300,
 		"id_str": "1022114262226018304",
-		"text": "We are fabulously bad at identifying emotions by looking at peoples faces. #BLC18 (No one guessed @marcbrackett’s e… https://t.co/444onw9YbH",
-		"truncated": true,
+		"full_text": "We are fabulously bad at identifying emotions by looking at peoples faces. #BLC18 (No one guessed @marcbrackett’s emotion of serenity by looking at his face. Ppl thought he felt confident, flirtatious, smug, sad, and many more.)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			228
+		],
 		"entities": {
 			"hashtags": [
 				{
@@ -13070,17 +13029,7 @@ Grailbird.data.tweets_2018_07 =
 					]
 				}
 			],
-			"urls": [
-				{
-					"url": "https://t.co/444onw9YbH",
-					"expanded_url": "https://twitter.com/i/web/status/1022114262226018304",
-					"display_url": "twitter.com/i/web/status/1…",
-					"indices": [
-						117,
-						140
-					]
-				}
-			]
+			"urls": []
 		},
 		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
 		"in_reply_to_status_id": null,
@@ -13115,16 +13064,16 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 6795,
-			"friends_count": 2633,
-			"listed_count": 462,
+			"followers_count": 6835,
+			"friends_count": 2702,
+			"listed_count": 459,
 			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
-			"favourites_count": 395,
+			"favourites_count": 421,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 24787,
+			"statuses_count": 24915,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -13133,8 +13082,8 @@ Grailbird.data.tweets_2018_07 =
 			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": true,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
 			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
 			"profile_link_color": "0000FF",
 			"profile_sidebar_border_color": "FFFFFF",
@@ -13155,17 +13104,22 @@ Grailbird.data.tweets_2018_07 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 1,
-		"favorite_count": 2,
+		"favorite_count": 5,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "We are fabulously bad at identifying emotions by looking at peoples faces. #BLC18 (No one guessed @marcbrackett’s emotion of serenity by looking at his face. Ppl thought he felt confident, flirtatious, smug, sad, and many more.)"
 	},
 	{
 		"created_at": "Wed Jul 25 13:33:37 +0000 2018",
 		"id": 1022112638870986800,
 		"id_str": "1022112638870986754",
-		"text": "“There has been more than a 25% increase in suicide over the last two decades.” via @marcbrackett #BLC18",
+		"full_text": "“There has been more than a 25% increase in suicide over the last two decades.” via @marcbrackett #BLC18",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
 		"entities": {
 			"hashtags": [
 				{
@@ -13224,16 +13178,16 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 6795,
-			"friends_count": 2633,
-			"listed_count": 462,
+			"followers_count": 6835,
+			"friends_count": 2702,
+			"listed_count": 459,
 			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
-			"favourites_count": 395,
+			"favourites_count": 421,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 24787,
+			"statuses_count": 24915,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -13242,8 +13196,8 @@ Grailbird.data.tweets_2018_07 =
 			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": true,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
 			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
 			"profile_link_color": "0000FF",
 			"profile_sidebar_border_color": "FFFFFF",
@@ -13267,26 +13221,39 @@ Grailbird.data.tweets_2018_07 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "“There has been more than a 25% increase in suicide over the last two decades.” via @marcbrackett #BLC18"
 	},
 	{
 		"created_at": "Wed Jul 25 13:30:58 +0000 2018",
 		"id": 1022111972828082200,
 		"id_str": "1022111972828082176",
-		"text": "Emotions matter. They effect: attention, memory, learning, decision making, relationship quality, physical and ment… https://t.co/9PJChW7Xbd",
-		"truncated": true,
+		"full_text": "Emotions matter. They effect: attention, memory, learning, decision making, relationship quality, physical and mental health, performance and creativity. #BLC18 @ Boston Park Plaza https://t.co/7P1rxwdrP8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			204
+		],
 		"entities": {
-			"hashtags": [],
+			"hashtags": [
+				{
+					"text": "BLC18",
+					"indices": [
+						154,
+						160
+					]
+				}
+			],
 			"symbols": [],
 			"user_mentions": [],
 			"urls": [
 				{
-					"url": "https://t.co/9PJChW7Xbd",
-					"expanded_url": "https://twitter.com/i/web/status/1022111972828082176",
-					"display_url": "twitter.com/i/web/status/1…",
+					"url": "https://t.co/7P1rxwdrP8",
+					"expanded_url": "https://www.instagram.com/p/BlqAkYNH2mu/?utm_source=ig_twitter_share&igshid=1xqtl8ald4ibe",
+					"display_url": "instagram.com/p/BlqAkYNH2mu/…",
 					"indices": [
-						117,
-						140
+						181,
+						204
 					]
 				}
 			]
@@ -13324,16 +13291,16 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 6795,
-			"friends_count": 2633,
-			"listed_count": 462,
+			"followers_count": 6835,
+			"friends_count": 2702,
+			"listed_count": 459,
 			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
-			"favourites_count": 395,
+			"favourites_count": 421,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 24787,
+			"statuses_count": 24915,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -13342,8 +13309,8 @@ Grailbird.data.tweets_2018_07 =
 			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": true,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
 			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
 			"profile_link_color": "0000FF",
 			"profile_sidebar_border_color": "FFFFFF",
@@ -13364,33 +13331,39 @@ Grailbird.data.tweets_2018_07 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 2,
+		"favorite_count": 5,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Emotions matter. They effect: attention, memory, learning, decision making, relationship quality, physical and mental health, performance and creativity. #BLC18 @ Boston Park Plaza https://t.co/7P1rxwdrP8"
 	},
 	{
 		"created_at": "Wed Jul 25 13:27:09 +0000 2018",
 		"id": 1022111009534824400,
 		"id_str": "1022111009534824450",
-		"text": "All segments, kids to adults, across all sectors of our society are overwhelmingly feeling negative emotions daily.… https://t.co/0IvLabQ1LY",
-		"truncated": true,
+		"full_text": "All segments, kids to adults, across all sectors of our society are overwhelmingly feeling negative emotions daily. “Negative emotions lead to unethical behaviour.” via @marcbrackett",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
-			"user_mentions": [],
-			"urls": [
+			"user_mentions": [
 				{
-					"url": "https://t.co/0IvLabQ1LY",
-					"expanded_url": "https://twitter.com/i/web/status/1022111009534824450",
-					"display_url": "twitter.com/i/web/status/1…",
+					"screen_name": "marcbrackett",
+					"name": "Marc Brackett",
+					"id": 243030755,
+					"id_str": "243030755",
 					"indices": [
-						117,
-						140
+						169,
+						182
 					]
 				}
-			]
+			],
+			"urls": []
 		},
 		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
 		"in_reply_to_status_id": null,
@@ -13425,16 +13398,16 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 6795,
-			"friends_count": 2633,
-			"listed_count": 462,
+			"followers_count": 6835,
+			"friends_count": 2702,
+			"listed_count": 459,
 			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
-			"favourites_count": 395,
+			"favourites_count": 421,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 24787,
+			"statuses_count": 24915,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -13443,8 +13416,8 @@ Grailbird.data.tweets_2018_07 =
 			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": true,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
 			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
 			"profile_link_color": "0000FF",
 			"profile_sidebar_border_color": "FFFFFF",
@@ -13468,14 +13441,19 @@ Grailbird.data.tweets_2018_07 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "All segments, kids to adults, across all sectors of our society are overwhelmingly feeling negative emotions daily. “Negative emotions lead to unethical behaviour.” via @marcbrackett"
 	},
 	{
 		"created_at": "Wed Jul 25 13:18:57 +0000 2018",
 		"id": 1022108946151231500,
 		"id_str": "1022108946151231490",
-		"text": "Students feelings matter. #BLC18 @ Park Plaza Hotel Boston https://t.co/e05psKoyvh",
+		"full_text": "Students feelings matter. #BLC18 @ Park Plaza Hotel Boston https://t.co/e05psKoyvh",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
 		"entities": {
 			"hashtags": [
 				{
@@ -13533,16 +13511,16 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 6795,
-			"friends_count": 2633,
-			"listed_count": 462,
+			"followers_count": 6835,
+			"friends_count": 2702,
+			"listed_count": 459,
 			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
-			"favourites_count": 395,
+			"favourites_count": 421,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 24787,
+			"statuses_count": 24915,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -13551,8 +13529,8 @@ Grailbird.data.tweets_2018_07 =
 			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": true,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
 			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
 			"profile_link_color": "0000FF",
 			"profile_sidebar_border_color": "FFFFFF",
@@ -13577,30 +13555,171 @@ Grailbird.data.tweets_2018_07 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Students feelings matter. #BLC18 @ Park Plaza Hotel Boston https://t.co/e05psKoyvh"
 	},
 	{
-		"created_at": "Wed Jul 25 12:37:12 +0000 2018",
-		"id": 1022098439033765900,
-		"id_str": "1022098439033765888",
-		"text": "RT @BrianJMull: Had the most amazing dinner with friends and an incredibly engaging and thoughtful group of students and teachers from Mich…",
+		"created_at": "Wed Jul 25 10:35:47 +0000 2018",
+		"id": 1022067883411689500,
+		"id_str": "1022067883411689475",
+		"full_text": "Had the most amazing dinner with friends and an incredibly engaging and thoughtful group of students and teachers from Michigan. I'll enjoy watching their adventures this week. @sewilkie @RoyBPS @dkuropatwa @MikalB @trdale @HalHeard3rd #pceplearns https://t.co/VAbD0ykuqX",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			247
+		],
 		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [
+			"hashtags": [
 				{
-					"screen_name": "BrianJMull",
-					"name": "Brian Mull",
-					"id": 5667012,
-					"id_str": "5667012",
+					"text": "pceplearns",
 					"indices": [
-						3,
-						14
+						236,
+						247
 					]
 				}
 			],
-			"urls": []
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sewilkie",
+					"name": "sara wilkie",
+					"id": 244625496,
+					"id_str": "244625496",
+					"indices": [
+						177,
+						186
+					]
+				},
+				{
+					"screen_name": "RoyBPS",
+					"name": "Roy McCloud",
+					"id": 344711657,
+					"id_str": "344711657",
+					"indices": [
+						187,
+						194
+					]
+				},
+				{
+					"screen_name": "dkuropatwa",
+					"name": "Darren Kuropatwa",
+					"id": 5634392,
+					"id_str": "5634392",
+					"indices": [
+						195,
+						206
+					]
+				},
+				{
+					"screen_name": "MikalB",
+					"name": "Michael Beilharz",
+					"id": 10691002,
+					"id_str": "10691002",
+					"indices": [
+						207,
+						214
+					]
+				},
+				{
+					"screen_name": "trdale",
+					"name": "Dale Truding",
+					"id": 165846413,
+					"id_str": "165846413",
+					"indices": [
+						215,
+						222
+					]
+				},
+				{
+					"screen_name": "HalHeard3rd",
+					"name": "Formerly Known as Principal Heard",
+					"id": 18320954,
+					"id_str": "18320954",
+					"indices": [
+						223,
+						235
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1022067875484459000,
+					"id_str": "1022067875484459008",
+					"indices": [
+						248,
+						271
+					],
+					"media_url": "http://pbs.twimg.com/media/Di8dUU6W4AAwgNL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Di8dUU6W4AAwgNL.jpg",
+					"url": "https://t.co/VAbD0ykuqX",
+					"display_url": "pic.twitter.com/VAbD0ykuqX",
+					"expanded_url": "https://twitter.com/BrianJMull/status/1022067883411689475/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 915,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 519,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1562,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1022067875484459000,
+					"id_str": "1022067875484459008",
+					"indices": [
+						248,
+						271
+					],
+					"media_url": "http://pbs.twimg.com/media/Di8dUU6W4AAwgNL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Di8dUU6W4AAwgNL.jpg",
+					"url": "https://t.co/VAbD0ykuqX",
+					"display_url": "pic.twitter.com/VAbD0ykuqX",
+					"expanded_url": "https://twitter.com/BrianJMull/status/1022067883411689475/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 915,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 519,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1562,
+							"resize": "fit"
+						}
+					}
+				}
+			]
 		},
 		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
 		"in_reply_to_status_id": null,
@@ -13609,20 +13728,20 @@ Grailbird.data.tweets_2018_07 =
 		"in_reply_to_user_id_str": null,
 		"in_reply_to_screen_name": null,
 		"user": {
-			"id": 5634392,
-			"id_str": "5634392",
-			"name": "Darren Kuropatwa",
-			"screen_name": "dkuropatwa",
-			"location": "Winnipeg, Manitoba, Canada",
-			"description": "Educator. Always in beta ∞β.",
-			"url": "https://t.co/FJEo2rIADF",
+			"id": 5667012,
+			"id_str": "5667012",
+			"name": "Brian Mull",
+			"screen_name": "BrianJMull",
+			"location": "New Orleans, LA",
+			"description": "Learning Design Coordinator - Trinity Episcopal School",
+			"url": "https://t.co/vA4ILbdhfN",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/FJEo2rIADF",
-							"expanded_url": "http://adifference.blogspot.com",
-							"display_url": "adifference.blogspot.com",
+							"url": "https://t.co/vA4ILbdhfN",
+							"expanded_url": "http://www.brianmull.com",
+							"display_url": "brianmull.com",
 							"indices": [
 								0,
 								23
@@ -13635,36 +13754,36 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 6795,
-			"friends_count": 2632,
-			"listed_count": 462,
-			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
-			"favourites_count": 395,
+			"followers_count": 3392,
+			"friends_count": 406,
+			"listed_count": 183,
+			"created_at": "Mon Apr 30 21:48:17 +0000 2007",
+			"favourites_count": 1963,
 			"utc_offset": null,
 			"time_zone": null,
-			"geo_enabled": false,
-			"verified": true,
-			"statuses_count": 24770,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8593,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
-			"profile_background_color": "9AE4E8",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_color": "132470",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
 			"profile_background_tile": true,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
-			"profile_link_color": "0000FF",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/488041714859245568/i8zl8SBs_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/488041714859245568/i8zl8SBs_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5667012/1405193269",
+			"profile_link_color": "396CB8",
 			"profile_sidebar_border_color": "FFFFFF",
-			"profile_sidebar_fill_color": "67CD67",
-			"profile_text_color": "000000",
+			"profile_sidebar_fill_color": "5C5C5C",
+			"profile_text_color": "272525",
 			"profile_use_background_image": true,
 			"has_extended_profile": true,
 			"default_profile": false,
 			"default_profile_image": false,
-			"following": false,
+			"following": true,
 			"follow_request_sent": false,
 			"notifications": false,
 			"translator_type": "none"
@@ -13673,120 +13792,25 @@ Grailbird.data.tweets_2018_07 =
 		"coordinates": null,
 		"place": null,
 		"contributors": null,
-		"retweeted_status": {
-			"created_at": "Wed Jul 25 10:35:47 +0000 2018",
-			"id": 1022067883411689500,
-			"id_str": "1022067883411689475",
-			"text": "Had the most amazing dinner with friends and an incredibly engaging and thoughtful group of students and teachers f… https://t.co/ag8xhmZOjG",
-			"truncated": true,
-			"entities": {
-				"hashtags": [],
-				"symbols": [],
-				"user_mentions": [],
-				"urls": [
-					{
-						"url": "https://t.co/ag8xhmZOjG",
-						"expanded_url": "https://twitter.com/i/web/status/1022067883411689475",
-						"display_url": "twitter.com/i/web/status/1…",
-						"indices": [
-							117,
-							140
-						]
-					}
-				]
-			},
-			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-			"in_reply_to_status_id": null,
-			"in_reply_to_status_id_str": null,
-			"in_reply_to_user_id": null,
-			"in_reply_to_user_id_str": null,
-			"in_reply_to_screen_name": null,
-			"user": {
-				"id": 5667012,
-				"id_str": "5667012",
-				"name": "Brian Mull",
-				"screen_name": "BrianJMull",
-				"location": "New Orleans, LA",
-				"description": "Learning Design Coordinator - Trinity Episcopal School",
-				"url": "https://t.co/vA4ILbdhfN",
-				"entities": {
-					"url": {
-						"urls": [
-							{
-								"url": "https://t.co/vA4ILbdhfN",
-								"expanded_url": "http://www.brianmull.com",
-								"display_url": "brianmull.com",
-								"indices": [
-									0,
-									23
-								]
-							}
-						]
-					},
-					"description": {
-						"urls": []
-					}
-				},
-				"protected": false,
-				"followers_count": 3472,
-				"friends_count": 401,
-				"listed_count": 182,
-				"created_at": "Mon Apr 30 21:48:17 +0000 2007",
-				"favourites_count": 1761,
-				"utc_offset": null,
-				"time_zone": null,
-				"geo_enabled": true,
-				"verified": false,
-				"statuses_count": 8419,
-				"lang": "en",
-				"contributors_enabled": false,
-				"is_translator": false,
-				"is_translation_enabled": false,
-				"profile_background_color": "132470",
-				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
-				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
-				"profile_background_tile": true,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/488041714859245568/i8zl8SBs_normal.jpeg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/488041714859245568/i8zl8SBs_normal.jpeg",
-				"profile_banner_url": "https://pbs.twimg.com/profile_banners/5667012/1405193269",
-				"profile_link_color": "396CB8",
-				"profile_sidebar_border_color": "FFFFFF",
-				"profile_sidebar_fill_color": "5C5C5C",
-				"profile_text_color": "272525",
-				"profile_use_background_image": true,
-				"has_extended_profile": true,
-				"default_profile": false,
-				"default_profile_image": false,
-				"following": true,
-				"follow_request_sent": false,
-				"notifications": false,
-				"translator_type": "none"
-			},
-			"geo": null,
-			"coordinates": null,
-			"place": null,
-			"contributors": null,
-			"is_quote_status": false,
-			"retweet_count": 3,
-			"favorite_count": 3,
-			"favorited": false,
-			"retweeted": true,
-			"possibly_sensitive": false,
-			"lang": "en"
-		},
 		"is_quote_status": false,
 		"retweet_count": 3,
-		"favorite_count": 0,
+		"favorite_count": 8,
 		"favorited": false,
 		"retweeted": true,
-		"lang": "en"
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Had the most amazing dinner with friends and an incredibly engaging and thoughtful group of students and teachers from Michigan. I'll enjoy watching their adventures this week. @sewilkie @RoyBPS @dkuropatwa @MikalB @trdale @HalHeard3rd #pceplearns https://t.co/VAbD0ykuqX"
 	},
 	{
 		"created_at": "Tue Jul 24 10:37:16 +0000 2018",
 		"id": 1021705872211406800,
 		"id_str": "1021705872211406848",
-		"text": "@glynbarritt @NLearning @globalearner @sewilkie @MindWise_CK @mscassidysclass You are missed Glyn.",
+		"full_text": "@glynbarritt @NLearning @globalearner @sewilkie @MindWise_CK @mscassidysclass You are missed Glyn.",
 		"truncated": false,
+		"display_text_range": [
+			78,
+			98
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -13833,7 +13857,7 @@ Grailbird.data.tweets_2018_07 =
 				},
 				{
 					"screen_name": "MindWise_CK",
-					"name": "Caitlin E. Krause",
+					"name": "Caitlin Krause",
 					"id": 23375706,
 					"id_str": "23375706",
 					"indices": [
@@ -13887,16 +13911,16 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 6798,
-			"friends_count": 2632,
-			"listed_count": 461,
+			"followers_count": 6835,
+			"friends_count": 2702,
+			"listed_count": 459,
 			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
-			"favourites_count": 395,
+			"favourites_count": 421,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 24769,
+			"statuses_count": 24915,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -13905,8 +13929,8 @@ Grailbird.data.tweets_2018_07 =
 			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": true,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
 			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
 			"profile_link_color": "0000FF",
 			"profile_sidebar_border_color": "FFFFFF",
@@ -13927,17 +13951,22 @@ Grailbird.data.tweets_2018_07 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 1,
+		"favorite_count": 2,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@glynbarritt @NLearning @globalearner @sewilkie @MindWise_CK @mscassidysclass You are missed Glyn."
 	},
 	{
 		"created_at": "Tue Jul 24 10:36:08 +0000 2018",
 		"id": 1021705585119645700,
 		"id_str": "1021705585119645696",
-		"text": "Looking forward to catching up! https://t.co/EYKBCikFAV",
+		"full_text": "Looking forward to catching up! https://t.co/EYKBCikFAV",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			31
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -13987,16 +14016,16 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 6798,
-			"friends_count": 2632,
-			"listed_count": 461,
+			"followers_count": 6835,
+			"friends_count": 2702,
+			"listed_count": 459,
 			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
-			"favourites_count": 395,
+			"favourites_count": 421,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 24769,
+			"statuses_count": 24915,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -14005,8 +14034,8 @@ Grailbird.data.tweets_2018_07 =
 			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": true,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
 			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
 			"profile_link_color": "0000FF",
 			"profile_sidebar_border_color": "FFFFFF",
@@ -14028,12 +14057,21 @@ Grailbird.data.tweets_2018_07 =
 		"is_quote_status": true,
 		"quoted_status_id": 1021421020924842000,
 		"quoted_status_id_str": "1021421020924841984",
+		"quoted_status_permalink": {
+			"url": "https://t.co/EYKBCikFAV",
+			"expanded": "https://twitter.com/mindwise_ck/status/1021421020924841984",
+			"display": "twitter.com/mindwise_ck/st…"
+		},
 		"quoted_status": {
 			"created_at": "Mon Jul 23 15:45:23 +0000 2018",
 			"id": 1021421020924842000,
 			"id_str": "1021421020924841984",
-			"text": "A week of building, learning, and connecting in community has begun! 🎉✨Thrilled for #BLC18 with @NLearning… https://t.co/kqRBDmn7ru",
-			"truncated": true,
+			"full_text": "A week of building, learning, and connecting in community has begun! 🎉✨Thrilled for #BLC18 with @NLearning @globalearner and 🌎 of friends! https://t.co/EpDBdHAF0O",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				138
+			],
 			"entities": {
 				"hashtags": [
 					{
@@ -14055,17 +14093,95 @@ Grailbird.data.tweets_2018_07 =
 							96,
 							106
 						]
+					},
+					{
+						"screen_name": "globalearner",
+						"name": "Alan November",
+						"id": 16695534,
+						"id_str": "16695534",
+						"indices": [
+							107,
+							120
+						]
 					}
 				],
-				"urls": [
+				"urls": [],
+				"media": [
 					{
-						"url": "https://t.co/kqRBDmn7ru",
-						"expanded_url": "https://twitter.com/i/web/status/1021421020924841984",
-						"display_url": "twitter.com/i/web/status/1…",
+						"id": 1021421017351245800,
+						"id_str": "1021421017351245824",
 						"indices": [
-							108,
-							131
-						]
+							139,
+							162
+						],
+						"media_url": "http://pbs.twimg.com/media/DizRAOlW0AALGV_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DizRAOlW0AALGV_.jpg",
+						"url": "https://t.co/EpDBdHAF0O",
+						"display_url": "pic.twitter.com/EpDBdHAF0O",
+						"expanded_url": "https://twitter.com/MindWise_CK/status/1021421020924841984/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 639,
+								"h": 319,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 639,
+								"h": 319,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 639,
+								"h": 319,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1021421017351245800,
+						"id_str": "1021421017351245824",
+						"indices": [
+							139,
+							162
+						],
+						"media_url": "http://pbs.twimg.com/media/DizRAOlW0AALGV_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DizRAOlW0AALGV_.jpg",
+						"url": "https://t.co/EpDBdHAF0O",
+						"display_url": "pic.twitter.com/EpDBdHAF0O",
+						"expanded_url": "https://twitter.com/MindWise_CK/status/1021421020924841984/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 639,
+								"h": 319,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 639,
+								"h": 319,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 639,
+								"h": 319,
+								"resize": "fit"
+							}
+						}
 					}
 				]
 			},
@@ -14078,10 +14194,10 @@ Grailbird.data.tweets_2018_07 =
 			"user": {
 				"id": 23375706,
 				"id_str": "23375706",
-				"name": "Caitlin E. Krause",
+				"name": "Caitlin Krause",
 				"screen_name": "MindWise_CK",
-				"location": "Zürich 🇨🇭 & Boston 🇺🇸",
-				"description": "immersive story. design. mindfulness. #MindWise creative leadership design VR AR AI empathic edtech globalized #curiouscollab #robotmeetshuman #mindfulbydesign",
+				"location": "Zürich 🇨🇭 • NYC 🇺🇸",
+				"description": "immersive story. design. mindfulness. #MindWise connection and wise leadership with AI VR AR in mind #AIforGood #MindfulbyDesign",
 				"url": "https://t.co/tgbNzs72s1",
 				"entities": {
 					"url": {
@@ -14102,16 +14218,16 @@ Grailbird.data.tweets_2018_07 =
 					}
 				},
 				"protected": false,
-				"followers_count": 2796,
-				"friends_count": 3025,
-				"listed_count": 335,
+				"followers_count": 2971,
+				"friends_count": 3344,
+				"listed_count": 342,
 				"created_at": "Mon Mar 09 00:16:54 +0000 2009",
-				"favourites_count": 7143,
+				"favourites_count": 8004,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": false,
-				"statuses_count": 8431,
+				"statuses_count": 8812,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -14120,8 +14236,8 @@ Grailbird.data.tweets_2018_07 =
 				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
 				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
 				"profile_background_tile": false,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/939653405932380160/mq9pKtKq_normal.jpg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/939653405932380160/mq9pKtKq_normal.jpg",
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1049998769662676994/owLwf2uE_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1049998769662676994/owLwf2uE_normal.jpg",
 				"profile_banner_url": "https://pbs.twimg.com/profile_banners/23375706/1512866473",
 				"profile_link_color": "0020C2",
 				"profile_sidebar_border_color": "FFFFFF",
@@ -14174,26 +14290,31 @@ Grailbird.data.tweets_2018_07 =
 			},
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 5,
-			"favorite_count": 22,
+			"retweet_count": 6,
+			"favorite_count": 33,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
 			"lang": "en"
 		},
 		"retweet_count": 0,
-		"favorite_count": 1,
+		"favorite_count": 2,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Looking forward to catching up! https://t.co/EYKBCikFAV"
 	},
 	{
 		"created_at": "Tue Jul 17 01:30:42 +0000 2018",
 		"id": 1019031608790339600,
 		"id_str": "1019031608790339584",
-		"text": "Anki - powerful, intelligent flashcards https://t.co/tY41mu0Lrr",
+		"full_text": "Anki - powerful, intelligent flashcards https://t.co/tY41mu0Lrr",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -14243,16 +14364,16 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 6797,
-			"friends_count": 2630,
-			"listed_count": 461,
+			"followers_count": 6835,
+			"friends_count": 2702,
+			"listed_count": 459,
 			"created_at": "Sun Apr 29 16:11:17 +0000 2007",
-			"favourites_count": 394,
+			"favourites_count": 421,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 24767,
+			"statuses_count": 24915,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -14261,8 +14382,8 @@ Grailbird.data.tweets_2018_07 =
 			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": true,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274402174/dkuropatwaGuitar_normal.jpg",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1023608435013771265/zRT8t_9Z_normal.jpg",
 			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5634392/1399343584",
 			"profile_link_color": "0000FF",
 			"profile_sidebar_border_color": "FFFFFF",
@@ -14287,6 +14408,7 @@ Grailbird.data.tweets_2018_07 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Anki - powerful, intelligent flashcards https://t.co/tY41mu0Lrr"
 	}
 ]
